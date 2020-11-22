@@ -1,21 +1,43 @@
 const fs = require('fs')
+const chalk = require('chalk')
 const phantomas = require('phantomas')
 const pageData = require('./src/pages.json')
 
 const INPUT_FILE = './pages.txt'
 const OUTPUT_FILE = './src/pages.json'
 const RECHECK_THRESHOLD = 60*60*24*7*1000 // recheck pages older than 1 week
+const REJECT_THRESHOLD = 256000
 
-function calcWeights (url, metrics) {
-  const m = metrics
+const LOGGING_PREFIXES = {
+  info: `[${chalk.bold.white('II')}]`,
+  warn: `[${chalk.bold.yellow('WW')}]`,
+  error: `[${chalk.bold.red('EE')}]`,
+  debug: `[${chalk.bold.white('DD')}]`,
+}
+
+function log (level='info') {
+  const args = [...arguments].slice(1)
+  let prefix = LOGGING_PREFIXES[level]
+  console.log(prefix, ...args)
+}
+function info () { log('info', ...arguments) }
+function warn () { log('warn', ...arguments) }
+function error () { log('error', ...arguments) }
+function debug () { log('debug', ...arguments) }
+
+function calcWeights (url, m) {
   const extraWeight = m.cssSize + m.jsSize + m.webfontSize + m.otherSize
   const contentWeight = m.htmlSize + m.jsonSize + m.imageSize + m.base64Size + m.videoSize
+
+  if (m.contentSize > REJECT_THRESHOLD) {
+    warn(url, 'oversized by', m.contentSize - REJECT_THRESHOLD)
+  }
 
   return { url, contentWeight, extraWeight, stamp: Date.now() }
 }
 
 async function generateMetrics (urls) {
-  console.debug('Checking', urls)
+  debug('Checking', urls)
   const metricsList = []
   const keyedPageData = pageData.reduce((acc, page) => {
     // stores url/stamp pairs to decide for recheck
@@ -28,24 +50,25 @@ async function generateMetrics (urls) {
   for (const url of urls) {
     if (knownURLs.indexOf(url) >= 0) {
       if (now - keyedPageData[url].stamp < RECHECK_THRESHOLD) {
-        console.debug('skipping known URL', url)
+        debug('skipping known URL', url)
         metricsList.push(keyedPageData[url]) // push old data to list
         continue
       }
     }
     try {
-      console.debug('fetching and analyzing', url)
+      debug('fetching and analyzing', url)
       const results = await phantomas(url)
-      metricsList.push(calcWeights(url, results.getMetrics()))
+      const weights = calcWeights(url, results.getMetrics())
+      metricsList.push(weights) // TODO: what to do with oversized pages?
     } catch(error) {
-      console.error(`failed to analyze ${url}`, error)
+      error(`failed to analyze ${url}`, error)
     }
   }
 
   try {
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(metricsList))
   } catch (err) {
-    console.error(`ERROR: failed to write results to ${OUTPUT_FILE}`, err)
+    error(`failed to write results to ${OUTPUT_FILE}`, err)
   }
 }
 
@@ -54,5 +77,5 @@ try {
   const urls = rawString.split('\n').filter(line => line.startsWith('http'))
   generateMetrics(urls)
 } catch (err) {
-  console.error(`ERROR: failed to read page list from ${INPUT_FILE}`, err)
+  error(`failed to read page list from ${INPUT_FILE}`, err)
 }

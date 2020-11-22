@@ -4,12 +4,14 @@
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
-    "start": "sirv public"
+    "start": "sirv public",
+    "upload": "scp -r public/* 250kb.club:/srv/http/250kb.club/"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^14.0.0",
     "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-node-resolve": "^8.0.0",
+    "chalk": "^4.1.0",
     "phantomas": "^2.0.0",
     "rollup": "^2.3.4",
     "rollup-plugin-livereload": "^2.0.0",
