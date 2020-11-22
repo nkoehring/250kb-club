@@ -1,31 +1,33 @@
-import svelte from 'rollup-plugin-svelte';
-import resolve from '@rollup/plugin-node-resolve';
-import commonjs from '@rollup/plugin-commonjs';
-import json from '@rollup/plugin-json';
-import livereload from 'rollup-plugin-livereload';
-import { terser } from 'rollup-plugin-terser';
+import svelte from 'rollup-plugin-svelte'
+import resolve from '@rollup/plugin-node-resolve'
+import commonjs from '@rollup/plugin-commonjs'
+import json from '@rollup/plugin-json'
+import livereload from 'rollup-plugin-livereload'
+import { terser } from 'rollup-plugin-terser'
+import { emptyDirectories, htmlInjector } from 'rollup-plugin-app-utils'
 
-const isProduction = !process.env.ROLLUP_WATCH;
+const isProduction = !process.env.ROLLUP_WATCH
+const timeStamp = Date.now()
 
 function serve() {
-	let server;
+	let server
 
 	function toExit() {
-		if (server) server.kill(0);
+		if (server) server.kill(0)
 	}
 
 	return {
 		writeBundle() {
-			if (server) return;
+			if (server) return
 			server = require('child_process').spawn('npm', ['run', 'start', '--', '--dev'], {
 				stdio: ['ignore', 'inherit', 'inherit'],
 				shell: true
-			});
+			})
 
-			process.on('SIGTERM', toExit);
-			process.on('exit', toExit);
+			process.on('SIGTERM', toExit)
+			process.on('exit', toExit)
 		}
-	};
+	}
 }
 
 export default {
@@ -37,14 +39,15 @@ export default {
 		file: 'public/build/bundle.js'
 	},
 	plugins: [
+		emptyDirectories('./public/build/'),
 		svelte({
 			// enable run-time checks when not in production
 			dev: !isProduction,
 			// we'll extract any component CSS out into
 			// a separate file - better for performance
-			css: css => {
-				css.write('bundle.css');
-			}
+			// css: css => {
+			//	css.write('bundle.css')
+			//}
 		}),
 
 		// If you have external dependencies installed from
@@ -57,6 +60,12 @@ export default {
 			dedupe: ['svelte']
 		}),
 		commonjs(),
+
+		htmlInjector({
+			template: './src/template.html',
+			target: './public/index.html',
+			injects: { timeStamp },
+		}),
 
 		json({
 			exclude: ['node_modules/**'],
@@ -80,4 +89,4 @@ export default {
 	watch: {
 		clearScreen: false
 	}
-};
+}
