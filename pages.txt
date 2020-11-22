@@ -1,0 +1,14 @@
+One URL per line.
+Lines that don't start with http:// or https://, as well as duplicates are ignored.
+
+https://koehr.in
+https://koehr.tech
+https://sjmulder.nl
+http://cyberia.host
+https://text.npr.org
+https://playerone.kevincox.ca
+https://dotfilehub.com
+https://manpages.bsd.lv
+https://danluu.com
+https://gtf.io
+http://minid.net
