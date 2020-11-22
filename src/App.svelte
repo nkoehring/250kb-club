@@ -37,15 +37,17 @@
   function toggleInfo () { showInfoPopup = !showInfoPopup }
 </script>
 
-<header>
-  Sort by:
-  <select bind:value={sortParam}>
-    {#each sortParameters as param}
-    <option value={param}>content-{param}</option>
-    {/each}
-  </select>
-  <button class="float-right" on:click={toggleInfo}>{showInfoPopup ? 'x' : 'How does this work?'}</button>
-</header>
+<aside>
+  <div>
+    Sort by:
+    <select bind:value={sortParam}>
+      {#each sortParameters as param}
+      <option value={param}>content-{param}</option>
+      {/each}
+    </select>
+  </div>
+  <button class="info-toggle" on:click={toggleInfo}>{showInfoPopup ? 'x' : 'How does this work?'}</button>
+</aside>
 
 {#if showInfoPopup}
 <InfoPopup />

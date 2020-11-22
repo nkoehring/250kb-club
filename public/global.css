@@ -9,6 +9,13 @@ body {
 h1 {
   font-size: 2.2em;
   line-height: 1.2;
+  letter-spacing: 6px;
+  text-align: center;
+  margin-top: 1.2em;
+}
+
+p {
+  text-align: justify;
 }
 
 body>header,main,body>footer {
@@ -28,7 +35,6 @@ a,a:visited {
 }
 
 select, button {
-  margin: 0 .5em;
   padding: .25em .5em;
   border: 2px solid gray;
   background: none;
@@ -91,10 +97,15 @@ li {
   width: var(--ratio);
 }
 
-.float-right {
-  float: right;
+aside {
+  display: flex;
+  flex-flow: row break;
+  justify-content: space-between;
 }
 
 @media (prefers-color-scheme: dark) {
   body { background:  #222; color: white; }
+}
+
+@media (max-width: 420px) {
 }
