@@ -12,3 +12,4 @@ https://manpages.bsd.lv
 https://danluu.com
 https://gtf.io
 http://minid.net
+https://richj.co
