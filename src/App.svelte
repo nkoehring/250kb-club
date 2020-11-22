@@ -3,19 +3,24 @@
   import Link from './Link.svelte'
   import data from './pages.json'
 
+  const rejectThreshold = 256000
+
   const yellowSizeThreshhold = 200
   const redSizeThreshhold = 225
 
   const yellowRatioThreshhold = 50
   const redRatioThreshhold = 25
 
-  const pages = data.map(page => {
-    const totalWeigth = page.contentWeight + page.extraWeight
-    const size = Math.round(totalWeigth / 1024)
-    const ratio = Math.round(page.contentWeight * 100 / totalWeigth)
+  const pages = data.reduce((acc, page) => {
+    const totalWeight = page.contentWeight + page.extraWeight
+    if (totalWeight > rejectThreshold) return acc
 
-    return { url: page.url, size, ratio }
-  })
+    const size = Math.round(totalWeight / 1024)
+    const ratio = Math.round(page.contentWeight * 100 / totalWeight)
+
+    acc.push({ url: page.url, size, ratio })
+    return acc
+  }, [])
 
   const sortParameters = ['size', 'ratio']
   let sortParam = sortParameters[0]
