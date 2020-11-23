@@ -10,7 +10,7 @@ I love the idea of a list of webpages that are still reasonably usable with a sl
 
 ## Adding a web page
 
-Please add a PR in Github that adds a page to `src/pages.json`. If unsure, you can also write an issue mentioning the website. The website will be added after passing the review.
+Please send a patch or pull request. If unsure, you can also write a ticket mentioning the website(s). The website(s) will be added after passing the review.
 
 ## What are those values?
 
