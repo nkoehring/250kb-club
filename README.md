@@ -17,7 +17,7 @@ Please send a patch or pull request. If unsure, you can also write a ticket ment
 The values shown in the list are URL, Total Weight, Content Ratio.
 
 Websites listed here are downloaded and analyzed with
-(Phantomas)[https://github.com/macbre/phantomas].
+[Phantomas](https://github.com/macbre/phantomas).
 The total weight is counted and then the size of actual content is measured
 and shown as a ratio.
 
@@ -31,8 +31,9 @@ pretty good already.
 
 This page is built with [Svelte](https://svelte.dev). You can clone the repository and run the application in development mode like this:
 
-```
-git clone https://github.com/nkoehring/250kb-club.git
+```sh
+git clone https://git.sr.ht/~koehr/the-250kb-club 250kb-club
+# or: git clone https://github.com/nkoehring/250kb-club.git
 cd 250kb-club
 yarn
 yarn dev
@@ -41,4 +42,4 @@ yarn dev
 And build the page with `yarn build`.
 
 The website analysis is done by `compile-list.js` which reads `pages.txt` and
-writes the results to `src/pages.json`.
+writes the results to `src/pages.json`. `pages.txt` is curated by hand.
