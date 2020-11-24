@@ -60,8 +60,8 @@ async function generateMetrics (urls) {
       const results = await phantomas(url)
       const weights = calcWeights(url, results.getMetrics())
       metricsList.push(weights) // TODO: what to do with oversized pages?
-    } catch(error) {
-      error(`failed to analyze ${url}`, error)
+    } catch(err) {
+      error(`failed to analyze ${url}`, err)
     }
   }
 
