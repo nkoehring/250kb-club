@@ -97,7 +97,7 @@ http://www.p01.org/
 https://concise-encoding.org/
 http://gerikson.com/hnlo/
 http://gerikson.com/
-https://dustri.org
+https://www.dustri.org
 https://leonardschuetz.ch/
 https://lambdapapers.com
 http://cetacean.club/
