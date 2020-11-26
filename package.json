@@ -1,27 +1,15 @@
 {
-  "name": "250kb-club",
-  "version": "0.1.0",
-  "scripts": {
-    "build": "rollup -c",
-    "dev": "rollup -c -w",
-    "start": "sirv public",
-    "update-pages": "node ./scripts/refresh-pages.js"
-  },
-  "devDependencies": {
-    "@rollup/plugin-commonjs": "^14.0.0",
-    "@rollup/plugin-json": "^4.1.0",
-    "@rollup/plugin-node-resolve": "^8.0.0",
-    "chalk": "^4.1.0",
-    "phantomas": "^2.0.0",
-    "rollup": "^2.3.4",
-    "rollup-plugin-app-utils": "^1.0.6",
-    "rollup-plugin-hash": "^1.3.0",
-    "rollup-plugin-livereload": "^2.0.0",
-    "rollup-plugin-svelte": "^6.0.0",
-    "rollup-plugin-terser": "^7.0.0",
-    "svelte": "^3.0.0"
-  },
-  "dependencies": {
-    "sirv-cli": "^1.0.0"
-  }
+	"name": "the-250kb-club",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "svelte dev",
+		"build": "svelte build"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-node": "0.0.14",
+		"@sveltejs/adapter-static": "^0.0.14",
+		"@sveltejs/kit": "0.0.25",
+		"@sveltejs/snowpack-config": "0.0.5",
+		"svelte": "^3.29.0"
+	}
 }

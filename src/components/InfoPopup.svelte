@@ -2,6 +2,12 @@
   import Link from './Link.svelte'
 </script>
 
+<input id="info-toggle" type="checkbox" />
+<label for="info-toggle">
+  <span class="info-text">How does this work?</span>
+  <span class="info-close"> &nbsp;x&nbsp; </span>
+</label>
+
 <article id="info-popup">
   <header>
     <h1>Technical Details</h1>
@@ -28,3 +34,28 @@
     hopefully be fixed soon.
   </p>
 </article>
+
+<style>
+#info-toggle { display: none; }
+#info-toggle ~ label { text-align: center; }
+#info-toggle ~ label > .info-close { display: none; }
+#info-toggle:checked ~ label > .info-close { display: inline; }
+#info-toggle:checked ~ label > .info-text { display: none; }
+
+#info-popup {
+  display: none;
+  position: absolute;
+  top: 2.5em;
+  left: -1em;
+  width: calc(720px - 2em - 6px);
+  max-width: calc(100vw - 2em - 6px);
+  padding: 0 1em;
+  background: #FFF;
+  border: 3px solid #DDD;
+}
+#info-toggle:checked ~ #info-popup { display: block; }
+
+@media (prefers-color-scheme: dark) {
+  #info-popup { background: #000; border-color: #444; }
+}
+</style>

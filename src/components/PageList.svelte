@@ -1,17 +1,15 @@
 <script>
-  import InfoPopup from './InfoPopup.svelte'
-  import Link from './Link.svelte'
-  import data from './pages.json'
+  import Link from '$components/Link.svelte'
+  import pageData from '$components/pages.js'
 
+  export let sortParam
   const rejectThreshold = 256000
-
   const yellowSizeThreshhold = 200
-  const redSizeThreshhold = 225
-
   const yellowRatioThreshhold = 50
+  const redSizeThreshhold = 225
   const redRatioThreshhold = 25
 
-  const pages = data.reduce((acc, page) => {
+  const pages = pageData.reduce((acc, page) => {
     const totalWeight = page.contentWeight + page.extraWeight
     if (totalWeight > rejectThreshold) return acc
 
@@ -22,36 +20,14 @@
     return acc
   }, [])
 
-  const sortParameters = ['size', 'ratio']
-  let sortParam = sortParameters[0]
-  let showInfoPopup = false
-
   $: sortedPages = pages.sort((a, b) => {
     return sortParam === 'size' ? a.size - b.size : b.ratio - a.ratio
   })
 
   function stripped (url) {
-    return url.replaceAll(/(^https?:\/\/|\/$)/g, '')
+    return url.replace(/(^https?:\/\/|\/$)/g, '')
   }
-
-  function toggleInfo () { showInfoPopup = !showInfoPopup }
 </script>
-
-<aside>
-  <div>
-    Sort by:
-    <select bind:value={sortParam}>
-      {#each sortParameters as param}
-      <option value={param}>content-{param}</option>
-      {/each}
-    </select>
-  </div>
-  <button class="info-toggle" on:click={toggleInfo}>{showInfoPopup ? 'x' : 'How does this work?'}</button>
-</aside>
-
-{#if showInfoPopup}
-<InfoPopup />
-{/if}
 
 <ol>
   {#each sortedPages as page}
@@ -76,3 +52,44 @@
   </li>
   {/each}
 </ol>
+
+<style>
+.entry {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  padding: .5em .5em 0;
+  height: 2em;
+  line-height: 2em;
+  font-size: 1.3em;
+}
+
+.entry > .url {
+  flex: 1 1 auto;
+  width: 60%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.entry > .size, .entry > .ratio {
+  flex: 0 0 auto;
+  width: 20%;
+  text-align: right;
+}
+
+.entry-size-bar, .entry-ratio-bar {
+  height: 0;
+  margin-bottom: 2px;
+  border-bottom: 2px solid;
+}
+.entry-size-bar.highlighted, .entry-ratio-bar.highlighted {
+  border-bottom-width: 4px;
+}
+.entry-size-bar {
+  border-bottom-color: #966;
+  width: calc(var(--size)/250 * 100%);
+}
+.entry-ratio-bar {
+  border-bottom-color: #669;
+  width: var(--ratio);
+}
+</style>
