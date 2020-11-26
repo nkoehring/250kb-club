@@ -1,10 +1,10 @@
-const fs = require('fs')
-const chalk = require('chalk')
-const phantomas = require('phantomas')
-const pageData = require('./src/pages.json')
+import fs from 'fs'
+import chalk from 'chalk'
+import phantomas from 'phantomas'
+import pageData from './src/components/pages.mjs'
 
 const INPUT_FILE = './pages.txt'
-const OUTPUT_FILE = './src/pages.json'
+const OUTPUT_FILE = './src/components/pages.mjs'
 const RECHECK_THRESHOLD = 60*60*24*7*1000 // recheck pages older than 1 week
 const REJECT_THRESHOLD = 256000
 
@@ -66,7 +66,8 @@ async function generateMetrics (urls) {
   }
 
   try {
-    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(metricsList))
+    // TODO: poor mans JSON to JS converter?
+    fs.writeFileSync(OUTPUT_FILE, 'export default ' + JSON.stringify(metricsList))
   } catch (err) {
     error(`failed to write results to ${OUTPUT_FILE}`, err)
   }

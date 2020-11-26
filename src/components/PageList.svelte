@@ -1,6 +1,6 @@
 <script>
   import Link from '$components/Link.svelte'
-  import pageData from '$components/pages.js'
+  import pageData from '$components/pages.mjs'
 
   export let sortParam
   const rejectThreshold = 256000
