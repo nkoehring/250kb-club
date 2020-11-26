@@ -1,6 +1,6 @@
 #!/bin/sh
 
-node ./compile-list.js &&
+node ./compile-list.mjs &&
 yarn build &&
 scp -r build/* 250kb.club:/srv/http/250kb.club/ &&
 git commit -am 'updates URLs' &&
