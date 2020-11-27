@@ -85,11 +85,11 @@
   border-bottom-width: 4px;
 }
 .entry-size-bar {
-  border-bottom-color: #966;
+  border-bottom-color: #E44;
   width: calc(var(--size)/250 * 100%);
 }
 .entry-ratio-bar {
-  border-bottom-color: #669;
+  border-bottom-color: #56B;
   width: var(--ratio);
 }
 </style>
