@@ -42,4 +42,4 @@ yarn dev
 And build the page with `yarn build`.
 
 The website analysis is done by `compile-list.js` which reads `pages.txt` and
-writes the results to `src/pages.json`. `pages.txt` is curated by hand.
+writes the results to `src/components/pages.mjs`. `pages.txt` is curated by hand.
