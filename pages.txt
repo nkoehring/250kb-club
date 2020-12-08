@@ -155,3 +155,5 @@ http://werc.cat-v.org/
 https://suckless.org/
 https://mikegerwitz.com/
 https://xpil.eu/
+https://midnight.pub/
+https://shazow.net/
