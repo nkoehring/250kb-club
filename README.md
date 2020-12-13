@@ -8,9 +8,11 @@ Inspired by [Bredley Taunts 1MB.club](https://1mb.club/).
 
 I love the idea of a list of webpages that are still reasonably usable with a slow internet connection. But 1MB is, in my honest opinion, still way too much. Nobody wants to wait 10 seconds — on good days — to load a web site. But a very large chunk of the world population isn't gifted with Gigabit internet connections.
 
+Of course, the absolute size of a website is not a perfect indicator. A page might contain a lot of text or images as important part of their content. It would be unfair to call them bloated in this case. This is why, additionally to the absolute size the ratio of visible to invisible content is shown as well.
+
 ## Adding a web page
 
-Please send a patch or pull request. If unsure, you can also write a ticket mentioning the website(s). The website(s) will be added after passing the review.
+Please send a patch or pull request. If unsure, you can also write a ticket mentioning the website(s). The website(s) will be added after passing the review and measured for changes about once every week.
 
 ## What are those values?
 

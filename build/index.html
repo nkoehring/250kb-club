@@ -24,11 +24,15 @@
       margin: 3em auto;
     }
     h1 {
-      font-size: 2.2em;
-      line-height: 1.2;
+      font: small-caps bold 2.2em/1.4 sans-serif;
       letter-spacing: 6px;
       text-align: center;
       margin-top: 1.2em;
+    }
+    h2 {
+      font: small-caps bold 2.0em/1.4 sans-serif;
+      letter-spacing: 5px;
+      text-align: center;
     }
     p {
       text-align: justify;
@@ -67,15 +71,15 @@
   </style>
   
 
-	<link rel="modulepreload" href="/_app/entry-527c919f.js">
-	<link rel="modulepreload" href="/_app/navigation-d3a4c039.js">
-	<link rel="modulepreload" href="/_app/index-2d5bf15b.js">
+	<link rel="modulepreload" href="/_app/entry-830e54b9.js">
+	<link rel="modulepreload" href="/_app/navigation-9773ff3c.js">
+	<link rel="modulepreload" href="/_app/index-e83dcb06.js">
 	<link rel="modulepreload" href="/_app/inject_styles-cd877ae9.js">
 	<link rel="stylesheet" href="/_app/index-edfdf87b.css">
 	
 
 	<script type="module">
-		import { start } from '/_app/entry-527c919f.js';
+		import { start } from '/_app/entry-830e54b9.js';
 
 		start({
 			target: document.body
@@ -87,15 +91,15 @@
 
 
 <header><h1>The 250kb Club</h1>
-  <p>The WWW has become a bloated mess. Many pages are loading megabytes of Javascript to show you a few kilobytes of content.
-    These things are a <strong>cancerous growth</strong> on the web and we should stand up against it.
-  </p>
-  <p>We can make a difference - no matter how small it may seem. The <em>250kb Club</em> is a collection of web pages that focus on performance, efficiency and accessibility.</p>
-  <p>If you&#39;d like to suggest a web page to add to this collection, open a ticket on
-    <a href="https://github.com/nkoehring/250kb-club" rel="noopener" target="_blank">Github</a>
+  <h2><a href="https://mobiforge.com/research-analysis/the-web-is-doom" rel="noopener" target="_blank">The Web Is Doom</a></h2>
+  <p>Lets do something about it!</p>
+  <p>The <em>250kb Club</em> is a collection of web pages that focus on performance, efficiency and accessibility.</p>
+  <p>Suggest a web page for this collection
+    <a href="https://todo.sr.ht/~koehr/the-250kb-club/" rel="noopener" target="_blank">via Sourcehut</a>
     or
-    <a href="https://sr.ht/~koehr/the-250kb-club/" rel="noopener" target="_blank">Sourcehut</a>.
+    <a href="https://github.com/nkoehring/250kb-club/issues/new" rel="noopener" target="_blank">via Github</a>.
     The site will be reviewed and, if applicable, added to the list below.
+    Pages are re-checked weekly.
   </p>
   <p>If your pages exceeds 250kb, you might consider <a href="https://1MB.club" rel="noopener" target="_blank">1MB.club</a> which is the inspiration for this page.</p></header>
 
@@ -106,7 +110,8 @@
   <span class="info-close svelte-nu5fg0"> x  </span></label>
 
 <article id="info-popup" class="svelte-nu5fg0"><header><h1>Technical Details</h1></header>
-  <p>The values shown in the list are URL, Total Weight, Content Ratio.
+  <p>The values shown in the list are URL, Total Weight, Content Ratio and are
+    updated weekly.
   </p>
   <p>Websites listed here are downloaded and analyzed with
     <a href="https://github.com/macbre/phantomas" rel="noopener" target="_blank">Phantomas</a>.

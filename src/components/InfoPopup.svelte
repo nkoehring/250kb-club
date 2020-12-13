@@ -13,7 +13,8 @@
     <h1>Technical Details</h1>
   </header>
   <p>
-    The values shown in the list are URL, Total Weight, Content Ratio.
+    The values shown in the list are URL, Total Weight, Content Ratio and are
+    updated weekly.
   </p>
   <p>
     Websites listed here are downloaded and analyzed with
