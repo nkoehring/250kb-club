@@ -65,21 +65,24 @@
     .hidden {
       visibility: hidden;
     }
+    .big {
+      font-size: 1.5em;
+    }
     @media (prefers-color-scheme: dark) {
       body { background:  #222; color: white; }
     }
   </style>
   
 
-	<link rel="modulepreload" href="/_app/entry-9bb94845.js">
-	<link rel="modulepreload" href="/_app/navigation-c6abc050.js">
-	<link rel="modulepreload" href="/_app/index-626d1af4.js">
+	<link rel="modulepreload" href="/_app/entry-38fcb724.js">
+	<link rel="modulepreload" href="/_app/navigation-27c01f0e.js">
+	<link rel="modulepreload" href="/_app/index-edbdd304.js">
 	<link rel="modulepreload" href="/_app/inject_styles-cd877ae9.js">
 	<link rel="stylesheet" href="/_app/index-edfdf87b.css">
 	
 
 	<script type="module">
-		import { start } from '/_app/entry-9bb94845.js';
+		import { start } from '/_app/entry-38fcb724.js';
 
 		start({
 			target: document.body
@@ -91,17 +94,28 @@
 
 
 <header><h1>The 250kb Club</h1>
-  <h2><a href="https://mobiforge.com/research-analysis/the-web-is-doom" rel="noopener" target="_blank">The Web Is Doom</a></h2>
+  <h2><a href="https://mobiforge.com/research-analysis/the-web-is-doom" rel="noopener" target="_blank">The Web Is Doom
+    </a></h2>
   <p>Lets do something about it!</p>
-  <p>The <em>250kb Club</em> is a collection of web pages that focus on performance, efficiency and accessibility.</p>
-  <p>Suggest a web page for this collection
+  <p>The <em>250kb Club</em> is a collection of web pages that focus on
+    performance, efficiency and accessibility.
+  </p>
+  <p class="big">Websites in this list must not exceed 256kb <em>compressed</em> size!</p>
+  <p>Yes, compressed size. It makes much more sense because it allows
+    for a lot of text to be transferred without having a big impact on the
+    total size, while the impact of media is basically unaffected.
+  </p>
+  <p>If your pages exceeds 250kb, you might consider
+    <a href="https://512kb.club" rel="noopener" target="_blank">512kB.club</a> or
+    <a href="https://1MB.club" rel="noopener" target="_blank">1MB.club</a>.
+  </p>
+  <p>You can suggest a web page for this collection
     <a href="https://todo.sr.ht/~koehr/the-250kb-club/" rel="noopener" target="_blank">via Sourcehut</a>
     or
     <a href="https://github.com/nkoehring/250kb-club/issues/new" rel="noopener" target="_blank">via Github</a>.
     The site will be reviewed and, if applicable, added to the list below.
-    Pages are re-checked weekly.
-  </p>
-  <p>If your pages exceeds 250kb, you might consider <a href="https://1MB.club" rel="noopener" target="_blank">1MB.club</a> which is the inspiration for this page.</p></header>
+    Pages are checked again every week.
+  </p></header>
 
 <main id="members-table"><aside><div class="hidden">Sort by:
       <select value="size"><option value="size">content-size</option><option value="ratio">content-ratio</option></select></div>
@@ -150,11 +164,6 @@
       <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:2;--ratio:38%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://dotfilehub.com" rel="noopener" target="_blank">dotfilehub.com</a></span>
-      <span class="size svelte-2ysuep">2kb</span>
-      <span class="ratio svelte-2ysuep">38%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep   red"></div>
   </li><li style="--size:2;--ratio:51%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://kunalmarwaha.com/" rel="noopener" target="_blank">kunalmarwaha.com</a></span>
       <span class="size svelte-2ysuep">2kb</span>
       <span class="ratio svelte-2ysuep">51%</span></div>
@@ -205,14 +214,19 @@
       <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:3;--ratio:39%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://dotfilehub.com" rel="noopener" target="_blank">dotfilehub.com</a></span>
+      <span class="size svelte-2ysuep">3kb</span>
+      <span class="ratio svelte-2ysuep">39%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep   red"></div>
   </li><li style="--size:3;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://danluu.com" rel="noopener" target="_blank">danluu.com</a></span>
       <span class="size svelte-2ysuep">3kb</span>
       <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:3;--ratio:72%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://seirdy.one" rel="noopener" target="_blank">seirdy.one</a></span>
+  </li><li style="--size:3;--ratio:75%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://seirdy.one" rel="noopener" target="_blank">seirdy.one</a></span>
       <span class="size svelte-2ysuep">3kb</span>
-      <span class="ratio svelte-2ysuep">72%</span></div>
+      <span class="ratio svelte-2ysuep">75%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:3;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://unix.lgbt/" rel="noopener" target="_blank">unix.lgbt</a></span>
@@ -235,31 +249,21 @@
       <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:3;--ratio:77%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://funnylookinhat.com/" rel="noopener" target="_blank">funnylookinhat.com</a></span>
+  </li><li style="--size:3;--ratio:78%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://funnylookinhat.com/" rel="noopener" target="_blank">funnylookinhat.com</a></span>
       <span class="size svelte-2ysuep">3kb</span>
-      <span class="ratio svelte-2ysuep">77%</span></div>
+      <span class="ratio svelte-2ysuep">78%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:4;--ratio:43%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://playerone.kevincox.ca" rel="noopener" target="_blank">playerone.kevincox.ca</a></span>
-      <span class="size svelte-2ysuep">4kb</span>
-      <span class="ratio svelte-2ysuep">43%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep   red"></div>
   </li><li style="--size:4;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="http://minid.net" rel="noopener" target="_blank">minid.net</a></span>
       <span class="size svelte-2ysuep">4kb</span>
       <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:4;--ratio:52%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://richj.co" rel="noopener" target="_blank">richj.co</a></span>
+  </li><li style="--size:4;--ratio:54%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://richj.co" rel="noopener" target="_blank">richj.co</a></span>
       <span class="size svelte-2ysuep">4kb</span>
-      <span class="ratio svelte-2ysuep">52%</span></div>
+      <span class="ratio svelte-2ysuep">54%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:4;--ratio:49%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://lawzava.com" rel="noopener" target="_blank">lawzava.com</a></span>
-      <span class="size svelte-2ysuep">4kb</span>
-      <span class="ratio svelte-2ysuep">49%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep   red"></div>
   </li><li style="--size:4;--ratio:56%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://plumebio.com" rel="noopener" target="_blank">plumebio.com</a></span>
       <span class="size svelte-2ysuep">4kb</span>
       <span class="ratio svelte-2ysuep">56%</span></div>
@@ -275,14 +279,9 @@
       <span class="ratio svelte-2ysuep">43%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep   red"></div>
-  </li><li style="--size:5;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://motherfuckingwebsite.com/" rel="noopener" target="_blank">motherfuckingwebsite.com</a></span>
+  </li><li style="--size:5;--ratio:46%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://lawzava.com" rel="noopener" target="_blank">lawzava.com</a></span>
       <span class="size svelte-2ysuep">5kb</span>
-      <span class="ratio svelte-2ysuep">100%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:5;--ratio:38%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://n.2p5.xyz/" rel="noopener" target="_blank">n.2p5.xyz</a></span>
-      <span class="size svelte-2ysuep">5kb</span>
-      <span class="ratio svelte-2ysuep">38%</span></div>
+      <span class="ratio svelte-2ysuep">46%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep   red"></div>
   </li><li style="--size:5;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://motherfuckingwebsite.com/" rel="noopener" target="_blank">motherfuckingwebsite.com</a></span>
@@ -290,9 +289,14 @@
       <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:5;--ratio:56%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.minimumviable.it/" rel="noopener" target="_blank">www.minimumviable.it</a></span>
+  </li><li style="--size:5;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://motherfuckingwebsite.com/" rel="noopener" target="_blank">motherfuckingwebsite.com</a></span>
       <span class="size svelte-2ysuep">5kb</span>
-      <span class="ratio svelte-2ysuep">56%</span></div>
+      <span class="ratio svelte-2ysuep">100%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:5;--ratio:57%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.minimumviable.it/" rel="noopener" target="_blank">www.minimumviable.it</a></span>
+      <span class="size svelte-2ysuep">5kb</span>
+      <span class="ratio svelte-2ysuep">57%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:5;--ratio:29%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://emersion.fr/" rel="noopener" target="_blank">emersion.fr</a></span>
@@ -310,34 +314,19 @@
       <span class="ratio svelte-2ysuep">53%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:6;--ratio:86%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://uglyduck.ca" rel="noopener" target="_blank">uglyduck.ca</a></span>
-      <span class="size svelte-2ysuep">6kb</span>
-      <span class="ratio svelte-2ysuep">86%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:6;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://legiblenews.com" rel="noopener" target="_blank">legiblenews.com</a></span>
-      <span class="size svelte-2ysuep">6kb</span>
-      <span class="ratio svelte-2ysuep">100%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:6;--ratio:51%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://bernsteinbear.com/" rel="noopener" target="_blank">bernsteinbear.com</a></span>
       <span class="size svelte-2ysuep">6kb</span>
       <span class="ratio svelte-2ysuep">51%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:6;--ratio:74%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://nomasters.io/" rel="noopener" target="_blank">nomasters.io</a></span>
-      <span class="size svelte-2ysuep">6kb</span>
-      <span class="ratio svelte-2ysuep">74%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:7;--ratio:91%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://1mb.club/" rel="noopener" target="_blank">1mb.club</a></span>
-      <span class="size svelte-2ysuep">7kb</span>
-      <span class="ratio svelte-2ysuep">91%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:7;--ratio:54%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://bridge.simplefin.org" rel="noopener" target="_blank">bridge.simplefin.org</a></span>
       <span class="size svelte-2ysuep">7kb</span>
       <span class="ratio svelte-2ysuep">54%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:7;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://legiblenews.com" rel="noopener" target="_blank">legiblenews.com</a></span>
+      <span class="size svelte-2ysuep">7kb</span>
+      <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:7;--ratio:63%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://john-doe.neocities.org" rel="noopener" target="_blank">john-doe.neocities.org</a></span>
@@ -360,6 +349,16 @@
       <span class="ratio svelte-2ysuep">84%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:8;--ratio:91%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://1mb.club/" rel="noopener" target="_blank">1mb.club</a></span>
+      <span class="size svelte-2ysuep">8kb</span>
+      <span class="ratio svelte-2ysuep">91%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:8;--ratio:91%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://uglyduck.ca" rel="noopener" target="_blank">uglyduck.ca</a></span>
+      <span class="size svelte-2ysuep">8kb</span>
+      <span class="ratio svelte-2ysuep">91%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:8;--ratio:89%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://humaidq.ae/" rel="noopener" target="_blank">humaidq.ae</a></span>
       <span class="size svelte-2ysuep">8kb</span>
       <span class="ratio svelte-2ysuep">89%</span></div>
@@ -370,19 +369,19 @@
       <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:8;--ratio:24%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://getindiekit.com/" rel="noopener" target="_blank">getindiekit.com</a></span>
+  </li><li style="--size:8;--ratio:25%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://getindiekit.com/" rel="noopener" target="_blank">getindiekit.com</a></span>
       <span class="size svelte-2ysuep">8kb</span>
-      <span class="ratio svelte-2ysuep">24%</span></div>
+      <span class="ratio svelte-2ysuep">25%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
+  </li><li style="--size:8;--ratio:43%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.sonniesedge.net/" rel="noopener" target="_blank">www.sonniesedge.net</a></span>
+      <span class="size svelte-2ysuep">8kb</span>
+      <span class="ratio svelte-2ysuep">43%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep   red"></div>
   </li><li style="--size:8;--ratio:90%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="http://werc.cat-v.org/" rel="noopener" target="_blank">werc.cat-v.org</a></span>
       <span class="size svelte-2ysuep">8kb</span>
       <span class="ratio svelte-2ysuep">90%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:9;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://blog.fefe.de" rel="noopener" target="_blank">blog.fefe.de</a></span>
-      <span class="size svelte-2ysuep">9kb</span>
-      <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:10;--ratio:63%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://lambdapapers.com" rel="noopener" target="_blank">lambdapapers.com</a></span>
@@ -390,9 +389,9 @@
       <span class="ratio svelte-2ysuep">63%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:10;--ratio:91%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://gallant.dev/" rel="noopener" target="_blank">gallant.dev</a></span>
+  </li><li style="--size:10;--ratio:92%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://gallant.dev/" rel="noopener" target="_blank">gallant.dev</a></span>
       <span class="size svelte-2ysuep">10kb</span>
-      <span class="ratio svelte-2ysuep">91%</span></div>
+      <span class="ratio svelte-2ysuep">92%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:10;--ratio:66%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="http://cat-v.org/" rel="noopener" target="_blank">cat-v.org</a></span>
@@ -425,49 +424,59 @@
       <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:14;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://h3liu.ml/" rel="noopener" target="_blank">h3liu.ml</a></span>
-      <span class="size svelte-2ysuep">14kb</span>
+  </li><li style="--size:15;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://blog.fefe.de" rel="noopener" target="_blank">blog.fefe.de</a></span>
+      <span class="size svelte-2ysuep">15kb</span>
       <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:15;--ratio:8%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://blog.fossterer.com/" rel="noopener" target="_blank">blog.fossterer.com</a></span>
-      <span class="size svelte-2ysuep">15kb</span>
+  </li><li style="--size:16;--ratio:8%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://blog.fossterer.com/" rel="noopener" target="_blank">blog.fossterer.com</a></span>
+      <span class="size svelte-2ysuep">16kb</span>
       <span class="ratio svelte-2ysuep">8%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
+  </li><li style="--size:18;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://h3liu.ml/" rel="noopener" target="_blank">h3liu.ml</a></span>
+      <span class="size svelte-2ysuep">18kb</span>
+      <span class="ratio svelte-2ysuep">100%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:18;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://yorickpeterse.com/" rel="noopener" target="_blank">yorickpeterse.com</a></span>
+      <span class="size svelte-2ysuep">18kb</span>
+      <span class="ratio svelte-2ysuep">100%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:18;--ratio:80%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://ache.one/" rel="noopener" target="_blank">ache.one</a></span>
       <span class="size svelte-2ysuep">18kb</span>
       <span class="ratio svelte-2ysuep">80%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:19;--ratio:14%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://jvanelian.dev" rel="noopener" target="_blank">jvanelian.dev</a></span>
-      <span class="size svelte-2ysuep">19kb</span>
-      <span class="ratio svelte-2ysuep">14%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep"></div>
   </li><li style="--size:19;--ratio:20%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://guts.plus/" rel="noopener" target="_blank">guts.plus</a></span>
       <span class="size svelte-2ysuep">19kb</span>
       <span class="ratio svelte-2ysuep">20%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
-  </li><li style="--size:19;--ratio:92%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://yorickpeterse.com/" rel="noopener" target="_blank">yorickpeterse.com</a></span>
-      <span class="size svelte-2ysuep">19kb</span>
-      <span class="ratio svelte-2ysuep">92%</span></div>
+  </li><li style="--size:20;--ratio:14%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://jvanelian.dev" rel="noopener" target="_blank">jvanelian.dev</a></span>
+      <span class="size svelte-2ysuep">20kb</span>
+      <span class="ratio svelte-2ysuep">14%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep"></div>
+  </li><li style="--size:21;--ratio:89%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://midnight.pub/" rel="noopener" target="_blank">midnight.pub</a></span>
+      <span class="size svelte-2ysuep">21kb</span>
+      <span class="ratio svelte-2ysuep">89%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:20;--ratio:90%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://midnight.pub/" rel="noopener" target="_blank">midnight.pub</a></span>
-      <span class="size svelte-2ysuep">20kb</span>
-      <span class="ratio svelte-2ysuep">90%</span></div>
+  </li><li style="--size:21;--ratio:70%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://chad.hirsch.host" rel="noopener" target="_blank">chad.hirsch.host</a></span>
+      <span class="size svelte-2ysuep">21kb</span>
+      <span class="ratio svelte-2ysuep">70%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:22;--ratio:89%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://nest.jakl.one/" rel="noopener" target="_blank">nest.jakl.one</a></span>
+      <span class="size svelte-2ysuep">22kb</span>
+      <span class="ratio svelte-2ysuep">89%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:23;--ratio:91%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://concise-encoding.org/" rel="noopener" target="_blank">concise-encoding.org</a></span>
       <span class="size svelte-2ysuep">23kb</span>
       <span class="ratio svelte-2ysuep">91%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:23;--ratio:89%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://nest.jakl.one/" rel="noopener" target="_blank">nest.jakl.one</a></span>
-      <span class="size svelte-2ysuep">23kb</span>
-      <span class="ratio svelte-2ysuep">89%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:23;--ratio:32%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://xpil.eu/" rel="noopener" target="_blank">xpil.eu</a></span>
@@ -495,29 +504,29 @@
       <span class="ratio svelte-2ysuep">20%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
-  </li><li style="--size:27;--ratio:26%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://250kb.club" rel="noopener" target="_blank">250kb.club</a></span>
-      <span class="size svelte-2ysuep">27kb</span>
-      <span class="ratio svelte-2ysuep">26%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep   red"></div>
-  </li><li style="--size:27;--ratio:86%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://alexschroeder.ch/" rel="noopener" target="_blank">alexschroeder.ch</a></span>
-      <span class="size svelte-2ysuep">27kb</span>
-      <span class="ratio svelte-2ysuep">86%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:28;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://fullstackpython.com" rel="noopener" target="_blank">fullstackpython.com</a></span>
       <span class="size svelte-2ysuep">28kb</span>
       <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:28;--ratio:7%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://n.2p5.xyz/" rel="noopener" target="_blank">n.2p5.xyz</a></span>
+      <span class="size svelte-2ysuep">28kb</span>
+      <span class="ratio svelte-2ysuep">7%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep"></div>
   </li><li style="--size:28;--ratio:5%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.dustri.org" rel="noopener" target="_blank">www.dustri.org</a></span>
       <span class="size svelte-2ysuep">28kb</span>
       <span class="ratio svelte-2ysuep">5%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
-  </li><li style="--size:30;--ratio:19%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://sr.ht/" rel="noopener" target="_blank">sr.ht</a></span>
-      <span class="size svelte-2ysuep">30kb</span>
-      <span class="ratio svelte-2ysuep">19%</span></div>
+  </li><li style="--size:29;--ratio:26%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://250kb.club" rel="noopener" target="_blank">250kb.club</a></span>
+      <span class="size svelte-2ysuep">29kb</span>
+      <span class="ratio svelte-2ysuep">26%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep   red"></div>
+  </li><li style="--size:31;--ratio:18%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://sr.ht/" rel="noopener" target="_blank">sr.ht</a></span>
+      <span class="size svelte-2ysuep">31kb</span>
+      <span class="ratio svelte-2ysuep">18%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
   </li><li style="--size:31;--ratio:3%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://usrme.xyz/" rel="noopener" target="_blank">usrme.xyz</a></span>
@@ -525,9 +534,19 @@
       <span class="ratio svelte-2ysuep">3%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
+  </li><li style="--size:31;--ratio:87%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://alexschroeder.ch/" rel="noopener" target="_blank">alexschroeder.ch</a></span>
+      <span class="size svelte-2ysuep">31kb</span>
+      <span class="ratio svelte-2ysuep">87%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:32;--ratio:89%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="http://gerikson.com/hnlo/" rel="noopener" target="_blank">gerikson.com/hnlo</a></span>
       <span class="size svelte-2ysuep">32kb</span>
       <span class="ratio svelte-2ysuep">89%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:33;--ratio:65%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://lobste.rs/" rel="noopener" target="_blank">lobste.rs</a></span>
+      <span class="size svelte-2ysuep">33kb</span>
+      <span class="ratio svelte-2ysuep">65%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:36;--ratio:24%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://foxwells.garden/" rel="noopener" target="_blank">foxwells.garden</a></span>
@@ -543,16 +562,6 @@
   </li><li style="--size:39;--ratio:86%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="http://www.p01.org/" rel="noopener" target="_blank">www.p01.org</a></span>
       <span class="size svelte-2ysuep">39kb</span>
       <span class="ratio svelte-2ysuep">86%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:41;--ratio:97%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://flatpackapps.com" rel="noopener" target="_blank">flatpackapps.com</a></span>
-      <span class="size svelte-2ysuep">41kb</span>
-      <span class="ratio svelte-2ysuep">97%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:41;--ratio:71%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://lobste.rs/" rel="noopener" target="_blank">lobste.rs</a></span>
-      <span class="size svelte-2ysuep">41kb</span>
-      <span class="ratio svelte-2ysuep">71%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:41;--ratio:5%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://lucianmarin.com/" rel="noopener" target="_blank">lucianmarin.com</a></span>
@@ -625,11 +634,6 @@
       <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:67;--ratio:12%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.bryanbraun.com/" rel="noopener" target="_blank">www.bryanbraun.com</a></span>
-      <span class="size svelte-2ysuep">67kb</span>
-      <span class="ratio svelte-2ysuep">12%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep"></div>
   </li><li style="--size:67;--ratio:63%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://felt.dev/" rel="noopener" target="_blank">felt.dev</a></span>
       <span class="size svelte-2ysuep">67kb</span>
       <span class="ratio svelte-2ysuep">63%</span></div>
@@ -645,24 +649,29 @@
       <span class="ratio svelte-2ysuep">73%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:73;--ratio:56%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://flatpackapps.com" rel="noopener" target="_blank">flatpackapps.com</a></span>
+      <span class="size svelte-2ysuep">73kb</span>
+      <span class="ratio svelte-2ysuep">56%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:73;--ratio:62%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="http://dpldocs.info/this-week-in-d/Blog.html" rel="noopener" target="_blank">dpldocs.info/this-week-in-d/Blog.html</a></span>
       <span class="size svelte-2ysuep">73kb</span>
       <span class="ratio svelte-2ysuep">62%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:74;--ratio:7%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://lite.cnn.com" rel="noopener" target="_blank">lite.cnn.com</a></span>
-      <span class="size svelte-2ysuep">74kb</span>
-      <span class="ratio svelte-2ysuep">7%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep"></div>
   </li><li style="--size:75;--ratio:62%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://mkws.sh/" rel="noopener" target="_blank">mkws.sh</a></span>
       <span class="size svelte-2ysuep">75kb</span>
       <span class="ratio svelte-2ysuep">62%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:76;--ratio:4%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.bryanbraun.com/connect-four/" rel="noopener" target="_blank">www.bryanbraun.com/connect-four</a></span>
-      <span class="size svelte-2ysuep">76kb</span>
-      <span class="ratio svelte-2ysuep">4%</span></div>
+  </li><li style="--size:75;--ratio:8%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://lite.cnn.com" rel="noopener" target="_blank">lite.cnn.com</a></span>
+      <span class="size svelte-2ysuep">75kb</span>
+      <span class="ratio svelte-2ysuep">8%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep"></div>
+  </li><li style="--size:78;--ratio:6%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://nomasters.io/" rel="noopener" target="_blank">nomasters.io</a></span>
+      <span class="size svelte-2ysuep">78kb</span>
+      <span class="ratio svelte-2ysuep">6%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
   </li><li style="--size:81;--ratio:97%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://sourcehut.org/" rel="noopener" target="_blank">sourcehut.org</a></span>
@@ -670,16 +679,16 @@
       <span class="ratio svelte-2ysuep">97%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:82;--ratio:4%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://blakehawkins.com/blog" rel="noopener" target="_blank">blakehawkins.com/blog</a></span>
+      <span class="size svelte-2ysuep">82kb</span>
+      <span class="ratio svelte-2ysuep">4%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep"></div>
   </li><li style="--size:83;--ratio:26%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://koehr.in" rel="noopener" target="_blank">koehr.in</a></span>
       <span class="size svelte-2ysuep">83kb</span>
       <span class="ratio svelte-2ysuep">26%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep   red"></div>
-  </li><li style="--size:83;--ratio:4%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://blakehawkins.com/blog" rel="noopener" target="_blank">blakehawkins.com/blog</a></span>
-      <span class="size svelte-2ysuep">83kb</span>
-      <span class="ratio svelte-2ysuep">4%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep"></div>
   </li><li style="--size:84;--ratio:5%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://mylight.website/" rel="noopener" target="_blank">mylight.website</a></span>
       <span class="size svelte-2ysuep">84kb</span>
       <span class="ratio svelte-2ysuep">5%</span></div>
@@ -688,6 +697,11 @@
   </li><li style="--size:84;--ratio:35%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.bryanbraun.com/after-dark-css/" rel="noopener" target="_blank">www.bryanbraun.com/after-dark-css</a></span>
       <span class="size svelte-2ysuep">84kb</span>
       <span class="ratio svelte-2ysuep">35%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep   red"></div>
+  </li><li style="--size:87;--ratio:33%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="http://1.klose.berlin/" rel="noopener" target="_blank">1.klose.berlin</a></span>
+      <span class="size svelte-2ysuep">87kb</span>
+      <span class="ratio svelte-2ysuep">33%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep   red"></div>
   </li><li style="--size:88;--ratio:5%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://monokai.nl" rel="noopener" target="_blank">monokai.nl</a></span>
@@ -705,21 +719,31 @@
       <span class="ratio svelte-2ysuep">23%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
-  </li><li style="--size:93;--ratio:98%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://porkbrain.com" rel="noopener" target="_blank">porkbrain.com</a></span>
-      <span class="size svelte-2ysuep">93kb</span>
-      <span class="ratio svelte-2ysuep">98%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:93;--ratio:37%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="http://1.klose.berlin/" rel="noopener" target="_blank">1.klose.berlin</a></span>
-      <span class="size svelte-2ysuep">93kb</span>
-      <span class="ratio svelte-2ysuep">37%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep   red"></div>
   </li><li style="--size:94;--ratio:89%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://salixos.org/" rel="noopener" target="_blank">salixos.org</a></span>
       <span class="size svelte-2ysuep">94kb</span>
       <span class="ratio svelte-2ysuep">89%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:95;--ratio:98%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://porkbrain.com" rel="noopener" target="_blank">porkbrain.com</a></span>
+      <span class="size svelte-2ysuep">95kb</span>
+      <span class="ratio svelte-2ysuep">98%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:95;--ratio:3%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.bryanbraun.com/connect-four/" rel="noopener" target="_blank">www.bryanbraun.com/connect-four</a></span>
+      <span class="size svelte-2ysuep">95kb</span>
+      <span class="ratio svelte-2ysuep">3%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep"></div>
+  </li><li style="--size:96;--ratio:2%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://playerone.kevincox.ca" rel="noopener" target="_blank">playerone.kevincox.ca</a></span>
+      <span class="size svelte-2ysuep">96kb</span>
+      <span class="ratio svelte-2ysuep">2%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep"></div>
+  </li><li style="--size:96;--ratio:8%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.bryanbraun.com/" rel="noopener" target="_blank">www.bryanbraun.com</a></span>
+      <span class="size svelte-2ysuep">96kb</span>
+      <span class="ratio svelte-2ysuep">8%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep"></div>
   </li><li style="--size:97;--ratio:37%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://xubuntu.org/" rel="noopener" target="_blank">xubuntu.org</a></span>
       <span class="size svelte-2ysuep">97kb</span>
       <span class="ratio svelte-2ysuep">37%</span></div>
@@ -735,11 +759,6 @@
       <span class="ratio svelte-2ysuep">99%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:107;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="http://www.danielwasserlaufquicklinks.com/" rel="noopener" target="_blank">www.danielwasserlaufquicklinks.com</a></span>
-      <span class="size svelte-2ysuep">107kb</span>
-      <span class="ratio svelte-2ysuep">100%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:109;--ratio:53%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.tarsnap.com/" rel="noopener" target="_blank">www.tarsnap.com</a></span>
       <span class="size svelte-2ysuep">109kb</span>
       <span class="ratio svelte-2ysuep">53%</span></div>
@@ -750,6 +769,11 @@
       <span class="ratio svelte-2ysuep">17%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
+  </li><li style="--size:110;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="http://www.danielwasserlaufquicklinks.com/" rel="noopener" target="_blank">www.danielwasserlaufquicklinks.com</a></span>
+      <span class="size svelte-2ysuep">110kb</span>
+      <span class="ratio svelte-2ysuep">100%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
   </li><li style="--size:112;--ratio:34%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://thebestmotherfucking.website/" rel="noopener" target="_blank">thebestmotherfucking.website</a></span>
       <span class="size svelte-2ysuep">112kb</span>
       <span class="ratio svelte-2ysuep">34%</span></div>
@@ -775,21 +799,11 @@
       <span class="ratio svelte-2ysuep">49%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep   red"></div>
-  </li><li style="--size:116;--ratio:17%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://weboas.is/" rel="noopener" target="_blank">weboas.is</a></span>
-      <span class="size svelte-2ysuep">116kb</span>
+  </li><li style="--size:117;--ratio:17%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://weboas.is/" rel="noopener" target="_blank">weboas.is</a></span>
+      <span class="size svelte-2ysuep">117kb</span>
       <span class="ratio svelte-2ysuep">17%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
-  </li><li style="--size:123;--ratio:10%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://shazow.net/" rel="noopener" target="_blank">shazow.net</a></span>
-      <span class="size svelte-2ysuep">123kb</span>
-      <span class="ratio svelte-2ysuep">10%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep"></div>
-  </li><li style="--size:128;--ratio:45%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://danielsada.tech/" rel="noopener" target="_blank">danielsada.tech</a></span>
-      <span class="size svelte-2ysuep">128kb</span>
-      <span class="ratio svelte-2ysuep">45%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep   red"></div>
   </li><li style="--size:130;--ratio:9%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://sparkbox.github.io/bouncy-ball/" rel="noopener" target="_blank">sparkbox.github.io/bouncy-ball</a></span>
       <span class="size svelte-2ysuep">130kb</span>
       <span class="ratio svelte-2ysuep">9%</span></div>
@@ -805,16 +819,21 @@
       <span class="ratio svelte-2ysuep">73%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
-  </li><li style="--size:136;--ratio:27%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.sonniesedge.net/" rel="noopener" target="_blank">www.sonniesedge.net</a></span>
-      <span class="size svelte-2ysuep">136kb</span>
-      <span class="ratio svelte-2ysuep">27%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep   red"></div>
   </li><li style="--size:139;--ratio:100%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.tuhs.org/" rel="noopener" target="_blank">www.tuhs.org</a></span>
       <span class="size svelte-2ysuep">139kb</span>
       <span class="ratio svelte-2ysuep">100%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
+  </li><li style="--size:149;--ratio:39%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://danielsada.tech/" rel="noopener" target="_blank">danielsada.tech</a></span>
+      <span class="size svelte-2ysuep">149kb</span>
+      <span class="ratio svelte-2ysuep">39%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep   red"></div>
+  </li><li style="--size:151;--ratio:4%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://blog.circuitsofimagination.com/" rel="noopener" target="_blank">blog.circuitsofimagination.com</a></span>
+      <span class="size svelte-2ysuep">151kb</span>
+      <span class="ratio svelte-2ysuep">4%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep"></div>
   </li><li style="--size:152;--ratio:99%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://sparkbox.github.io/logo-experiments/" rel="noopener" target="_blank">sparkbox.github.io/logo-experiments</a></span>
       <span class="size svelte-2ysuep">152kb</span>
       <span class="ratio svelte-2ysuep">99%</span></div>
@@ -825,23 +844,33 @@
       <span class="ratio svelte-2ysuep">1%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
+  </li><li style="--size:155;--ratio:8%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://craigslist.org/" rel="noopener" target="_blank">craigslist.org</a></span>
+      <span class="size svelte-2ysuep">155kb</span>
+      <span class="ratio svelte-2ysuep">8%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep"></div>
   </li><li style="--size:156;--ratio:37%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://frontaid.io" rel="noopener" target="_blank">frontaid.io</a></span>
       <span class="size svelte-2ysuep">156kb</span>
       <span class="ratio svelte-2ysuep">37%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep   red"></div>
-  </li><li style="--size:156;--ratio:8%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://craigslist.org/" rel="noopener" target="_blank">craigslist.org</a></span>
-      <span class="size svelte-2ysuep">156kb</span>
-      <span class="ratio svelte-2ysuep">8%</span></div>
+  </li><li style="--size:159;--ratio:10%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.powerpointkaraoke.com/" rel="noopener" target="_blank">www.powerpointkaraoke.com</a></span>
+      <span class="size svelte-2ysuep">159kb</span>
+      <span class="ratio svelte-2ysuep">10%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
-  </li><li style="--size:166;--ratio:49%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.bryanbraun.com/checkboxland/" rel="noopener" target="_blank">www.bryanbraun.com/checkboxland</a></span>
-      <span class="size svelte-2ysuep">166kb</span>
-      <span class="ratio svelte-2ysuep">49%</span></div>
+  </li><li style="--size:159;--ratio:7%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://shazow.net/" rel="noopener" target="_blank">shazow.net</a></span>
+      <span class="size svelte-2ysuep">159kb</span>
+      <span class="ratio svelte-2ysuep">7%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+    <div class="entry-ratio-bar svelte-2ysuep"></div>
+  </li><li style="--size:167;--ratio:48%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.bryanbraun.com/checkboxland/" rel="noopener" target="_blank">www.bryanbraun.com/checkboxland</a></span>
+      <span class="size svelte-2ysuep">167kb</span>
+      <span class="ratio svelte-2ysuep">48%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep   red"></div>
-  </li><li style="--size:172;--ratio:87%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://matthewstrom.com" rel="noopener" target="_blank">matthewstrom.com</a></span>
-      <span class="size svelte-2ysuep">172kb</span>
+  </li><li style="--size:173;--ratio:87%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://matthewstrom.com" rel="noopener" target="_blank">matthewstrom.com</a></span>
+      <span class="size svelte-2ysuep">173kb</span>
       <span class="ratio svelte-2ysuep">87%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep  yellow red"></div>
@@ -860,15 +889,10 @@
       <span class="ratio svelte-2ysuep">20%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
-  </li><li style="--size:191;--ratio:8%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://www.powerpointkaraoke.com/" rel="noopener" target="_blank">www.powerpointkaraoke.com</a></span>
-      <span class="size svelte-2ysuep">191kb</span>
-      <span class="ratio svelte-2ysuep">8%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
-    <div class="entry-ratio-bar svelte-2ysuep"></div>
-  </li><li style="--size:199;--ratio:8%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://pgjones.dev" rel="noopener" target="_blank">pgjones.dev</a></span>
-      <span class="size svelte-2ysuep">199kb</span>
-      <span class="ratio svelte-2ysuep">8%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted"></div>
+  </li><li style="--size:201;--ratio:9%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://pgjones.dev" rel="noopener" target="_blank">pgjones.dev</a></span>
+      <span class="size svelte-2ysuep">201kb</span>
+      <span class="ratio svelte-2ysuep">9%</span></div>
+    <div class="entry-size-bar svelte-2ysuep highlighted yellow"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
   </li><li style="--size:209;--ratio:1%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://nicetranslator.com/" rel="noopener" target="_blank">nicetranslator.com</a></span>
       <span class="size svelte-2ysuep">209kb</span>
@@ -894,11 +918,6 @@
       <span class="size svelte-2ysuep">223kb</span>
       <span class="ratio svelte-2ysuep">6%</span></div>
     <div class="entry-size-bar svelte-2ysuep highlighted yellow"></div>
-    <div class="entry-ratio-bar svelte-2ysuep"></div>
-  </li><li style="--size:247;--ratio:2%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://jvelo.at/" rel="noopener" target="_blank">jvelo.at</a></span>
-      <span class="size svelte-2ysuep">247kb</span>
-      <span class="ratio svelte-2ysuep">2%</span></div>
-    <div class="entry-size-bar svelte-2ysuep highlighted yellow red"></div>
     <div class="entry-ratio-bar svelte-2ysuep"></div>
   </li><li style="--size:247;--ratio:2%"><div class="entry svelte-2ysuep"><span class="url svelte-2ysuep"><a href="https://customformats.com/" rel="noopener" target="_blank">customformats.com</a></span>
       <span class="size svelte-2ysuep">247kb</span>
