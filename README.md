@@ -2,7 +2,7 @@
 
 An exclusive members-only club for web pages weighing no more than 250kb.
 
-Inspired by [Bredley Taunts 1MB.club](https://1mb.club/).
+Inspired by [Bradley Taunt's 1MB.club](https://1mb.club/).
 
 ## But why?
 
