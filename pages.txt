@@ -5,7 +5,6 @@ https://lecaro.me/minimage/
 https://koehr.in
 https://koehr.tech
 https://sjmulder.nl
-http://cyberia.host
 https://text.npr.org
 https://playerone.kevincox.ca
 https://dotfilehub.com
@@ -17,7 +16,6 @@ https://250kb.club
 https://subreply.com
 https://seirdy.one
 https://richj.co
-https://mkws.sh/
 https://porkbrain.com
 https://pgjones.dev
 https://jaime.gomezobregon.com
@@ -33,7 +31,6 @@ https://jeremysarber.com
 https://kunalmarwaha.com/
 https://weboas.is/
 https://jlelse.blog/
-https://h3liu.ml/
 https://unix.lgbt/
 https://sr.ht/
 https://sourcehut.org/
@@ -101,7 +98,6 @@ http://gerikson.com/
 https://www.dustri.org
 https://leonardschuetz.ch/
 https://lambdapapers.com
-http://cetacean.club/
 https://phreedom.club/
 https://kerkour.fr/
 https://zupzup.org/
