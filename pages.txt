@@ -108,7 +108,6 @@ https://guts.plus/
 http://karolis.koncevicius.lt/
 https://blog.circuitsofimagination.com/
 https://head-on-a-stick.github.io/
-https://denv.it/blog/
 https://motherfuckingwebsite.com/
 http://bettermotherfuckingwebsite.com/
 https://bestmotherfucking.website/
@@ -137,7 +136,6 @@ https://www.slowernews.com/
 https://gallant.dev/
 https://yorickpeterse.com/
 https://funnylookinhat.com/
-https://crablinski.com/
 https://fabioartuso.com/
 https://pbanks.net/
 https://ache.one/
@@ -254,7 +252,7 @@ https://norayr.am/
 https://antranigv.am/
 https://timog.org/
 https://slackjeff.com.br/
-https://homburg.xyz/
+https://hmbrg.xyz/
 https://noulin.net/blog/
 https://bduck.xyz/
 https://dyremyhr.no/
@@ -266,3 +264,6 @@ https://nihar.page/
 https://linuxguideandhints.com/
 https://0xedward.io/
 https://lukesempire.com/
+https://xigoi.neocities.org/
+https://t0.vc/
+https://codingbobby.xyz/
