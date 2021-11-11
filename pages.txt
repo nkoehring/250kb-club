@@ -20,7 +20,6 @@ https://porkbrain.com
 https://pgjones.dev
 https://jaime.gomezobregon.com
 https://lawzava.com
-https://www.cleanpython.com/
 https://monokai.nl
 https://flatpackapps.com
 https://frontaid.io
@@ -54,7 +53,6 @@ https://blog.fefe.de
 https://ianmobbs.com
 https://webperf.xyz
 https://fullstackpython.com
-http://1.klose.berlin/
 https://benovermyer.com/
 https://www.tuhs.org/
 https://searchbot.app/
@@ -160,7 +158,6 @@ https://oh.mg/
 https://www.oskarlindgren.se/
 https://512kb.club/
 http://coolmathgames.tech/
-https://wavetable.cymru/
 https://utsuho.rocks/
 https://arfer.net/
 https://chad.hirsch.host
@@ -186,10 +183,7 @@ https://editions-du-26-octobre.com/
 https://blog.bshah.in/
 https://tryhexadecimal.com/
 https://rya.nc/
-https://eftegarie.nl/
-https://eftegarie.com/blog/
 https://temp.sh/
-https://www.sandboxgeneral.xyz/
 https://simbly.me/
 https://decentnet.github.io/
 https://www.migadu.com/
@@ -205,7 +199,6 @@ https://motz-berlin.de/
 https://cycloneblaze.net/
 https://kayafirat.com/
 https://www.sensorstation.co/
-https://sontek.net/
 https://www.zinzy.website/
 https://davidkuehnert.de/
 https://www.neelc.org/about/
@@ -275,3 +268,15 @@ https://na20a.neocities.org/
 https://quinncasey.com/
 https://sizi.ng/
 https://webzine.puffy.cafe/
+http://plasmasturm.org/
+https://featyre.xyz/
+https://free.mg/
+https://xslendi.xyz/
+https://notionbackups.com/
+https://ut99.weba.ru/
+https://ut2.weba.ru/
+https://buchh.org/
+https://timotijhof.net/
+https://jeffhuang.com/
+https://kidl.at/
+https://dusanmitrovic.xyz/
