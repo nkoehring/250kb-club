@@ -4,6 +4,7 @@ Lines that don't start with http:// or https://, as well as duplicates are ignor
 https://unixsheikh.com/
 https://www.usecue.com
 https://lecaro.me/minimage/
+https://k0r.in
 https://koehr.in
 https://koehr.tech
 https://sjmulder.nl
@@ -12,7 +13,6 @@ https://playerone.kevincox.ca
 https://dotfilehub.com
 https://manpages.bsd.lv
 https://danluu.com
-https://gtf.io
 http://minid.net
 https://250kb.club
 https://subreply.com
@@ -27,7 +27,6 @@ https://flatpackapps.com
 https://frontaid.io
 https://worldti.me
 https://sneak.berlin
-https://plumebio.com
 https://jeremysarber.com
 https://kunalmarwaha.com/
 https://chrisportela.com
@@ -47,7 +46,7 @@ https://lukeramsden.com
 https://mataroa.blog
 https://jvanelian.dev
 https://uglyduck.ca
-https://legiblenews.com
+# https://legiblenews.com # phantomas throws an error
 https://cronokirby.com
 https://lite.cnn.com
 https://john-doe.neocities.org
@@ -89,7 +88,6 @@ https://n.2p5.xyz/
 https://jakob.kaivo.net/
 https://alexschroeder.ch/
 https://humaidq.ae/
-https://mylight.website/
 http://stratus3d.com/
 https://jrballesteros05.codeberg.page/
 http://www.p01.org/
@@ -108,7 +106,6 @@ https://www.gwern.net/index
 https://guts.plus/
 http://karolis.koncevicius.lt/
 https://blog.circuitsofimagination.com/
-https://head-on-a-stick.github.io/
 https://motherfuckingwebsite.com/
 http://bettermotherfuckingwebsite.com/
 https://bestmotherfucking.website/
