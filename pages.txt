@@ -2,6 +2,7 @@ One URL per line.
 Lines that don't start with http:// or https://, as well as duplicates are ignored.
 
 https://unixsheikh.com/
+https://www.usecue.com
 https://lecaro.me/minimage/
 https://koehr.in
 https://koehr.tech
@@ -281,3 +282,5 @@ https://timotijhof.net/
 https://jeffhuang.com/
 https://kidl.at/
 https://dusanmitrovic.xyz/
+https://daniel-siepmann.de/
+https://sexiarz.pl/
