@@ -127,7 +127,6 @@ https://www.bryanbraun.com/anchorjs/
 https://www.bryanbraun.com/
 https://blog.fossterer.com/
 https://lighthouse16.com/
-https://subscanner.com/
 https://nest.jakl.one/
 https://getindiekit.com/
 https://www.slowernews.com/
@@ -184,7 +183,6 @@ https://blog.bshah.in/
 https://tryhexadecimal.com/
 https://rya.nc/
 https://temp.sh/
-https://simbly.me/
 https://decentnet.github.io/
 https://www.migadu.com/
 https://thelion.website/
