@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+  <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}" />
+  <meta name="author" content="{{ config.extra.author }}" />
+  <meta name="DC.title" content="{{ config.title }}" />
+  <link rel="author" href="{{ config.extra.author_homepage }}" />
+  <link rel="icon" href="/favicon.png" type="image/x-icon">
+  {% if config.generate_feed %}
+  <link rel="alternate" type={% if config.feed_filename == "atom.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
+  {% endif %}
+  <style>
+    body {
+      font: 16px/1.4 sans-serif;
+      margin: 0;
+      padding: 0;
+      background: white;
+      color: #333;
+    }
+    body>header,main,body>footer {
+      max-width: calc(720px - 2em);
+      width: calc(100% - 2em);
+      margin: 0 auto;
+      padding: 0 1em;
+    }
+    #main-footer {
+      border-top: 1px solid lightgrey;
+      margin: 3rem auto 0;
+      font-size: 85%;
+    }
+    main {
+      margin: 3em auto;
+    }
+    h1 {
+      font: small-caps bold 2.2em/1.4 sans-serif;
+      letter-spacing: 6px;
+      text-align: center;
+      margin-top: 1.2em;
+    }
+    h2 {
+      font: small-caps bold 2.0em/1.4 sans-serif;
+      letter-spacing: 5px;
+      text-align: center;
+    }
+    p {
+      text-align: justify;
+    }
+    a,a:visited {
+      color: currentColor;
+      text-decoration: underline;
+    }
+    select, label {
+      padding: .25em .5em;
+      border: 2px solid gray;
+      background: none;
+      color: currentColor;
+      font: inherit;
+    }
+    ol {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 1em;
+      background-color: #0002;
+    }
+    aside {
+      position: relative;
+      display: flex;
+      flex-flow: row break;
+      justify-content: space-between;
+    }
+    .hidden { visibility: hidden; }
+    .big { font-size: 1.5em; }
+    .center { text-align: center; }
+    #info-toggle { display: none; }
+    #info-toggle ~ label { text-align: center; }
+    #info-toggle ~ label > .info-close { display: none; }
+    #info-toggle:checked ~ label > .info-close { display: inline; }
+    #info-toggle:checked ~ label > .info-text { display: none; }
+
+    #info-popup {
+      display: none;
+      position: absolute;
+      top: 2.5em;
+      left: -1em;
+      width: calc(720px - 2em - 6px);
+      max-width: calc(100vw - 2em - 6px);
+      padding: 0 1em;
+      background: #FFF;
+      border: 3px solid #DDD;
+    }
+    #info-toggle:checked ~ #info-popup { display: block; }
+
+    .entry {
+      display: flex;
+      flex-flow: row nowrap;
+      justify-content: space-between;
+      padding: .5em .5em 0;
+      height: 2em;
+      line-height: 2em;
+      font-size: 1.3em;
+    }
+
+    .entry > .url {
+      flex: 1 1 auto;
+      width: 70%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .entry > .size, .entry > .ratio, .entry > .open-page {
+      flex: 0 0 auto;
+      width: 10%;
+      text-align: right;
+    }
+    .entry > .open-page img {
+      max-height: 32px;
+      margin-top: 4px;
+    }
+
+    .entry-size-bar, .entry-ratio-bar {
+      height: 0;
+      margin-bottom: 2px;
+      border-bottom: 2px solid;
+    }
+    .entry-size-bar.highlighted, .entry-ratio-bar.highlighted {
+      border-bottom-width: 4px;
+    }
+    .entry-size-bar {
+      border-bottom-color: #E44;
+      width: calc(var(--size)/256 * 100%);
+    }
+    .entry-ratio-bar {
+      border-bottom-color: #56B;
+      width: var(--ratio);
+    }
+    #pager {
+      display: flex;
+      flex-flow: row nowrap;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body { background:  #222; color: white; }
+      #info-popup { background: #000; border-color: #444; }
+    }
+  </style>
+</head>
+<body>
+  {% block content %}
+    {{ page.content | safe }}
+  {% endblock %}
+</body>
+<script data-goatcounter="https://250kb-club.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</html>

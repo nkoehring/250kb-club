@@ -6,7 +6,7 @@ Inspired by [Bradley Taunt's 1MB.club](https://1mb.club/).
 
 ## But why?
 
-I love the idea of a list of webpages that are still reasonably usable with a slow internet connection. But 1MB is, in my honest opinion, still way too much. Nobody wants to wait 10 seconds — on good days — to load a web site. But a very large chunk of the world population isn't gifted with Gigabit internet connections.
+I love the idea of a list of webpages that are still reasonably usable with a slow internet connection. But 1MB is, in my honest opinion, still way too much. Nobody wants to wait 10 seconds — on good days — to load a web site. And a very large chunk of the world population isn't gifted with Gigabit internet connections.
 
 Of course, the absolute size of a website is not a perfect indicator. A page might contain a lot of text or images as important part of their content. It would be unfair to call them bloated in this case. This is why, additionally to the absolute size the ratio of visible to invisible content is shown as well.
 
@@ -31,14 +31,25 @@ pretty good already.
 
 ## Hacking this page
 
-This page is built with [Svelte](https://svelte.dev). You can clone the repository and run the application in development mode like this:
+This page needs three components to work:
+
+### [Deno](https://deno.land/)
+
+The application that updates the page information is build with Typescript 4.6 and Deno 1.20. It uses no external packages except `encoding/toml` from the standard library.
+
+### [YellowLabTools](https://yellowlab.tools/)
+
+A local (docker) version of YellowLabTools is used for the page analysis. It uses [Phantomas](https://github.com/macbre/phantomas) as well as other tools to create a exhaustive metric.
+
+### [Zola](https://www.getzola.org/)
+
+The page analyser application generates markdown files that are rendered to a static web page by Zola.
 
 ```sh
 git clone https://git.sr.ht/~koehr/the-250kb-club 250kb-club
 # or: git clone https://github.com/nkoehring/250kb-club.git
 cd 250kb-club
-yarn
-yarn dev
+
 ```
 
 And build the page with `yarn build`.

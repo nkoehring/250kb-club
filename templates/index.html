@@ -1,0 +1,128 @@
+{% extends "base.html" %}
+
+{% block content %}
+<header>
+  <h1>The 250kb&nbsp;Club</h1>
+  <h2>
+    <a rel="noopener nofollow" href="https://mobiforge.com/research-analysis/the-web-is-doom" target="_blank">
+      The Web Is Doom
+    </a>
+  </h2>
+  <p>Lets do something about it!</p>
+  <p>
+    The <em>250kb Club</em> is a collection of web pages that focus on
+    performance, efficiency and accessibility.
+  </p>
+  <p class="big">Websites in this list must not exceed 256kb <em>compressed</em> size!</p>
+  <p>
+    Yes, compressed size. It makes much more sense because it allows
+    for a lot of text to be transferred without having a big impact on the
+    total size, while the impact of media is basically unaffected.
+  </p>
+  <p>
+    If your pages exceeds 250kb, you might consider
+    <a rel="noopener nofollow" href="https://512kb.club" target="_blank">512kB.club</a> or
+    <a rel="noopener nofollow" href="https://1MB.club" target="_blank">1MB.club</a>.
+  </p>
+  <p>
+    You can suggest a web page for this collection
+    <a rel="noopener nofollow" href="https://todo.sr.ht/~koehr/the-250kb-club/" target="_blank">via Sourcehut</a>
+    or
+    <a rel="noopener nofollow" href="https://github.com/nkoehring/250kb-club/issues/new" target="_blank">via Github</a>.
+    The site will be reviewed and, if applicable, added to the list below.
+    Pages are checked again every week.
+  </p>
+</header>
+
+<main id="members-table">
+  <aside>
+    <div>
+      <!-- // sorting non-functional for now
+      Sort by:
+      <select>
+        <option value="size">content-size</option>
+        <option value="ratio">content-ratio</option>
+      </select>
+      -->
+    </div>
+    <input id="info-toggle" type="checkbox">
+    <label for="info-toggle">
+      <span class="info-text">How does this work?</span>
+      <span class="info-close"> &nbsp;x&nbsp; </span>
+    </label>
+    <article id="info-popup">
+      <header>
+        <h1>Technical Details</h1>
+      </header>
+      <p>
+        The values shown in the list are URL, Total Weight, Content Ratio and are
+        updated weekly.
+      </p>
+      <p>
+        Websites listed here are downloaded and analyzed with
+        <Link href="https://github.com/macbre/phantomas">Phantomas</Link>.
+        The total weight is counted and then the size of actual content is measured
+        and shown as a ratio.
+      </p>
+      <p>
+        For example: If a website has a total weight of 100kb and 60kb are the
+        documents structure, text, images, videos and so on, then the content ratio
+        is 60%. The rest are extras like CSS, JavaScript and so on. It is hard to
+        say what a good ratio is but my gut feeling is that everything above 20% is
+        pretty good already.
+      </p>
+      <p>
+        <strong>Disclaimer:</strong> Currently, inline scripts and styles are
+        measured as content due to technical limitations of Phantomas. This will
+        hopefully be fixed soon.
+      </p>
+    </article>
+  </aside>
+
+  <ol>
+  {% for page in paginator.pages %}
+    <li style="--size:{{ page.extra.size }};--ratio:{{ page.extra.ratio }}%">
+      <div class="entry">
+        <span class="url">
+          <a href="/{{ page.slug }}">{{ page.title }}</a>
+        </span>
+        <span class="size">{{ page.extra.size }}kb</span>
+        <span class="ratio">{{ page.extra.ratio }}%</span>
+        <span class="open-page">
+          <a href="{{ page.extra.source }}" rel="noopener" target="_blank">
+            <img src="/export.png" alt="open {{ page.title }} in a new tab or window" />
+          </a>
+        </span>
+      </div>
+      <div class="entry-size-bar highlighted"></div>
+      <div class="entry-ratio-bar yellow red"></div>
+    </li>
+  {% endfor %}
+  </ol>
+
+  <nav id="pager" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    <span>
+      {% if paginator.previous %}
+      <a href="{{ paginator.previous }}" title="previous page">🠔 prev</a>
+      {% endif %}
+    </span>
+    <span> — {{ paginator.current_index }} / {{ paginator.number_pagers }} — </span>
+    <span>
+      {% if paginator.next %}
+      <a href="{{ paginator.next }}" title="next page">next 🠖</a>
+      {% endif %}
+    </span>
+  </nav>
+
+</main>
+
+<footer id="main-footer">
+  <p>
+    Made with &hearts; for a performant web by <a rel="noopener nofollow" href="https://koehr.in" target="_blank">Norman Köhring</a>.
+    Inspired by <a rel="noopener nofollow" href="https://uglyduck.ca" target="_blank">Bradley Taunt</a>'s <a rel="noopener nofollow" href="https://1MB.club" target="_blank">1MB.club</a>
+    <br/>
+    The code of this page is open source. You can find it on <a rel="noopener nofollow" href="https://github.com/nkoehring/250kb-club" target="_blank">Github</a>
+    and <a rel="noopener nofollow" href="https://sr.ht/~koehr/the-250kb-club/" target="_blank">Sourcehut</a>.
+  </p>
+</footer>
+{% endblock content %}

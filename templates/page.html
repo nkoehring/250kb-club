@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+<main id="member">
+  <h1 id="title" class="p-name dated">
+    {{ page.title }}
+  </h1>
+  <p class="big center">
+    Proud member of the exclusive 250kb&nbsp;club!
+  </p>
+  <p>
+    <time class="dt-published" datetime="{{ page.date }}" pubdate="" itemprop="datePublished" content="{{ page.date }}">
+      Added: {{ page.date }}
+    </time>
+    |
+    <time class="dt-published" datetime="{{ page.date }}" pubdate="" itemprop="datePublished" content="{{ page.date }}">
+      Last updated: {{ page.date }}
+    </time>
+  </p>
+  <p class="e-content">
+    <a rel="noopener nofollow" href="{{ page.extra.source }}" target="_blank">{{ page.title }}</a>
+    is a member of the exclusive 250kb club. The page weighs only
+    <strong>{{ page.extra.size }}kb</strong> and has a content-to-bloat ratio of
+    <strong>{{ page.extra.ratio }}%</strong>.
+  </p>
+  <p><a href="/">back</a></p>
+</main>
+{% endblock content %}

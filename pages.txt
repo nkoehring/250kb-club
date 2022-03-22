@@ -26,11 +26,9 @@ https://monokai.nl
 https://flatpackapps.com
 https://frontaid.io
 https://worldti.me
-https://sneak.berlin
 https://jeremysarber.com
 https://kunalmarwaha.com/
 https://chrisportela.com
-https://weboas.is/
 https://jlelse.blog/
 https://unix.lgbt/
 https://sr.ht/
@@ -38,7 +36,6 @@ https://sourcehut.org/
 http://oxenburypartners.com/
 https://1mb.club/
 https://freesolitaire.win/
-https://motherfuckingwebsite.com/
 https://berkshirehathaway.com
 https://susam.in
 https://bridge.simplefin.org
@@ -46,7 +43,7 @@ https://lukeramsden.com
 https://mataroa.blog
 https://jvanelian.dev
 https://uglyduck.ca
-# https://legiblenews.com # phantomas throws an error
+https://legiblenews.com
 https://cronokirby.com
 https://lite.cnn.com
 https://john-doe.neocities.org
@@ -70,15 +67,12 @@ https://www.tarsnap.com/
 https://ylukem.com/
 https://iain.in/
 https://nicetranslator.com/
-http://dotnom.com/
 https://jvelo.at/
 http://dpldocs.info/this-week-in-d/Blog.html
 https://lucianmarin.com/
 https://www.rowlingindex.org/
 https://uberspace.de/
-https://craigslist.org/
 https://salixos.org/
-https://fraction.io/
 http://www.danielwasserlaufquicklinks.com/
 https://bernsteinbear.com/
 https://www.speedshop.co/
@@ -88,9 +82,7 @@ https://n.2p5.xyz/
 https://jakob.kaivo.net/
 https://alexschroeder.ch/
 https://humaidq.ae/
-http://stratus3d.com/
 https://jrballesteros05.codeberg.page/
-http://www.p01.org/
 https://concise-encoding.org/
 http://gerikson.com/hnlo/
 http://gerikson.com/
@@ -101,8 +93,6 @@ https://phreedom.club/
 https://kerkour.fr/
 https://zupzup.org/
 https://processwire.dev/
-https://processwire.com/
-https://www.gwern.net/index
 https://guts.plus/
 http://karolis.koncevicius.lt/
 https://blog.circuitsofimagination.com/
@@ -121,7 +111,6 @@ https://www.powerpointkaraoke.com/
 https://sparkbox.github.io/bouncy-ball/
 https://sparkbox.github.io/logo-experiments/
 https://www.bryanbraun.com/connect-four/
-https://www.bryanbraun.com/checkboxland/
 https://www.bryanbraun.com/after-dark-css/
 https://www.bryanbraun.com/anchorjs/
 https://www.bryanbraun.com/
@@ -139,14 +128,11 @@ https://ache.one/
 https://www.minimumviable.it/
 https://emersion.fr/
 https://drewdevault.com/
-https://www.sonniesedge.net/
 https://christine.website/
 http://cat-v.org/
-http://9front.org/
 http://werc.cat-v.org/
 https://suckless.org/
 https://mikegerwitz.com/
-https://xpil.eu/
 https://midnight.pub/
 https://shazow.net/
 https://felt.dev/
@@ -170,7 +156,6 @@ https://natestemen.xyz/
 https://bnolet.me
 https://remoteroast.club/
 https://10kbclub.com
-https://aajkakavi.in/
 https://box.matto.nl
 https://zakr.es/
 https://zakr.es/blog/
@@ -188,7 +173,7 @@ https://www.migadu.com/
 https://thelion.website/
 https://codingotaku.com/
 https://allien.work/
-https://MinWiz.com
+https://minwiz.com
 https://cosmo.red
 https://lectupedia.com/en/
 https://xiu.io/
@@ -196,9 +181,7 @@ https://kevq.uk/
 https://motz-berlin.de/
 https://cycloneblaze.net/
 https://kayafirat.com/
-https://www.sensorstation.co/
 https://www.zinzy.website/
-https://davidkuehnert.de/
 https://www.neelc.org/about/
 https://www.groovestomp.com/
 https://binyam.in/
@@ -209,7 +192,6 @@ https://oscarforner.com/
 https://www.openbsd.org/
 https://majiehong.com/
 https://ybad.name/
-https://parts.horse/parts
 https://inatri.com/
 https://thomas.me/
 https://martin.baillie.id/
@@ -241,7 +223,6 @@ https://swl.am/
 https://սոնա.հայ/
 https://norayr.am/
 https://antranigv.am/
-https://timog.org/
 https://slackjeff.com.br/
 https://hmbrg.xyz/
 https://noulin.net/blog/
@@ -249,8 +230,6 @@ https://bduck.xyz/
 https://dyremyhr.no/
 https://artemislena.eu/
 https://gtrr.artemislena.eu/
-https://editions-du-26-octobre.com/
-https://karpathy.ai/
 https://nihar.page/
 https://linuxguideandhints.com/
 https://0xedward.io/
@@ -282,10 +261,8 @@ https://xnaas.info
 https://blmayer.dev/
 https://qubyte.codes/
 https://daniel-siepmann.de/
-https://sexiarz.pl/
 https://kj7nzl.net/
 https://thejollyteapot.com/
-http://gauravdafauti.in/
 https://boehs.org/
 https://rc-lite.xyz/
 https://manuelmoreale.com/
@@ -297,9 +274,11 @@ https://xmdr.nl/
 https://notes.eatonphil.com/
 https://si3t.ch/
 https://ccsleep.net/
-https://flatpackapps.com/
 https://s1.flatpackapps.com/app.php?appId=22
 https://jason.nabein.me/
 https://volleyball-baustetten.de/
 https://satchlj.us/
-
+https://ihsaan.glitch.me/
+https://www.borfigat.org/
+https://anabeatriz.dev/
+https://grapheneos.org/

@@ -1,0 +1,28 @@
+base_url = "https://250kb.club/"
+title = "The 250kb Club"
+description = "An exclusive membership for web pages presenting themselves in no more than 250kb."
+default_language = "en"
+
+compile_sass = false
+build_search_index = true
+minify_html = true
+generate_feed = true
+feed_filename = "rss.xml"
+
+[markdown]
+highlight_code = false
+render_emoji = false
+external_links_target_blank = true
+external_links_no_follow = true
+external_links_no_referrer = false
+smart_punctuation = true
+
+[search]
+include_title = true
+include_description = false
+include_path = false
+include_content = true
+
+[extra]
+author = "Norman Köhring"
+author_homepage = "https://koehr.in"
