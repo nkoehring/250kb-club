@@ -19,15 +19,19 @@ Please send a patch or pull request. If unsure, you can also write a ticket ment
 The values shown in the list are URL, Total Weight, Content Ratio.
 
 Websites listed here are downloaded and analyzed with
-[Phantomas](https://github.com/macbre/phantomas).
+[YellowLabTools](https://yellowlab.tools).
 The total weight is counted and then the size of actual content is measured
-and shown as a ratio.
+and shown as a ratio. A higher ratio means more of the size is actual content.
 
 For example: If a website has a total weight of 100kb and 60kb are the
 documents structure, text, images, videos and so on, then the content ratio
 is 60%. The rest are extras like CSS, JavaScript and so on. It is hard to
 say what a good ratio is but my gut feeling is that everything above 20% is
 pretty good already.
+
+## All shiny
+
+This page got completely rebuild and several issues of the old version got solved. It now has pagination (100 pages per... well, page) and detail pages for every entry that you can link to.
 
 ## Hacking this page
 
@@ -49,7 +53,7 @@ The page analyser application generates markdown files that are rendered to a st
 git clone https://git.sr.ht/~koehr/the-250kb-club 250kb-club
 # or: git clone https://github.com/nkoehring/250kb-club.git
 cd 250kb-club
-
+mkdir -m a+rwx yltresults # for access to YLT results
 ```
 
 And build the page with `yarn build`.
