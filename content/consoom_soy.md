@@ -1,11 +1,11 @@
 +++
 title = "consoom.soy"
 date = "2022-03-22"
-updated = "2022-03-22"
-weight = 5257
+updated = "2022-04-11"
+weight = 4537
 
 [extra]
 source = "https://consoom.soy/"
-ratio = 32
-size = 5
+ratio = 28
+size = 4
 +++

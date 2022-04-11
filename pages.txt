@@ -160,7 +160,6 @@ https://box.matto.nl
 https://zakr.es/
 https://zakr.es/blog/
 https://codevoid.de/
-https://gabnotes.org/
 https://bcachefs.org/
 https://wondroushealing.com
 https://editions-du-26-octobre.com/
@@ -190,7 +189,6 @@ https://my-flow.com/
 https://0xff.nu/
 https://oscarforner.com/
 https://www.openbsd.org/
-https://majiehong.com/
 https://ybad.name/
 https://inatri.com/
 https://thomas.me/
@@ -246,7 +244,6 @@ https://quinncasey.com/
 https://sizi.ng/
 https://webzine.puffy.cafe/
 http://plasmasturm.org/
-https://featyre.xyz/
 https://free.mg/
 https://xslendi.xyz/
 https://notionbackups.com/
@@ -258,7 +255,6 @@ https://jeffhuang.com/
 https://kidl.at/
 https://dusanmitrovic.xyz/
 https://xnaas.info
-https://blmayer.dev/
 https://qubyte.codes/
 https://daniel-siepmann.de/
 https://kj7nzl.net/
@@ -295,3 +291,9 @@ https://saucecode.bar/
 http://ratfactor.com/
 https://toby3d.me/
 https://colean.cc/
+https://samic.org/
+https://thoughts.page/
+https://netbros.com/
+https://ampersandia.net/
+https://casperlefantom.net/
+https://rectangles.app/

@@ -1,11 +1,11 @@
 +++
 title = "www.danielwasserlaufquicklinks.com"
 date = "2022-03-22"
-updated = "2022-03-22"
-weight = 107304
+updated = "2022-04-11"
+weight = 104534
 
 [extra]
 source = "http://www.danielwasserlaufquicklinks.com/"
 ratio = 100
-size = 105
+size = 102
 +++

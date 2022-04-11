@@ -1,7 +1,7 @@
 +++
 title = "25kb.xyz"
 date = "2022-03-23"
-updated = "2022-03-23"
+updated = "2022-04-11"
 weight = 1400
 
 [extra]
