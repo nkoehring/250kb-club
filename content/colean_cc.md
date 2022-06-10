@@ -1,11 +1,11 @@
 +++
 title = "colean.cc"
 date = "2022-03-23"
-updated = "2022-04-11"
-weight = 1971
+updated = "2022-06-08"
+weight = 2193
 
 [extra]
 source = "https://colean.cc/"
-ratio = 68
+ratio = 70
 size = 2
 +++

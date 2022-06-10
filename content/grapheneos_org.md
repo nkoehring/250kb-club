@@ -1,11 +1,11 @@
 +++
 title = "grapheneos.org"
 date = "2022-03-22"
-updated = "2022-04-11"
-weight = 5464
+updated = "2022-06-08"
+weight = 4373
 
 [extra]
 source = "https://grapheneos.org/"
-ratio = 80
-size = 5
+ratio = 100
+size = 4
 +++

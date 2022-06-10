@@ -1,8 +1,8 @@
 +++
 title = "saucecode.bar"
 date = "2022-03-23"
-updated = "2022-04-11"
-weight = 5727
+updated = "2022-06-08"
+weight = 5903
 
 [extra]
 source = "https://saucecode.bar/"

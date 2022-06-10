@@ -1,8 +1,8 @@
 +++
 title = "unixsheikh.com"
 date = "2022-03-22"
-updated = "2022-04-11"
-weight = 48129
+updated = "2022-06-08"
+weight = 48188
 
 [extra]
 source = "https://unixsheikh.com/"

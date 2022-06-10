@@ -1,11 +1,11 @@
 +++
 title = "uglyduck.ca"
 date = "2022-03-22"
-updated = "2022-04-11"
-weight = 6708
+updated = "2022-06-08"
+weight = 2424
 
 [extra]
 source = "https://uglyduck.ca"
-ratio = 90
-size = 7
+ratio = 0
+size = 2
 +++
