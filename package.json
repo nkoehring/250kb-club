@@ -6,5 +6,11 @@
   "repository": "https://git.k0r.in/n/the-250kb-club",
   "author": "koehr <n@koehr.in>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "dev": "zola serve",
+    "build": "zola build",
+    "update-pages": "deno run --allow-read --allow-write --allow-net index.ts",
+    "ylt": "docker run --privileged -p 8383:8383 -v $PWD/yltresults:/usr/src/ylt/results ousamabenyounes/yellowlabtools"
+  }
 }
