@@ -1,6 +1,12 @@
 One URL per line.
 Lines that don't start with http:// or https://, as well as duplicates are ignored.
 
+https://250kb.club/
+https://512kb.club/
+https://1mb.club/
+https://10kbclub.com/
+https://no-js.club/
+https://abridge.netlify.app/
 https://unixsheikh.com/
 https://www.usecue.com
 https://lecaro.me/minimage/
@@ -14,7 +20,6 @@ https://dotfilehub.com
 https://manpages.bsd.lv
 https://danluu.com
 http://minid.net
-https://250kb.club
 https://subreply.com
 https://seirdy.one
 https://richj.co
@@ -34,7 +39,6 @@ https://unix.lgbt/
 https://sr.ht/
 https://sourcehut.org/
 http://oxenburypartners.com/
-https://1mb.club/
 https://freesolitaire.win/
 https://berkshirehathaway.com
 https://susam.in
@@ -141,7 +145,6 @@ https://salejandro.me/
 https://foxwells.garden/
 https://oh.mg/
 https://www.oskarlindgren.se/
-https://512kb.club/
 http://coolmathgames.tech/
 https://utsuho.rocks/
 https://arfer.net/
@@ -155,7 +158,6 @@ https://pr0.uk/
 https://natestemen.xyz/
 https://bnolet.me
 https://remoteroast.club/
-https://10kbclub.com
 https://box.matto.nl
 https://zakr.es/
 https://zakr.es/blog/
@@ -297,7 +299,6 @@ https://davidjenei.com
 https://jundimubarok.com
 https://heavymetalmusic.reviews/
 https://www.zinzy.website/
-https://no-js.club/
 https://jaxson.neocities.org/
 https://feather.wiki/
 https://jasonsanta.xyz
