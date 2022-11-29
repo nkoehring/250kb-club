@@ -1,8 +1,8 @@
 +++
 title = "thoughts.page"
 date = "2022-04-11"
-updated = "2022-06-08"
-weight = 59000
+updated = "2022-11-28"
+weight = 59002
 
 [extra]
 source = "https://thoughts.page/"

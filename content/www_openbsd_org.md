@@ -1,11 +1,11 @@
 +++
 title = "www.openbsd.org"
 date = "2022-03-22"
-updated = "2022-06-08"
-weight = 110395
+updated = "2022-11-28"
+weight = 94981
 
 [extra]
 source = "https://www.openbsd.org/"
-ratio = 3
-size = 108
+ratio = 4
+size = 93
 +++

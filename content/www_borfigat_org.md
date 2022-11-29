@@ -1,11 +1,11 @@
 +++
 title = "www.borfigat.org"
 date = "2022-03-22"
-updated = "2022-06-08"
-weight = 7671
+updated = "2022-11-28"
+weight = 11938
 
 [extra]
 source = "https://www.borfigat.org/"
-ratio = 24
-size = 7
+ratio = 54
+size = 12
 +++

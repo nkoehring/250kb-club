@@ -1,8 +1,8 @@
 +++
 title = "pbanks.net"
 date = "2022-03-22"
-updated = "2022-06-08"
-weight = 1242
+updated = "2022-11-28"
+weight = 1328
 
 [extra]
 source = "https://pbanks.net/"

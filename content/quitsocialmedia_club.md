@@ -1,11 +1,11 @@
 +++
 title = "quitsocialmedia.club"
 date = "2022-03-22"
-updated = "2022-06-08"
-weight = 108904
+updated = "2022-11-28"
+weight = 9487
 
 [extra]
 source = "https://quitsocialmedia.club/"
-ratio = 2
-size = 106
+ratio = 29
+size = 9
 +++

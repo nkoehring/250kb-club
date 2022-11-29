@@ -1,8 +1,8 @@
 +++
 title = "úl.de"
 date = "2022-03-22"
-updated = "2022-06-08"
-weight = 21635
+updated = "2022-11-28"
+weight = 21634
 
 [extra]
 source = "https://úl.de/"

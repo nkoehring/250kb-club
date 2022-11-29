@@ -12,7 +12,6 @@ https://www.usecue.com
 https://lecaro.me/minimage/
 https://k0r.in
 https://koehr.in
-https://koehr.tech
 https://sjmulder.nl
 https://text.npr.org
 https://playerone.kevincox.ca
@@ -47,7 +46,6 @@ https://bridge.simplefin.org
 https://lukeramsden.com
 https://mataroa.blog
 https://jvanelian.dev
-https://uglyduck.ca
 https://legiblenews.com
 https://cronokirby.com
 https://lite.cnn.com
@@ -86,7 +84,6 @@ https://nomasters.io/
 https://n.2p5.xyz/
 https://jakob.kaivo.net/
 https://alexschroeder.ch/
-https://humaidq.ae/
 https://jrballesteros05.codeberg.page/
 https://concise-encoding.org/
 http://gerikson.com/hnlo/
@@ -130,7 +127,6 @@ https://funnylookinhat.com/
 https://fabioartuso.com/
 https://pbanks.net/
 https://ache.one/
-https://www.minimumviable.it/
 https://emersion.fr/
 https://drewdevault.com/
 https://christine.website/
@@ -215,7 +211,6 @@ https://ttntm.me/
 https://kishvanchee.com/
 https://quitsocialmedia.club/
 https://luana.cc/
-https://crackle.dev/
 https://www.paritybit.ca/
 https://cnx.srht.site/
 https://huyngo.envs.net
@@ -226,7 +221,6 @@ https://norayr.am/
 https://antranigv.am/
 https://slackjeff.com.br/
 https://noulin.net/blog/
-https://bduck.xyz/
 https://dyremyhr.no/
 https://artemislena.eu/
 https://gtrr.artemislena.eu/
@@ -266,7 +260,6 @@ https://manuelmoreale.com/
 https://bvnf.space/
 https://pools.xmr.wiki/
 https://gennext.net.au/
-https://page.mi.fu-berlin.de/jhermann/
 https://xmdr.nl/
 https://notes.eatonphil.com/
 https://si3t.ch/
@@ -276,7 +269,6 @@ https://jason.nabein.me/
 https://volleyball-baustetten.de/
 https://satchlj.us/
 https://www.borfigat.org/
-https://anabeatriz.dev/
 https://grapheneos.org/
 https://palashbauri.in/
 https://viniciushansen.github.io/
@@ -316,3 +308,4 @@ https://1kb.lejtzen.dev
 https://itsuckstostudyin.de/
 https://tsk.bearblog.dev/
 https://okuno.se/
+https://starsy.netlify.app/

@@ -1,11 +1,11 @@
 +++
 title = "coolmathgames.tech"
 date = "2022-03-22"
-updated = "2022-06-08"
-weight = 58366
+updated = "2022-11-28"
+weight = 62485
 
 [extra]
 source = "http://coolmathgames.tech/"
-ratio = 9
-size = 57
+ratio = 8
+size = 61
 +++

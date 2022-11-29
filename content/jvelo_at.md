@@ -1,11 +1,11 @@
 +++
 title = "jvelo.at"
 date = "2022-03-22"
-updated = "2022-06-08"
-weight = 187920
+updated = "2022-11-27"
+weight = 187877
 
 [extra]
 source = "https://jvelo.at/"
 ratio = 2
-size = 184
+size = 183
 +++

@@ -1,8 +1,8 @@
 +++
 title = "tom.kobalt.dev"
 date = "2022-04-11"
-updated = "2022-06-08"
-weight = 2124
+updated = "2022-11-28"
+weight = 2119
 
 [extra]
 source = "https://tom.kobalt.dev/"

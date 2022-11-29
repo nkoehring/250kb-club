@@ -1,11 +1,11 @@
 +++
 title = "ut99.weba.ru"
 date = "2022-03-22"
-updated = "2022-06-08"
-weight = 94821
+updated = "2022-11-28"
+weight = 138737
 
 [extra]
 source = "https://ut99.weba.ru/"
-ratio = 3
-size = 93
+ratio = 1
+size = 135
 +++

@@ -1,8 +1,8 @@
 +++
 title = "suckless.org"
 date = "2022-03-22"
-updated = "2022-06-08"
-weight = 118922
+updated = "2022-11-28"
+weight = 119099
 
 [extra]
 source = "https://suckless.org/"

@@ -1,11 +1,11 @@
 +++
 title = "dusanmitrovic.xyz"
 date = "2022-03-22"
-updated = "2022-06-08"
-weight = 9342
+updated = "2022-11-28"
+weight = 14464
 
 [extra]
 source = "https://dusanmitrovic.xyz/"
-ratio = 28
-size = 9
+ratio = 19
+size = 14
 +++
