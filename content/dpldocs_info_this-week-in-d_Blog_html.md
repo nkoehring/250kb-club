@@ -1,11 +1,11 @@
 +++
 title = "dpldocs.info/this-week-in-d/Blog.html"
 date = "2022-03-22"
-updated = "2022-11-27"
-weight = 113574
+updated = "2023-01-31"
+weight = 117668
 
 [extra]
 source = "http://dpldocs.info/this-week-in-d/Blog.html"
-ratio = 75
-size = 111
+ratio = 76
+size = 115
 +++

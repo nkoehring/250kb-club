@@ -1,11 +1,11 @@
 +++
 title = "mineralexistence.com/home.html"
 date = "2022-03-22"
-updated = "2022-11-28"
-weight = 17348
+updated = "2023-01-31"
+weight = 17663
 
 [extra]
 source = "https://mineralexistence.com/home.html"
-ratio = 17
+ratio = 19
 size = 17
 +++

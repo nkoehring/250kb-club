@@ -1,11 +1,11 @@
 +++
 title = "editions-du-26-octobre.com"
 date = "2022-03-22"
-updated = "2022-11-28"
-weight = 91938
+updated = "2023-01-31"
+weight = 92485
 
 [extra]
 source = "https://editions-du-26-octobre.com/"
-ratio = 16
+ratio = 17
 size = 90
 +++

@@ -1,11 +1,11 @@
 +++
 title = "úl.de"
 date = "2022-03-22"
-updated = "2022-11-28"
-weight = 21634
+updated = "2023-01-31"
+weight = 20766
 
 [extra]
 source = "https://úl.de/"
-ratio = 22
-size = 21
+ratio = 19
+size = 20
 +++

@@ -1,11 +1,11 @@
 +++
 title = "phreedom.club"
 date = "2022-03-22"
-updated = "2022-11-27"
-weight = 18849
+updated = "2023-01-31"
+weight = 21007
 
 [extra]
 source = "https://phreedom.club/"
-ratio = 16
-size = 18
+ratio = 15
+size = 21
 +++

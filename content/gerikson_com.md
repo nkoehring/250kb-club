@@ -1,11 +1,11 @@
 +++
 title = "gerikson.com"
 date = "2022-03-22"
-updated = "2022-11-27"
-weight = 2333
+updated = "2023-01-31"
+weight = 2377
 
 [extra]
 source = "http://gerikson.com/"
-ratio = 40
+ratio = 41
 size = 2
 +++

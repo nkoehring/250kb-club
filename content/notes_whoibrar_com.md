@@ -1,11 +1,11 @@
 +++
 title = "notes.whoibrar.com"
 date = "2022-06-10"
-updated = "2022-11-28"
-weight = 4448
+updated = "2023-01-31"
+weight = 4144
 
 [extra]
 source = "https://notes.whoibrar.com/"
-ratio = 59
+ratio = 56
 size = 4
 +++

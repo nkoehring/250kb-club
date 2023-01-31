@@ -31,11 +31,9 @@ https://monokai.nl
 https://flatpackapps.com
 https://frontaid.io
 https://worldti.me
-https://jeremysarber.com
 https://kunalmarwaha.com/
 https://chrisportela.com
 https://jlelse.blog/
-https://unix.lgbt/
 https://sr.ht/
 https://sourcehut.org/
 http://oxenburypartners.com/
@@ -48,7 +46,6 @@ https://mataroa.blog
 https://jvanelian.dev
 https://legiblenews.com
 https://cronokirby.com
-https://lite.cnn.com
 https://john-doe.neocities.org
 https://news.ycombinator.com
 https://blog.fefe.de
@@ -59,12 +56,10 @@ https://benovermyer.com/
 https://www.tuhs.org/
 https://searchbot.app/
 https://lobste.rs/
-https://alexanderobenauer.com
 https://codelayer.de
 https://matthewstrom.com
 https://danielsada.tech/
 https://ihaque.org/
-https://ultimateelectronicsbook.com/
 https://xubuntu.org/
 https://www.tarsnap.com/
 https://ylukem.com/
@@ -203,8 +198,6 @@ https://lil.gay/
 https://beh.uk/
 https://ohio.araw.xyz/
 https://nytpu.com/
-https://danielcuttridge.com/
-https://sugarfi.dev/
 http://www.verybad.link/
 https://zn80.net/
 https://ttntm.me/
@@ -219,7 +212,6 @@ https://swl.am/
 https://սոնա.հայ/
 https://norayr.am/
 https://antranigv.am/
-https://slackjeff.com.br/
 https://noulin.net/blog/
 https://dyremyhr.no/
 https://artemislena.eu/
@@ -235,7 +227,6 @@ https://consoom.soy/
 https://phate6660.github.io/
 https://miku86.com/
 https://na20a.neocities.org/
-https://quinncasey.com/
 https://sizi.ng/
 https://webzine.puffy.cafe/
 http://plasmasturm.org/
@@ -256,12 +247,10 @@ https://kj7nzl.net/
 https://thejollyteapot.com/
 https://boehs.org/
 https://radiocanadamini.ca/
-https://manuelmoreale.com/
 https://bvnf.space/
 https://pools.xmr.wiki/
 https://gennext.net.au/
 https://xmdr.nl/
-https://notes.eatonphil.com/
 https://si3t.ch/
 https://ccsleep.net/
 https://s1.flatpackapps.com/app.php?appId=22
@@ -296,7 +285,6 @@ https://jaxson.neocities.org/
 https://feather.wiki/
 https://jasonsanta.xyz
 https://ononoki.org/
-http://ajroach42.com/
 https://aroace.space/
 https://annaaurora.eu/
 http://xwx.moe/
@@ -305,7 +293,6 @@ https://kangae.ayushnix.com/
 https://notes.whoibrar.com/
 https://withoutdistractions.com/cv
 https://1kb.lejtzen.dev
-https://itsuckstostudyin.de/
 https://tsk.bearblog.dev/
 https://okuno.se/
 https://starsy.netlify.app/
