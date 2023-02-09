@@ -1,11 +1,11 @@
 +++
 title = "chrisportela.com"
 date = "2022-03-22"
-updated = "2023-01-31"
-weight = 142481
+updated = "2023-02-07"
+weight = 145172
 
 [extra]
 source = "https://chrisportela.com"
-ratio = 2
-size = 139
+ratio = 1
+size = 142
 +++

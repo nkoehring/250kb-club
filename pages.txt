@@ -108,7 +108,6 @@ https://sparkbox.github.io/bouncy-ball/
 https://sparkbox.github.io/logo-experiments/
 https://www.bryanbraun.com/connect-four/
 https://www.bryanbraun.com/after-dark-css/
-https://www.bryanbraun.com/anchorjs/
 https://www.bryanbraun.com/
 https://blog.fossterer.com/
 https://lighthouse16.com/

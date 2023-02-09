@@ -1,11 +1,11 @@
 +++
 title = "abridge.netlify.app"
 date = "2022-11-26"
-updated = "2023-01-31"
-weight = 12426
+updated = "2023-02-07"
+weight = 12723
 
 [extra]
 source = "https://abridge.netlify.app/"
-ratio = 30
+ratio = 29
 size = 12
 +++
