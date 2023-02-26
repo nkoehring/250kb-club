@@ -1,8 +1,8 @@
 +++
 title = "john-doe.neocities.org"
 date = "2022-03-22"
-updated = "2023-02-07"
-weight = 7299
+updated = "2023-02-26"
+weight = 7292
 
 [extra]
 source = "https://john-doe.neocities.org"

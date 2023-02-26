@@ -1,8 +1,8 @@
 +++
 title = "vort3.com"
 date = "2023-01-31"
-updated = "2023-01-31"
-weight = 12984
+updated = "2023-02-26"
+weight = 12960
 
 [extra]
 source = "https://vort3.com/"

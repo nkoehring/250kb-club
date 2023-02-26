@@ -1,11 +1,11 @@
 +++
 title = "dyremyhr.no"
 date = "2022-03-22"
-updated = "2023-01-31"
-weight = 8321
+updated = "2023-02-26"
+weight = 8580
 
 [extra]
 source = "https://dyremyhr.no/"
-ratio = 16
+ratio = 19
 size = 8
 +++

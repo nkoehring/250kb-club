@@ -1,8 +1,8 @@
 +++
 title = "withoutdistractions.com/cv"
 date = "2022-06-10"
-updated = "2023-01-31"
-weight = 180105
+updated = "2023-02-26"
+weight = 180061
 
 [extra]
 source = "https://withoutdistractions.com/cv"

@@ -1,8 +1,8 @@
 +++
 title = "adambuczek.com"
 date = "2023-01-31"
-updated = "2023-01-31"
-weight = 11054
+updated = "2023-02-26"
+weight = 11079
 
 [extra]
 source = "https://adambuczek.com"
