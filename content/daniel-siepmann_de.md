@@ -1,8 +1,8 @@
 +++
 title = "daniel-siepmann.de"
 date = "2022-03-22"
-updated = "2023-02-26"
-weight = 18240
+updated = "2023-03-17"
+weight = 18248
 
 [extra]
 source = "https://daniel-siepmann.de/"

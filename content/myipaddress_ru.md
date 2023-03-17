@@ -1,8 +1,8 @@
 +++
 title = "myipaddress.ru"
 date = "2022-03-22"
-updated = "2023-02-26"
-weight = 1215
+updated = "2023-03-17"
+weight = 1216
 
 [extra]
 source = "https://myipaddress.ru"

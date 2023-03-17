@@ -1,11 +1,11 @@
 +++
 title = "news.tuxmachines.org"
 date = "2023-02-01"
-updated = "2023-02-26"
-weight = 156508
+updated = "2023-03-17"
+weight = 160623
 
 [extra]
 source = "https://news.tuxmachines.org/"
-ratio = 14
-size = 153
+ratio = 16
+size = 157
 +++

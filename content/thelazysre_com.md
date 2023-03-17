@@ -1,8 +1,8 @@
 +++
 title = "thelazysre.com"
 date = "2023-01-31"
-updated = "2023-02-26"
-weight = 5933
+updated = "2023-03-17"
+weight = 5951
 
 [extra]
 source = "https://thelazysre.com/"

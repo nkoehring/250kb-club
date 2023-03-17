@@ -9,7 +9,7 @@ https://no-js.club/
 https://abridge.netlify.app/
 https://unixsheikh.com/
 https://www.usecue.com
-https://lecaro.me/minimage/
+https://lecaro.me
 https://k0r.in
 https://koehr.in
 https://sjmulder.nl
@@ -260,7 +260,6 @@ https://pumpopoly.com/
 https://jagatsoker.blogspot.com/
 http://ratfactor.com/
 https://toby3d.me/
-https://colean.cc/
 https://samic.org/
 https://thoughts.page/
 https://netbros.com/
@@ -341,4 +340,4 @@ https://nelson.cloud/
 https://arciniega.one/
 http://www.sayorivill.me/
 https://pigeon.codeberg.page/
-https://txt.allfoxesare.gay/
+https://allfoxesare.gay/

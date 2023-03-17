@@ -1,11 +1,11 @@
 +++
 title = "uberspace.de"
 date = "2022-03-22"
-updated = "2023-02-26"
-weight = 151062
+updated = "2023-03-17"
+weight = 152315
 
 [extra]
 source = "https://uberspace.de/"
 ratio = 5
-size = 148
+size = 149
 +++

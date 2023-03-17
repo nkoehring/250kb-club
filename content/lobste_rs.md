@@ -1,11 +1,11 @@
 +++
 title = "lobste.rs"
 date = "2022-03-22"
-updated = "2023-02-26"
-weight = 40624
+updated = "2023-03-17"
+weight = 45966
 
 [extra]
 source = "https://lobste.rs/"
-ratio = 23
-size = 40
+ratio = 22
+size = 45
 +++
