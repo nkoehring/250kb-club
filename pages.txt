@@ -267,7 +267,6 @@ https://ampersandia.net/
 https://casperlefantom.net/
 https://rectangles.app/
 https://davidjenei.com
-https://jundimubarok.com
 https://jaxson.neocities.org/
 https://feather.wiki/
 https://jasonsanta.xyz
@@ -324,7 +323,6 @@ https://bubirwebsitesi.github.io/
 https://news.tuxmachines.org/
 https://palashbauri.in/
 https://arya.projectsegfau.lt/
-https://projectsegfau.lt/
 https://shiver.asia/
 https://webseiten-vorlage.seopunkt.de/
 http://goestathomas.de/
@@ -341,3 +339,6 @@ https://arciniega.one/
 http://www.sayorivill.me/
 https://pigeon.codeberg.page/
 https://allfoxesare.gay/
+https://ducky.is-a.dev/
+https://hobospider132.github.io/
+https://blog.madelinepritchard.net/
