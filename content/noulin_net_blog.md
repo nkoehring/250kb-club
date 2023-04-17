@@ -1,11 +1,11 @@
 +++
 title = "noulin.net/blog"
 date = "2022-03-22"
-updated = "2023-03-17"
-weight = 25788
+updated = "2023-04-17"
+weight = 26206
 
 [extra]
 source = "https://noulin.net/blog/"
-ratio = 66
-size = 25
+ratio = 67
+size = 26
 +++

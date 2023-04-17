@@ -1,11 +1,11 @@
 +++
 title = "fullstackpython.com"
 date = "2022-03-22"
-updated = "2023-03-17"
-weight = 5656
+updated = "2023-04-17"
+weight = 12220
 
 [extra]
 source = "https://fullstackpython.com"
-ratio = 100
-size = 6
+ratio = 48
+size = 12
 +++

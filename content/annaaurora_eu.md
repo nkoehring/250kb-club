@@ -1,11 +1,11 @@
 +++
 title = "annaaurora.eu"
 date = "2022-11-28"
-updated = "2023-03-17"
-weight = 36346
+updated = "2023-04-17"
+weight = 36219
 
 [extra]
 source = "https://annaaurora.eu/"
-ratio = 7
+ratio = 6
 size = 35
 +++

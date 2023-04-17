@@ -1,11 +1,11 @@
 +++
 title = "jakob.kaivo.net"
 date = "2022-03-22"
-updated = "2023-03-17"
-weight = 1702
+updated = "2023-04-17"
+weight = 1741
 
 [extra]
 source = "https://jakob.kaivo.net/"
-ratio = 60
+ratio = 61
 size = 2
 +++
