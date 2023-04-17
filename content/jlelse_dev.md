@@ -1,11 +1,11 @@
 +++
 title = "jlelse.dev"
 date = "2023-02-26"
-updated = "2023-03-17"
-weight = 3042
+updated = "2023-04-17"
+weight = 2994
 
 [extra]
 source = "https://jlelse.dev/"
-ratio = 58
+ratio = 57
 size = 3
 +++

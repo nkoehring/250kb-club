@@ -1,11 +1,11 @@
 +++
 title = "zinzy.website"
 date = "2023-03-17"
-updated = "2023-03-17"
-weight = 63011
+updated = "2023-04-17"
+weight = 109170
 
 [extra]
 source = "https://zinzy.website/"
-ratio = 9
-size = 62
+ratio = 5
+size = 107
 +++
