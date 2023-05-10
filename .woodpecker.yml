@@ -1,0 +1,17 @@
+services:
+  ylt:
+    image: ousamabenyounes/yellowlabtools
+
+pipeline:
+  analyze:
+    image: denoland/deno
+    commands:
+      - sleep 3
+      - deno run --allow-read --allow-write --allow-net index.ts
+  build:
+    image: jauderho/zola:latest
+    commands:
+      - chmod -R a+rw /mnt
+      - zola build -o /mnt/dist --force
+    volumes:
+      - /home/n/CI/250kb_club:/mnt/
