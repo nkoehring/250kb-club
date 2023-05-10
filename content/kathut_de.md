@@ -1,8 +1,8 @@
 +++
 title = "kathut.de"
 date = "2023-04-17"
-updated = "2023-04-17"
-weight = 3259
+updated = "2023-05-10"
+weight = 3144
 
 [extra]
 source = "https://kathut.de"

@@ -1,11 +1,11 @@
 +++
 title = "axel.beckert.ch"
 date = "2023-01-31"
-updated = "2023-04-17"
-weight = 64608
+updated = "2023-05-10"
+weight = 63131
 
 [extra]
 source = "https://axel.beckert.ch/"
-ratio = 43
-size = 63
+ratio = 44
+size = 62
 +++

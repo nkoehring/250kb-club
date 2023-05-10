@@ -1,8 +1,8 @@
 +++
 title = "news.ycombinator.com"
 date = "2022-03-22"
-updated = "2023-04-17"
-weight = 12152
+updated = "2023-05-10"
+weight = 12247
 
 [extra]
 source = "https://news.ycombinator.com"

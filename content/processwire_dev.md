@@ -1,11 +1,11 @@
 +++
 title = "processwire.dev"
 date = "2022-03-22"
-updated = "2023-04-17"
-weight = 19298
+updated = "2023-05-10"
+weight = 20139
 
 [extra]
 source = "https://processwire.dev/"
-ratio = 37
-size = 19
+ratio = 35
+size = 20
 +++

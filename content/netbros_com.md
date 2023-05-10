@@ -1,11 +1,11 @@
 +++
 title = "netbros.com"
 date = "2022-04-11"
-updated = "2023-04-17"
-weight = 124122
+updated = "2023-05-10"
+weight = 130740
 
 [extra]
 source = "https://netbros.com/"
-ratio = 15
-size = 121
+ratio = 5
+size = 128
 +++

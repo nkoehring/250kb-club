@@ -1,11 +1,11 @@
 +++
 title = "tryhexadecimal.com"
 date = "2022-03-22"
-updated = "2023-04-17"
-weight = 13063
+updated = "2023-05-10"
+weight = 13078
 
 [extra]
 source = "https://tryhexadecimal.com/"
-ratio = 47
+ratio = 46
 size = 13
 +++

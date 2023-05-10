@@ -1,11 +1,11 @@
 +++
 title = "0xff.nu"
 date = "2022-03-22"
-updated = "2023-04-17"
-weight = 3890
+updated = "2023-05-10"
+weight = 3926
 
 [extra]
 source = "https://0xff.nu/"
-ratio = 72
+ratio = 71
 size = 4
 +++

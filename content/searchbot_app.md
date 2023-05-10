@@ -1,8 +1,8 @@
 +++
 title = "searchbot.app"
 date = "2022-03-22"
-updated = "2023-04-17"
-weight = 42406
+updated = "2023-05-10"
+weight = 42411
 
 [extra]
 source = "https://searchbot.app/"
