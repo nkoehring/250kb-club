@@ -1,7 +1,7 @@
 +++
 title = "xwx.moe"
 date = "2022-06-10"
-updated = "2023-05-10"
+updated = "2023-06-08"
 weight = 3264
 
 [extra]

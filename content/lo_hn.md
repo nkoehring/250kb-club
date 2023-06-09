@@ -1,8 +1,8 @@
 +++
 title = "lo.hn"
 date = "2022-03-22"
-updated = "2023-05-10"
-weight = 605
+updated = "2023-06-08"
+weight = 597
 
 [extra]
 source = "https://lo.hn/"

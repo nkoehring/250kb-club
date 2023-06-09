@@ -1,11 +1,11 @@
 +++
 title = "minid.net"
 date = "2022-03-22"
-updated = "2023-05-10"
-weight = 4110
+updated = "2023-06-08"
+weight = 189654
 
 [extra]
 source = "http://minid.net"
-ratio = 100
-size = 4
+ratio = 4
+size = 185
 +++

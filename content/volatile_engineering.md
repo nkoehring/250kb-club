@@ -1,8 +1,8 @@
 +++
 title = "volatile.engineering"
 date = "2023-02-01"
-updated = "2023-05-10"
-weight = 3077
+updated = "2023-06-09"
+weight = 3047
 
 [extra]
 source = "https://volatile.engineering/"

@@ -1,11 +1,11 @@
 +++
 title = "thelion.website"
 date = "2022-03-22"
-updated = "2023-05-10"
-weight = 32752
+updated = "2023-06-08"
+weight = 25632
 
 [extra]
 source = "https://thelion.website/"
-ratio = 13
-size = 32
+ratio = 16
+size = 25
 +++

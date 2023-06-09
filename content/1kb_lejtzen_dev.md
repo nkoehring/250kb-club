@@ -1,8 +1,8 @@
 +++
 title = "1kb.lejtzen.dev"
 date = "2022-11-28"
-updated = "2023-05-10"
-weight = 982
+updated = "2023-06-08"
+weight = 981
 
 [extra]
 source = "https://1kb.lejtzen.dev"

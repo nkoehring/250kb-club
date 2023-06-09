@@ -1,11 +1,11 @@
 +++
 title = "arciniega.one"
 date = "2023-02-26"
-updated = "2023-05-10"
-weight = 38177
+updated = "2023-06-09"
+weight = 108497
 
 [extra]
 source = "https://arciniega.one/"
-ratio = 22
-size = 37
+ratio = 2
+size = 106
 +++

@@ -1,8 +1,8 @@
 +++
 title = "xidoc.nim.town"
 date = "2023-02-01"
-updated = "2023-05-10"
-weight = 81340
+updated = "2023-06-09"
+weight = 81250
 
 [extra]
 source = "https://xidoc.nim.town/"

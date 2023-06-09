@@ -1,8 +1,8 @@
 +++
 title = "abridge.netlify.app"
 date = "2022-11-26"
-updated = "2023-05-10"
-weight = 12737
+updated = "2023-06-08"
+weight = 12710
 
 [extra]
 source = "https://abridge.netlify.app/"

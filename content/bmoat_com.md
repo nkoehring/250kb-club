@@ -1,11 +1,11 @@
 +++
 title = "bmoat.com"
 date = "2023-05-10"
-updated = "2023-05-10"
-weight = 22686
+updated = "2023-06-09"
+weight = 97398
 
 [extra]
 source = "https://bmoat.com/"
-ratio = 40
-size = 22
+ratio = 7
+size = 95
 +++

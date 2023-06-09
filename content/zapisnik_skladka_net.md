@@ -1,11 +1,11 @@
 +++
 title = "zapisnik.skladka.net"
 date = "2023-02-26"
-updated = "2023-05-10"
-weight = 8051
+updated = "2023-06-09"
+weight = 21149
 
 [extra]
 source = "https://zapisnik.skladka.net/"
-ratio = 50
-size = 8
+ratio = 54
+size = 21
 +++

@@ -1,11 +1,11 @@
 +++
 title = "aroace.space"
-date = "2022-06-10"
-updated = "2023-05-10"
-weight = 243646
+date = "2023-06-09"
+updated = "2023-06-09"
+weight = 151842
 
 [extra]
 source = "https://aroace.space/"
-ratio = 2
-size = 238
+ratio = 3
+size = 148
 +++

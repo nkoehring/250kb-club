@@ -1,8 +1,8 @@
 +++
 title = "boehs.org"
 date = "2022-03-22"
-updated = "2023-05-10"
-weight = 84395
+updated = "2023-06-08"
+weight = 84372
 
 [extra]
 source = "https://boehs.org/"

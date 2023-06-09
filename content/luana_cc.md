@@ -1,8 +1,8 @@
 +++
 title = "luana.cc"
-date = "2022-03-22"
-updated = "2023-05-10"
-weight = 2489
+date = "2023-06-09"
+updated = "2023-06-09"
+weight = 2438
 
 [extra]
 source = "https://luana.cc/"

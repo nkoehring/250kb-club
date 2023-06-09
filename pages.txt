@@ -112,7 +112,6 @@ https://www.bryanbraun.com/
 https://blog.fossterer.com/
 https://lighthouse16.com/
 https://nest.jakl.one/
-https://getindiekit.com/
 https://www.slowernews.com/
 https://gallant.dev/
 https://yorickpeterse.com/
@@ -135,7 +134,6 @@ https://salejandro.me/
 https://foxwells.garden/
 https://oh.mg/
 https://www.oskarlindgren.se/
-http://coolmathgames.tech/
 https://utsuho.rocks/
 https://arfer.net/
 https://chad.hirsch.host
@@ -172,7 +170,6 @@ https://kevq.uk/
 https://motz-berlin.de/
 https://cycloneblaze.net/
 https://kayafirat.com/
-https://www.neelc.org/about/
 https://www.groovestomp.com/
 https://binyam.in/
 https://fossdd.codeberg.page/
@@ -180,7 +177,6 @@ https://my-flow.com/
 https://0xff.nu/
 https://oscarforner.com/
 https://www.openbsd.org/
-https://ybad.name/
 https://inatri.com/
 https://thomas.me/
 https://martin.baillie.id/
@@ -218,7 +214,6 @@ https://lukesempire.com/
 https://xigoi.neocities.org/
 https://t0.vc/
 https://codingbobby.xyz/
-https://mineralexistence.com/home.html
 https://consoom.soy/
 https://phate6660.github.io/
 https://miku86.com/
@@ -237,7 +232,6 @@ https://dusanmitrovic.xyz/
 https://xnaas.info
 https://qubyte.codes/
 https://daniel-siepmann.de/
-https://kj7nzl.net/
 https://thejollyteapot.com/
 https://boehs.org/
 https://radiocanadamini.ca/
@@ -262,7 +256,6 @@ http://ratfactor.com/
 https://toby3d.me/
 https://samic.org/
 https://thoughts.page/
-https://netbros.com/
 https://ampersandia.net/
 https://casperlefantom.net/
 https://rectangles.app/
@@ -338,7 +331,6 @@ https://nelson.cloud/
 https://arciniega.one/
 http://www.sayorivill.me/
 https://pigeon.codeberg.page/
-https://allfoxesare.gay/
 https://ducky.is-a.dev/
 https://hobospider132.github.io/
 https://blog.madelinepritchard.net/
@@ -349,7 +341,6 @@ https://holdenclarke.com/
 https://vanzasetia.site/
 https://iqbalrifai.eu.org/
 https://drag13.io/
-https://markus-haack.com/
 http://si3t.ch/
 https://noelle.df1.dev/
 https://bmoat.com/
