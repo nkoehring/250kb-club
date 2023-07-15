@@ -1,11 +1,11 @@
 +++
 title = "danielsada.tech"
 date = "2022-03-22"
-updated = "2023-06-08"
-weight = 217134
+updated = "2023-07-15"
+weight = 220926
 
 [extra]
 source = "https://danielsada.tech/"
 ratio = 2
-size = 212
+size = 216
 +++

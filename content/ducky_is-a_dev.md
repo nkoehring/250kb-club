@@ -1,8 +1,8 @@
 +++
 title = "ducky.is-a.dev"
 date = "2023-03-17"
-updated = "2023-06-09"
-weight = 15283
+updated = "2023-07-15"
+weight = 15386
 
 [extra]
 source = "https://ducky.is-a.dev/"

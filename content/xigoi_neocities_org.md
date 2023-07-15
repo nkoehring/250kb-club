@@ -1,11 +1,11 @@
 +++
 title = "xigoi.neocities.org"
 date = "2022-03-22"
-updated = "2023-06-08"
-weight = 6654
+updated = "2023-07-15"
+weight = 9198
 
 [extra]
 source = "https://xigoi.neocities.org/"
-ratio = 59
-size = 6
+ratio = 32
+size = 9
 +++

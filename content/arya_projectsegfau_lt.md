@@ -1,8 +1,8 @@
 +++
 title = "arya.projectsegfau.lt"
 date = "2023-02-01"
-updated = "2023-06-09"
-weight = 2515
+updated = "2023-07-15"
+weight = 2516
 
 [extra]
 source = "https://arya.projectsegfau.lt/"

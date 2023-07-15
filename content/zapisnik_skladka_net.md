@@ -1,8 +1,8 @@
 +++
 title = "zapisnik.skladka.net"
 date = "2023-02-26"
-updated = "2023-06-09"
-weight = 21149
+updated = "2023-07-15"
+weight = 21158
 
 [extra]
 source = "https://zapisnik.skladka.net/"

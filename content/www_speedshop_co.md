@@ -1,11 +1,11 @@
 +++
 title = "www.speedshop.co"
 date = "2022-03-22"
-updated = "2023-06-08"
-weight = 85088
+updated = "2023-07-15"
+weight = 84790
 
 [extra]
 source = "https://www.speedshop.co/"
-ratio = 16
+ratio = 17
 size = 83
 +++

@@ -1,8 +1,8 @@
 +++
 title = "riedler.wien/music"
 date = "2023-01-31"
-updated = "2023-06-09"
-weight = 22331
+updated = "2023-07-15"
+weight = 22778
 
 [extra]
 source = "https://riedler.wien/music/"

@@ -1,8 +1,8 @@
 +++
 title = "jmtd.net"
 date = "2022-03-22"
-updated = "2023-06-08"
-weight = 221582
+updated = "2023-07-15"
+weight = 221607
 
 [extra]
 source = "https://jmtd.net/"

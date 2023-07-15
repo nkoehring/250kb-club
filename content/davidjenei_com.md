@@ -1,8 +1,8 @@
 +++
 title = "davidjenei.com"
 date = "2022-06-08"
-updated = "2023-06-08"
-weight = 13200
+updated = "2023-07-15"
+weight = 13197
 
 [extra]
 source = "https://davidjenei.com"

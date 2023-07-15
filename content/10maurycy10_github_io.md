@@ -1,11 +1,11 @@
 +++
 title = "10maurycy10.github.io"
 date = "2023-02-26"
-updated = "2023-06-09"
-weight = 12170
+updated = "2023-07-15"
+weight = 13313
 
 [extra]
 source = "https://10maurycy10.github.io/"
-ratio = 72
-size = 12
+ratio = 75
+size = 13
 +++

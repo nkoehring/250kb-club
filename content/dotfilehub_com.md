@@ -1,8 +1,8 @@
 +++
 title = "dotfilehub.com"
 date = "2022-03-22"
-updated = "2023-06-08"
-weight = 2952
+updated = "2023-07-15"
+weight = 2949
 
 [extra]
 source = "https://dotfilehub.com"

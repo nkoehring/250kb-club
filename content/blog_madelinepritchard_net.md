@@ -1,8 +1,8 @@
 +++
 title = "blog.madelinepritchard.net"
 date = "2023-03-17"
-updated = "2023-06-09"
-weight = 28147
+updated = "2023-07-15"
+weight = 28041
 
 [extra]
 source = "https://blog.madelinepritchard.net/"

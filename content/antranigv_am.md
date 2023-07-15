@@ -1,8 +1,8 @@
 +++
 title = "antranigv.am"
 date = "2022-03-22"
-updated = "2023-06-08"
-weight = 77934
+updated = "2023-07-15"
+weight = 77933
 
 [extra]
 source = "https://antranigv.am/"

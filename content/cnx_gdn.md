@@ -1,11 +1,11 @@
 +++
 title = "cnx.gdn"
 date = "2023-02-01"
-updated = "2023-06-08"
-weight = 2807
+updated = "2023-07-15"
+weight = 2763
 
 [extra]
 source = "https://cnx.gdn"
-ratio = 53
+ratio = 52
 size = 3
 +++

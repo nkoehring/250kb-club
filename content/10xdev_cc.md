@@ -1,7 +1,7 @@
 +++
 title = "10xdev.cc"
 date = "2023-01-31"
-updated = "2023-06-09"
+updated = "2023-07-15"
 weight = 406
 
 [extra]

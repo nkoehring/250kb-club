@@ -1,7 +1,7 @@
 +++
 title = "m-chrzan.xyz"
 date = "2022-03-22"
-updated = "2023-06-08"
+updated = "2023-07-15"
 weight = 2546
 
 [extra]

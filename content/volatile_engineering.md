@@ -1,11 +1,11 @@
 +++
 title = "volatile.engineering"
 date = "2023-02-01"
-updated = "2023-06-09"
-weight = 3047
+updated = "2023-07-15"
+weight = 244597
 
 [extra]
 source = "https://volatile.engineering/"
-ratio = 48
-size = 3
+ratio = 1
+size = 239
 +++

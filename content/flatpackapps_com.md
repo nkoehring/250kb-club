@@ -1,11 +1,11 @@
 +++
 title = "flatpackapps.com"
 date = "2022-03-22"
-updated = "2023-06-08"
-weight = 19058
+updated = "2023-07-15"
+weight = 17653
 
 [extra]
 source = "https://flatpackapps.com"
-ratio = 14
-size = 19
+ratio = 15
+size = 17
 +++
