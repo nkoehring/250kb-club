@@ -1,8 +1,8 @@
 +++
 title = "s1.flatpackapps.com/app.php?appId=22"
 date = "2022-03-22"
-updated = "2023-07-15"
-weight = 128235
+updated = "2023-07-30"
+weight = 128260
 
 [extra]
 source = "https://s1.flatpackapps.com/app.php?appId=22"

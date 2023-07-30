@@ -1,11 +1,11 @@
 +++
 title = "figcat.com"
 date = "2023-05-10"
-updated = "2023-07-15"
-weight = 35629
+updated = "2023-07-30"
+weight = 35507
 
 [extra]
 source = "https://figcat.com/"
-ratio = 50
+ratio = 49
 size = 35
 +++

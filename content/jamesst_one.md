@@ -1,8 +1,8 @@
 +++
 title = "jamesst.one"
 date = "2022-11-26"
-updated = "2023-07-15"
-weight = 29949
+updated = "2023-07-30"
+weight = 29962
 
 [extra]
 source = "https://jamesst.one"

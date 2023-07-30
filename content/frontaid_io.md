@@ -1,8 +1,8 @@
 +++
 title = "frontaid.io"
 date = "2022-03-22"
-updated = "2023-07-15"
-weight = 149453
+updated = "2023-07-30"
+weight = 149425
 
 [extra]
 source = "https://frontaid.io"

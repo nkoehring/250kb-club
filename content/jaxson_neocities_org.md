@@ -1,11 +1,11 @@
 +++
 title = "jaxson.neocities.org"
 date = "2022-06-10"
-updated = "2023-07-15"
-weight = 4165
+updated = "2023-07-30"
+weight = 4177
 
 [extra]
 source = "https://jaxson.neocities.org/"
-ratio = 84
+ratio = 83
 size = 4
 +++

@@ -1,8 +1,8 @@
 +++
 title = "minwiz.com"
 date = "2022-03-22"
-updated = "2023-07-15"
-weight = 2199
+updated = "2023-07-30"
+weight = 2203
 
 [extra]
 source = "https://minwiz.com"

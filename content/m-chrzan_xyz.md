@@ -1,8 +1,8 @@
 +++
 title = "m-chrzan.xyz"
 date = "2022-03-22"
-updated = "2023-07-15"
-weight = 2546
+updated = "2023-07-30"
+weight = 2549
 
 [extra]
 source = "https://m-chrzan.xyz/"

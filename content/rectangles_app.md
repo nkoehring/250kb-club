@@ -1,11 +1,11 @@
 +++
 title = "rectangles.app"
 date = "2022-04-11"
-updated = "2023-07-15"
-weight = 4028
+updated = "2023-07-30"
+weight = 3987
 
 [extra]
 source = "https://rectangles.app/"
-ratio = 52
+ratio = 53
 size = 4
 +++

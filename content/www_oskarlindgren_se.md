@@ -1,8 +1,8 @@
 +++
 title = "www.oskarlindgren.se"
 date = "2022-03-22"
-updated = "2023-07-15"
-weight = 112876
+updated = "2023-07-30"
+weight = 112917
 
 [extra]
 source = "https://www.oskarlindgren.se/"

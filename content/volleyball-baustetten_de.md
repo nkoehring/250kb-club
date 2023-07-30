@@ -1,8 +1,8 @@
 +++
 title = "volleyball-baustetten.de"
 date = "2022-03-22"
-updated = "2023-07-15"
-weight = 98232
+updated = "2023-07-30"
+weight = 98198
 
 [extra]
 source = "https://volleyball-baustetten.de/"

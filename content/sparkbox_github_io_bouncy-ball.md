@@ -1,8 +1,8 @@
 +++
 title = "sparkbox.github.io/bouncy-ball"
 date = "2022-03-22"
-updated = "2023-07-15"
-weight = 102732
+updated = "2023-07-30"
+weight = 102734
 
 [extra]
 source = "https://sparkbox.github.io/bouncy-ball/"

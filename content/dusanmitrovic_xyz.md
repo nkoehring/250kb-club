@@ -1,8 +1,8 @@
 +++
 title = "dusanmitrovic.xyz"
 date = "2022-03-22"
-updated = "2023-07-15"
-weight = 15671
+updated = "2023-07-30"
+weight = 15669
 
 [extra]
 source = "https://dusanmitrovic.xyz/"
