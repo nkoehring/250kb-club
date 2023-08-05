@@ -42,7 +42,6 @@ https://freesolitaire.win/
 https://berkshirehathaway.com
 https://susam.net
 https://bridge.simplefin.org
-https://lukeramsden.com
 https://mataroa.blog
 https://jvanelian.dev
 https://legiblenews.com
@@ -65,7 +64,6 @@ https://xubuntu.org/
 https://www.tarsnap.com/
 https://ylukem.com/
 https://iain.in/
-https://nicetranslator.com/
 https://jvelo.at/
 http://dpldocs.info/this-week-in-d/Blog.html
 https://lucianmarin.com/
@@ -171,7 +169,6 @@ https://kevq.uk/
 https://motz-berlin.de/
 https://cycloneblaze.net/
 https://kayafirat.com/
-https://www.groovestomp.com/
 https://binyam.in/
 https://fossdd.codeberg.page/
 https://my-flow.com/
@@ -247,7 +244,6 @@ https://satchlj.us/
 https://www.borfigat.org/
 https://grapheneos.org/
 https://palashbauri.in/
-https://viniciushansen.github.io/
 https://mha.fi/
 https://pdgonzalez872.github.io/
 https://oopsallmarquees.com/
@@ -269,7 +265,6 @@ https://aroace.space/
 https://annaaurora.eu/
 http://xwx.moe/
 https://kangae.ayushnix.com/
-https://withoutdistractions.com/cv
 https://1kb.lejtzen.dev
 https://tsk.bearblog.dev/
 https://okuno.se/
@@ -307,7 +302,6 @@ https://adambuczek.com
 https://ayham.xyz/
 https://virbox.net
 https://carmody.me/
-https://volatile.engineering/
 https://xidoc.nim.town/
 https://jacksonchen666.com/
 https://lunecake.com/
@@ -333,10 +327,8 @@ https://arciniega.one/
 http://www.sayorivill.me/
 https://pigeon.codeberg.page/
 https://ducky.is-a.dev/
-https://hobospider132.github.io/
 https://blog.madelinepritchard.net/
 https://zinzy.website/
-https://kathut.de
 https://ukarim.com
 https://holdenclarke.com/
 https://vanzasetia.site/
@@ -365,3 +357,10 @@ https://sebastinux.com/
 https://blog.darylsun.page/
 https://godteeth.com/
 https://officiallinden.neocities.org/
+https://willhackett.com/
+https://asukaminato.eu.org/
+http://www.penstemon.net/
+https://sayansivakumaran.com/
+https://golfed.xyz/
+https://foxhaven.cyou/
+https://hytracer.ink

@@ -1,11 +1,11 @@
 +++
 title = "oh.mg"
 date = "2022-03-22"
-updated = "2023-07-15"
-weight = 67067
+updated = "2023-08-05"
+weight = 104895
 
 [extra]
 source = "https://oh.mg/"
-ratio = 4
-size = 65
+ratio = 3
+size = 102
 +++
