@@ -14,7 +14,7 @@ import {
 const INPUT_FILE = Deno.args[0] ?? "./pages.txt";
 const OUTPUT_PATH = Deno.args[1] ?? "./content"; // results are written here
 const RECHECK_THRESHOLD = 60 * 60 * 24 * 7 * 1000; // recheck pages older than 1 week
-const REJECT_THRESHOLD = 262144; // 256kb (duh)
+const REJECT_THRESHOLD = 262144; // 256KB (duh)
 const PARALLEL_JOBS = 3; // max YLT jobs
 
 const now = Date.now();

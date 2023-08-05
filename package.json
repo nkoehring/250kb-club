@@ -1,7 +1,7 @@
 {
   "name": "the-250kb-club-ng",
   "version": "0.0.1",
-  "description": "Exclusive club of websites that weigh 256kb or less",
+  "description": "Exclusive club of websites that weigh 256KB or less",
   "main": "index.ts",
   "repository": "https://git.k0r.in/n/the-250kb-club",
   "author": "koehr <n@koehr.in>",
