@@ -1,8 +1,8 @@
 +++
 title = "www.vmaxleclub.com"
 date = "2023-05-10"
-updated = "2023-07-30"
-weight = 244816
+updated = "2023-08-06"
+weight = 244807
 
 [extra]
 source = "https://www.vmaxleclub.com/"

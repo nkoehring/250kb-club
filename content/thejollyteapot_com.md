@@ -1,11 +1,11 @@
 +++
 title = "thejollyteapot.com"
 date = "2022-03-22"
-updated = "2023-07-30"
-weight = 2574
+updated = "2023-08-06"
+weight = 2538
 
 [extra]
 source = "https://thejollyteapot.com/"
-ratio = 77
-size = 3
+ratio = 80
+size = 2
 +++

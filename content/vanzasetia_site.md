@@ -1,8 +1,8 @@
 +++
 title = "vanzasetia.site"
 date = "2023-04-17"
-updated = "2023-07-30"
-weight = 3221
+updated = "2023-08-06"
+weight = 3197
 
 [extra]
 source = "https://vanzasetia.site/"

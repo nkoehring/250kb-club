@@ -1,8 +1,8 @@
 +++
 title = "jvelo.at"
 date = "2022-03-22"
-updated = "2023-07-30"
-weight = 187847
+updated = "2023-08-06"
+weight = 187824
 
 [extra]
 source = "https://jvelo.at/"

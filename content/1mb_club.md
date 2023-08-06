@@ -1,8 +1,8 @@
 +++
 title = "1mb.club"
 date = "2022-03-22"
-updated = "2023-07-30"
-weight = 16938
+updated = "2023-08-06"
+weight = 16988
 
 [extra]
 source = "https://1mb.club/"

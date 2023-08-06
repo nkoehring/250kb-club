@@ -1,11 +1,11 @@
 +++
 title = "zer0.run"
 date = "2023-02-26"
-updated = "2023-07-30"
-weight = 3587
+updated = "2023-08-06"
+weight = 4547
 
 [extra]
 source = "https://zer0.run/"
-ratio = 20
+ratio = 26
 size = 4
 +++

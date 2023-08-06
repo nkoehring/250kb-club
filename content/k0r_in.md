@@ -1,8 +1,8 @@
 +++
 title = "k0r.in"
 date = "2022-02-21"
-updated = "2023-07-30"
-weight = 58688
+updated = "2023-08-06"
+weight = 58655
 
 [extra]
 source = "https://k0r.in"

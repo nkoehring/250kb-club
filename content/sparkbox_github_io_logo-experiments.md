@@ -1,8 +1,8 @@
 +++
 title = "sparkbox.github.io/logo-experiments"
 date = "2022-03-22"
-updated = "2023-07-30"
-weight = 155098
+updated = "2023-08-06"
+weight = 155079
 
 [extra]
 source = "https://sparkbox.github.io/logo-experiments/"
