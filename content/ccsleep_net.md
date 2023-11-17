@@ -1,11 +1,11 @@
 +++
 title = "ccsleep.net"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 3737
+updated = "2023-11-17"
+weight = 2918
 
 [extra]
 source = "https://ccsleep.net/"
-ratio = 27
-size = 4
+ratio = 25
+size = 3
 +++

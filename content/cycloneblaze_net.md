@@ -1,8 +1,8 @@
 +++
 title = "cycloneblaze.net"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 23958
+updated = "2023-11-17"
+weight = 23450
 
 [extra]
 source = "https://cycloneblaze.net/"

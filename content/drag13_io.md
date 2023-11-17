@@ -1,11 +1,11 @@
 +++
 title = "drag13.io"
 date = "2023-04-17"
-updated = "2023-08-06"
-weight = 10032
+updated = "2023-11-17"
+weight = 10735
 
 [extra]
 source = "https://drag13.io/"
-ratio = 65
+ratio = 66
 size = 10
 +++

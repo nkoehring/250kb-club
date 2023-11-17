@@ -1,11 +1,11 @@
 +++
 title = "secluded.site"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 62528
+updated = "2023-11-17"
+weight = 99463
 
 [extra]
 source = "https://secluded.site/"
-ratio = 6
-size = 61
+ratio = 4
+size = 97
 +++

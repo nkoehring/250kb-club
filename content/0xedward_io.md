@@ -1,11 +1,11 @@
 +++
 title = "0xedward.io"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 7822
+updated = "2023-11-17"
+weight = 13849
 
 [extra]
 source = "https://0xedward.io/"
-ratio = 58
-size = 8
+ratio = 33
+size = 14
 +++

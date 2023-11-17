@@ -1,11 +1,11 @@
 +++
 title = "sourcehut.org"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 118422
+updated = "2023-11-17"
+weight = 109496
 
 [extra]
 source = "https://sourcehut.org/"
-ratio = 6
-size = 116
+ratio = 5
+size = 107
 +++

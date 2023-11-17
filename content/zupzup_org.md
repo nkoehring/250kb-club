@@ -1,8 +1,8 @@
 +++
 title = "zupzup.org"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 7153
+updated = "2023-11-17"
+weight = 7213
 
 [extra]
 source = "https://zupzup.org/"

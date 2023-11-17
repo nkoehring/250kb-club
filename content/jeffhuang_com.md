@@ -1,11 +1,11 @@
 +++
 title = "jeffhuang.com"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 159660
+updated = "2023-11-17"
+weight = 181786
 
 [extra]
 source = "https://jeffhuang.com/"
-ratio = 6
-size = 156
+ratio = 5
+size = 178
 +++

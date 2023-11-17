@@ -1,11 +1,11 @@
 +++
 title = "my-flow.com"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 136722
+updated = "2023-11-17"
+weight = 137379
 
 [extra]
 source = "https://my-flow.com/"
-ratio = 3
+ratio = 2
 size = 134
 +++

@@ -1,8 +1,8 @@
 +++
 title = "fossdd.codeberg.page"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 6432
+updated = "2023-11-17"
+weight = 6427
 
 [extra]
 source = "https://fossdd.codeberg.page/"

@@ -1,11 +1,11 @@
 +++
 title = "radiocanadamini.ca"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 8876
+updated = "2023-11-17"
+weight = 13874
 
 [extra]
 source = "https://radiocanadamini.ca/"
-ratio = 47
-size = 9
+ratio = 36
+size = 14
 +++

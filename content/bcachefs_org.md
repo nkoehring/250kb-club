@@ -1,11 +1,11 @@
 +++
 title = "bcachefs.org"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 8443
+updated = "2023-11-17"
+weight = 10447
 
 [extra]
 source = "https://bcachefs.org/"
-ratio = 41
-size = 8
+ratio = 52
+size = 10
 +++

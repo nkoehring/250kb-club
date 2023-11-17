@@ -1,11 +1,11 @@
 +++
 title = "natestemen.xyz"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 1562
+updated = "2023-11-17"
+weight = 1541
 
 [extra]
 source = "https://natestemen.xyz/"
-ratio = 53
+ratio = 54
 size = 2
 +++

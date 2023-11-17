@@ -1,11 +1,11 @@
 +++
 title = "lectupedia.com/en"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 27211
+updated = "2023-11-17"
+weight = 26527
 
 [extra]
 source = "https://lectupedia.com/en/"
-ratio = 16
-size = 27
+ratio = 14
+size = 26
 +++

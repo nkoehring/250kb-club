@@ -1,8 +1,8 @@
 +++
 title = "cnx.gdn"
 date = "2023-02-01"
-updated = "2023-08-06"
-weight = 2763
+updated = "2023-11-17"
+weight = 2754
 
 [extra]
 source = "https://cnx.gdn"

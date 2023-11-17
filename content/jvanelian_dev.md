@@ -1,8 +1,8 @@
 +++
 title = "jvanelian.dev"
 date = "2022-03-22"
-updated = "2023-07-30"
-weight = 19915
+updated = "2023-11-17"
+weight = 19913
 
 [extra]
 source = "https://jvanelian.dev"

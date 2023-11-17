@@ -1,11 +1,11 @@
 +++
 title = "alessandrocuzzocrea.com"
 date = "2023-05-10"
-updated = "2023-08-06"
-weight = 5320
+updated = "2023-11-17"
+weight = 19594
 
 [extra]
 source = "https://alessandrocuzzocrea.com"
-ratio = 49
-size = 5
+ratio = 14
+size = 19
 +++

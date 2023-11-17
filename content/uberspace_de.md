@@ -1,8 +1,8 @@
 +++
 title = "uberspace.de"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 151621
+updated = "2023-11-17"
+weight = 151583
 
 [extra]
 source = "https://uberspace.de/"

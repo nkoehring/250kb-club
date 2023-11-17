@@ -1,8 +1,8 @@
 +++
 title = "jaime.gomezobregon.com"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 41673
+updated = "2023-11-17"
+weight = 41668
 
 [extra]
 source = "https://jaime.gomezobregon.com"

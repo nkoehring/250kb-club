@@ -1,7 +1,7 @@
 +++
 title = "thoughts.page"
 date = "2022-04-11"
-updated = "2023-08-06"
+updated = "2023-11-17"
 weight = 59002
 
 [extra]

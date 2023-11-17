@@ -1,11 +1,11 @@
 +++
 title = "www.oskarlindgren.se"
 date = "2022-03-22"
-updated = "2023-08-06"
-weight = 112878
+updated = "2023-11-17"
+weight = 102678
 
 [extra]
 source = "https://www.oskarlindgren.se/"
 ratio = 3
-size = 110
+size = 100
 +++
