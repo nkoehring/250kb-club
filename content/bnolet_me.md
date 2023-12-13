@@ -1,8 +1,8 @@
 +++
 title = "bnolet.me"
 date = "2022-03-22"
-updated = "2023-11-17"
-weight = 158123
+updated = "2023-12-13"
+weight = 158169
 
 [extra]
 source = "https://bnolet.me"

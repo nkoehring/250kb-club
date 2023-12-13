@@ -1,11 +1,11 @@
 +++
 title = "benovermyer.com"
 date = "2022-03-22"
-updated = "2023-11-17"
-weight = 21884
+updated = "2023-12-13"
+weight = 76959
 
 [extra]
 source = "https://benovermyer.com/"
-ratio = 9
-size = 21
+ratio = 3
+size = 75
 +++

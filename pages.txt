@@ -129,7 +129,6 @@ https://felt.dev/
 https://nixnet.email/
 https://salejandro.me/
 https://foxwells.garden/
-https://oh.mg/
 https://www.oskarlindgren.se/
 https://utsuho.rocks/
 https://arfer.net/
@@ -295,7 +294,6 @@ https://cli.club/
 https://adambuczek.com
 https://ayham.xyz/
 https://virbox.net
-https://carmody.me/
 https://xidoc.nim.town/
 https://jacksonchen666.com/
 https://lunecake.com/
@@ -351,7 +349,6 @@ https://blog.darylsun.page/
 https://godteeth.com/
 https://willhackett.com/
 https://asukaminato.eu.org/
-http://www.penstemon.net/
 https://sayansivakumaran.com/
 https://golfed.xyz/
 https://hytracer.ink/
@@ -366,7 +363,6 @@ https://salehlootah.com/
 https://moth.monster/
 https://wito.bar/
 https://akgbhat.github.io/
-https://fem.lol/
 https://giraud.eu/
 https://mathijs.vgorcum.com/
 https://bishwasaha.com/
@@ -378,4 +374,7 @@ https://null.vg/
 https://theobori.cafe/
 https://beuke.org/
 https://latunov.dev/
-https://hobospider132.github.io/
+https://erikjohannes.no/
+https://rb.ax/
+https://ari.lt/
+https://tienbuigia.online/

@@ -1,11 +1,11 @@
 +++
 title = "alexschroeder.ch"
 date = "2023-11-17"
-updated = "2023-11-17"
-weight = 8755
+updated = "2023-12-13"
+weight = 9178
 
 [extra]
 source = "https://alexschroeder.ch/"
-ratio = 68
+ratio = 69
 size = 9
 +++

@@ -1,11 +1,11 @@
 +++
 title = "ltlnx.codeberg.page"
 date = "2023-01-31"
-updated = "2023-11-17"
-weight = 2882
+updated = "2023-12-13"
+weight = 5375
 
 [extra]
 source = "https://ltlnx.codeberg.page"
-ratio = 77
-size = 3
+ratio = 71
+size = 5
 +++

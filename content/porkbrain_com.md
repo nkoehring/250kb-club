@@ -1,11 +1,11 @@
 +++
 title = "porkbrain.com"
 date = "2022-03-22"
-updated = "2023-11-17"
-weight = 56628
+updated = "2023-12-13"
+weight = 58246
 
 [extra]
 source = "https://porkbrain.com"
-ratio = 34
-size = 55
+ratio = 36
+size = 57
 +++

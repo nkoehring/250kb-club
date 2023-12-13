@@ -1,11 +1,11 @@
 +++
 title = "ihaque.org"
 date = "2022-03-22"
-updated = "2023-11-17"
-weight = 191797
+updated = "2023-12-13"
+weight = 192005
 
 [extra]
 source = "https://ihaque.org/"
 ratio = 2
-size = 187
+size = 188
 +++

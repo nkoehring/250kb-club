@@ -1,11 +1,11 @@
 +++
 title = "jakk.dev"
 date = "2023-07-15"
-updated = "2023-11-17"
-weight = 3430
+updated = "2023-12-13"
+weight = 3493
 
 [extra]
 source = "https://jakk.dev/"
-ratio = 65
+ratio = 67
 size = 3
 +++

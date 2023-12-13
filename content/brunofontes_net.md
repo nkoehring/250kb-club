@@ -1,11 +1,11 @@
 +++
 title = "brunofontes.net"
 date = "2023-11-17"
-updated = "2023-11-17"
-weight = 160419
+updated = "2023-12-13"
+weight = 161406
 
 [extra]
 source = "https://brunofontes.net/"
-ratio = 3
-size = 157
+ratio = 4
+size = 158
 +++
