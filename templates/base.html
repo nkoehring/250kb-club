@@ -52,7 +52,7 @@
       color: currentColor;
       text-decoration: underline;
     }
-    select, label {
+    select, label, #donate {
       padding: .25em .5em;
       border: 2px solid gray;
       background: none;
@@ -70,8 +70,9 @@
     aside {
       position: relative;
       display: flex;
-      flex-flow: row break;
-      justify-content: space-between;
+      flex-flow: row wrap;
+      justify-content: flex-end;
+      gap: .5em;
     }
     .hidden { visibility: hidden; }
     .big { font-size: 1.5em; }
