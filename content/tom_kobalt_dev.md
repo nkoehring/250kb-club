@@ -1,7 +1,7 @@
 +++
 title = "tom.kobalt.dev"
 date = "2022-04-11"
-updated = "2023-12-13"
+updated = "2024-01-08"
 weight = 1959
 
 [extra]

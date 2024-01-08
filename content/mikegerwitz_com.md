@@ -1,8 +1,8 @@
 +++
 title = "mikegerwitz.com"
 date = "2022-03-22"
-updated = "2023-12-13"
-weight = 79959
+updated = "2024-01-08"
+weight = 79953
 
 [extra]
 source = "https://mikegerwitz.com/"

@@ -4,7 +4,6 @@ Lines that don't start with http:// or https://, as well as duplicates are ignor
 https://250kb.club/
 https://512kb.club/
 https://1mb.club/
-https://10kbclub.com/
 https://bonetflix.com/
 https://no-js.club/
 https://abridge.netlify.app/
@@ -55,7 +54,6 @@ https://benovermyer.com/
 https://www.tuhs.org/
 https://searchbot.app/
 https://lobste.rs/
-https://codelayer.de
 https://matthewstrom.com
 https://danielsada.tech/
 https://ihaque.org/
@@ -100,7 +98,6 @@ https://tom.kobalt.dev/
 https://fanael.github.io/
 https://matthall.codes/
 https://blakehawkins.com/blog
-https://customformats.com/
 https://www.powerpointkaraoke.com/
 https://sparkbox.github.io/bouncy-ball/
 https://sparkbox.github.io/logo-experiments/
@@ -173,7 +170,6 @@ https://www.openbsd.org/
 https://inatri.com/
 https://thomas.me/
 https://martin.baillie.id/
-https://wilde-it.co.uk/
 https://m-chrzan.xyz/
 https://lo.hn/
 https://paulwilde.uk/
@@ -195,9 +191,7 @@ https://fmarier.org/
 https://swl.am/
 https://սոնա.հայ/
 https://norayr.am/
-https://antranigv.am/
 https://noulin.net/blog/
-https://dyremyhr.no/
 https://artemislena.eu/
 https://gtrr.artemislena.eu/
 https://linuxguideandhints.com/
@@ -242,7 +236,6 @@ https://oopsallmarquees.com/
 https://pumpopoly.com/
 https://jagatsoker.blogspot.com/
 http://ratfactor.com/
-https://toby3d.me/
 https://samic.org/
 https://thoughts.page/
 https://ampersandia.net/
@@ -276,7 +269,6 @@ https://emman.dev
 https://axel.beckert.ch/
 https://reim.ar
 https://raregems.io/
-https://10xdev.cc/
 https://bortox.it/
 https://riedler.wien/music/
 https://otgt.us.eu.org/
@@ -318,7 +310,6 @@ http://www.sayorivill.me/
 https://pigeon.codeberg.page/
 https://ducky.is-a.dev/
 https://blog.madelinepritchard.net/
-https://zinzy.website/
 https://ukarim.com
 https://holdenclarke.com/
 https://vanzasetia.site/
@@ -327,7 +318,6 @@ https://drag13.io/
 http://si3t.ch/
 https://noelle.df1.dev/
 https://bmoat.com/
-https://figcat.com/
 https://www.unsungnovelty.org/
 https://www.vmaxleclub.com/
 https://alessandrocuzzocrea.com
@@ -350,7 +340,6 @@ https://willhackett.com/
 https://asukaminato.eu.org/
 https://sayansivakumaran.com/
 https://golfed.xyz/
-https://hytracer.ink/
 https://iyaki.ar/
 https://masysma.net/
 https://pad.js.org/

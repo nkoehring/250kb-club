@@ -1,8 +1,8 @@
 +++
 title = "starsy.netlify.app"
 date = "2022-11-28"
-updated = "2023-12-13"
-weight = 64008
+updated = "2024-01-08"
+weight = 64216
 
 [extra]
 source = "https://starsy.netlify.app/"

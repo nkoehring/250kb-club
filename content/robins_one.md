@@ -1,11 +1,11 @@
 +++
 title = "robins.one"
 date = "2023-01-31"
-updated = "2023-12-13"
-weight = 6304
+updated = "2024-01-08"
+weight = 17096
 
 [extra]
 source = "https://robins.one"
-ratio = 64
-size = 6
+ratio = 21
+size = 17
 +++

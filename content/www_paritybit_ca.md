@@ -1,8 +1,8 @@
 +++
 title = "www.paritybit.ca"
 date = "2022-03-22"
-updated = "2023-12-13"
-weight = 4885
+updated = "2024-01-08"
+weight = 4912
 
 [extra]
 source = "https://www.paritybit.ca/"

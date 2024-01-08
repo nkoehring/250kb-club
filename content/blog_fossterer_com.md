@@ -1,8 +1,8 @@
 +++
 title = "blog.fossterer.com"
 date = "2022-03-22"
-updated = "2023-12-13"
-weight = 15973
+updated = "2024-01-08"
+weight = 15963
 
 [extra]
 source = "https://blog.fossterer.com/"

@@ -1,11 +1,11 @@
 +++
 title = "xslendi.xyz"
 date = "2023-08-06"
-updated = "2023-12-13"
-weight = 123969
+updated = "2024-01-08"
+weight = 114003
 
 [extra]
 source = "https://xslendi.xyz/"
-ratio = 8
-size = 121
+ratio = 2
+size = 111
 +++

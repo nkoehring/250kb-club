@@ -1,8 +1,8 @@
 +++
 title = "no-js.club"
 date = "2022-06-10"
-updated = "2023-12-13"
-weight = 1719
+updated = "2024-01-07"
+weight = 1720
 
 [extra]
 source = "https://no-js.club/"

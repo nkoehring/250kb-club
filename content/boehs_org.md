@@ -1,11 +1,11 @@
 +++
 title = "boehs.org"
 date = "2022-03-22"
-updated = "2023-12-13"
-weight = 81955
+updated = "2024-01-08"
+weight = 89588
 
 [extra]
 source = "https://boehs.org/"
 ratio = 2
-size = 80
+size = 87
 +++

@@ -1,11 +1,11 @@
 +++
 title = "palashbauri.in"
 date = "2022-03-22"
-updated = "2023-12-13"
-weight = 9474
+updated = "2024-01-08"
+weight = 9341
 
 [extra]
 source = "https://palashbauri.in/"
-ratio = 31
+ratio = 32
 size = 9
 +++

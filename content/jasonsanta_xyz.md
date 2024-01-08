@@ -1,11 +1,11 @@
 +++
 title = "jasonsanta.xyz"
 date = "2022-06-10"
-updated = "2023-12-13"
-weight = 35487
+updated = "2024-01-08"
+weight = 34550
 
 [extra]
 source = "https://jasonsanta.xyz"
-ratio = 12
-size = 35
+ratio = 6
+size = 34
 +++

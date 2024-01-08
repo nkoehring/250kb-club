@@ -1,8 +1,8 @@
 +++
 title = "perfectlighthousescores.com"
 date = "2023-01-31"
-updated = "2023-12-13"
-weight = 140688
+updated = "2024-01-08"
+weight = 140711
 
 [extra]
 source = "https://perfectlighthousescores.com"

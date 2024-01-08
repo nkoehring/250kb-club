@@ -1,8 +1,8 @@
 +++
 title = "remoteroast.club"
 date = "2022-03-22"
-updated = "2023-12-13"
-weight = 27436
+updated = "2024-01-08"
+weight = 27250
 
 [extra]
 source = "https://remoteroast.club/"

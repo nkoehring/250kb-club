@@ -1,11 +1,11 @@
 +++
 title = "bernsteinbear.com"
 date = "2022-03-22"
-updated = "2023-12-13"
-weight = 108211
+updated = "2024-01-08"
+weight = 114771
 
 [extra]
 source = "https://bernsteinbear.com/"
-ratio = 4
-size = 106
+ratio = 3
+size = 112
 +++

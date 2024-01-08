@@ -1,11 +1,11 @@
 +++
 title = "artemislena.eu"
 date = "2022-03-22"
-updated = "2023-12-13"
-weight = 2980
+updated = "2024-01-08"
+weight = 3013
 
 [extra]
 source = "https://artemislena.eu/"
-ratio = 65
+ratio = 64
 size = 3
 +++

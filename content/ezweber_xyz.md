@@ -1,11 +1,11 @@
 +++
 title = "ezweber.xyz"
 date = "2023-01-31"
-updated = "2023-12-13"
-weight = 97825
+updated = "2024-01-08"
+weight = 13850
 
 [extra]
 source = "https://ezweber.xyz/"
-ratio = 2
-size = 96
+ratio = 27
+size = 14
 +++

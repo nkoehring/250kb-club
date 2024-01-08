@@ -1,8 +1,8 @@
 +++
 title = "mathijs.vgorcum.com"
 date = "2023-11-17"
-updated = "2023-12-13"
-weight = 48332
+updated = "2024-01-08"
+weight = 48309
 
 [extra]
 source = "https://mathijs.vgorcum.com/"
