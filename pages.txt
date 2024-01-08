@@ -246,7 +246,6 @@ https://jaxson.neocities.org/
 https://feather.wiki/
 https://jasonsanta.xyz
 https://ononoki.org/
-https://aroace.space/
 https://annaaurora.eu/
 http://xwx.moe/
 https://kangae.ayushnix.com/
@@ -303,12 +302,9 @@ https://chino.is-a.dev/
 https://10maurycy10.github.io/
 https://hylang.org/
 https://www.cweagans.net/
-https://5am.is/
 https://nelson.cloud/
-https://arciniega.one/
 http://www.sayorivill.me/
 https://pigeon.codeberg.page/
-https://ducky.is-a.dev/
 https://blog.madelinepritchard.net/
 https://ukarim.com
 https://holdenclarke.com/
@@ -321,7 +317,6 @@ https://bmoat.com/
 https://www.unsungnovelty.org/
 https://www.vmaxleclub.com/
 https://alessandrocuzzocrea.com
-https://xameren.repl.co/
 https://ahmubashshir.github.io/
 https://pvac.xyz/
 https://privacyfreak84.github.io/
@@ -333,7 +328,7 @@ https://blog.skiserv.eu/
 https://colincogle.name/
 https://jakk.dev/
 https://vk7.eu/
-https://sebastinux.com/
+https://sebastien-mouchet.fr/
 https://blog.darylsun.page/
 https://godteeth.com/
 https://willhackett.com/
@@ -358,7 +353,6 @@ https://httpguides.com/
 https://vidhukant.com/
 https://centiskor.ch/
 https://kirillunlimited.com/
-https://null.vg/
 https://theobori.cafe/
 https://beuke.org/
 https://latunov.dev/
@@ -375,3 +369,14 @@ https://zerocontradictions.net/
 https://password.town/
 https://yretek.com/
 https://arkensys.dedyn.io/
+https://nk.is-a.dev/
+https://koehr.ing/
+https://pavel.pikirenia.me/
+https://blog.plr.moe/
+https://tylxr.com/
+https://bittich.be/
+https://html.earth/
+https://adayo.client.jp/
+https://vinc.cc/
+https://chione.neocities.org/
+http://verisimilitudes.net/
