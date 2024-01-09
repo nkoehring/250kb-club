@@ -2,7 +2,7 @@ services:
   ylt:
     image: ousamabenyounes/yellowlabtools
 
-pipeline:
+steps:
   analyze:
     image: denoland/deno
     commands:
