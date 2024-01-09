@@ -35,6 +35,8 @@ This page got completely rebuild and several issues of the old version got solve
 
 ## Hacking this page
 
+[![status-badge](https://ci.k0r.in/api/badges/1/status.svg)](https://ci.k0r.in/repos/1)
+
 This page needs three components to work:
 
 ### [Deno](https://deno.land/)
