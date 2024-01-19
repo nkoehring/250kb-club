@@ -1,8 +1,8 @@
 +++
 title = "www.migadu.com"
 date = "2022-03-22"
-updated = "2024-01-08"
-weight = 208143
+updated = "2024-01-19"
+weight = 208134
 
 [extra]
 source = "https://www.migadu.com/"

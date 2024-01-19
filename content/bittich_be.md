@@ -1,8 +1,8 @@
 +++
 title = "bittich.be"
 date = "2024-01-08"
-updated = "2024-01-08"
-weight = 43417
+updated = "2024-01-19"
+weight = 43210
 
 [extra]
 source = "https://bittich.be/"

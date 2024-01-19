@@ -1,11 +1,11 @@
 +++
 title = "drewdevault.com"
 date = "2022-03-22"
-updated = "2024-01-08"
-weight = 31473
+updated = "2024-01-19"
+weight = 27695
 
 [extra]
 source = "https://drewdevault.com/"
-ratio = 53
-size = 31
+ratio = 49
+size = 27
 +++

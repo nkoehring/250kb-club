@@ -1,8 +1,8 @@
 +++
 title = "verisimilitudes.net"
 date = "2024-01-08"
-updated = "2024-01-08"
-weight = 6976
+updated = "2024-01-19"
+weight = 7008
 
 [extra]
 source = "http://verisimilitudes.net/"

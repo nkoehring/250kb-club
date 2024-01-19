@@ -1,8 +1,8 @@
 +++
 title = "moth.monster"
 date = "2023-11-17"
-updated = "2024-01-08"
-weight = 24331
+updated = "2024-01-19"
+weight = 24354
 
 [extra]
 source = "https://moth.monster/"

@@ -1,11 +1,11 @@
 +++
 title = "madewithtea.com"
 date = "2023-07-15"
-updated = "2024-01-08"
-weight = 4204
+updated = "2024-01-19"
+weight = 4203
 
 [extra]
 source = "https://madewithtea.com/"
-ratio = 50
+ratio = 49
 size = 4
 +++

@@ -1,11 +1,11 @@
 +++
 title = "emman.dev"
 date = "2023-01-31"
-updated = "2024-01-08"
-weight = 253828
+updated = "2024-01-19"
+weight = 252880
 
 [extra]
 source = "https://emman.dev"
 ratio = 1
-size = 248
+size = 247
 +++

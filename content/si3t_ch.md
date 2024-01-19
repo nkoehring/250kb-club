@@ -1,8 +1,8 @@
 +++
 title = "si3t.ch"
 date = "2023-04-17"
-updated = "2024-01-08"
-weight = 1808
+updated = "2024-01-19"
+weight = 1698
 
 [extra]
 source = "http://si3t.ch/"
