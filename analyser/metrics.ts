@@ -1,9 +1,8 @@
 import { retryFetch } from "./toolkit.ts";
 
-const STATUS_URL = "http://ylt:8383/api/runs/";
-const RESULT_URL = "http://ylt:8383/api/results/";
-// const STATUS_URL = "http://localhost:8383/api/runs/";
-// const RESULT_URL = "http://localhost:8383/api/results/";
+const HOST = Deno.env.get("CI") ? "http://ylt:8383" : "http://localhost:8383";
+const STATUS_URL = `${HOST}/api/runs/`;
+const RESULT_URL = `${HOST}/api/results/`;
 const METRIC_DEFAULTS = {
   device: "desktop",
   waitForResponse: false,
