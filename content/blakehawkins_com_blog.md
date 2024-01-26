@@ -1,8 +1,8 @@
 +++
 title = "blakehawkins.com/blog"
 date = "2022-03-22"
-updated = "2024-01-19"
-weight = 57332
+updated = "2024-01-26"
+weight = 57286
 
 [extra]
 source = "https://blakehawkins.com/blog"

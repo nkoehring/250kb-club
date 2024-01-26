@@ -1,8 +1,8 @@
 +++
 title = "zakr.es/blog"
 date = "2024-01-19"
-updated = "2024-01-19"
-weight = 207834
+updated = "2024-01-26"
+weight = 207832
 
 [extra]
 source = "https://zakr.es/blog/"

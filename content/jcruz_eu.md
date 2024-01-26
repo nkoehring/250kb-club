@@ -1,7 +1,7 @@
 +++
 title = "jcruz.eu"
 date = "2023-07-15"
-updated = "2024-01-19"
+updated = "2024-01-26"
 weight = 40203
 
 [extra]

@@ -1,8 +1,8 @@
 +++
 title = "fullstackpython.com"
 date = "2022-03-22"
-updated = "2024-01-19"
-weight = 13155
+updated = "2024-01-26"
+weight = 13116
 
 [extra]
 source = "https://fullstackpython.com"

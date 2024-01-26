@@ -1,8 +1,8 @@
 +++
 title = "midnight.pub"
 date = "2022-03-22"
-updated = "2024-01-19"
-weight = 10287
+updated = "2024-01-26"
+weight = 10362
 
 [extra]
 source = "https://midnight.pub/"

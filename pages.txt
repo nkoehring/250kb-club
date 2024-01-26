@@ -122,7 +122,6 @@ https://suckless.org/
 https://mikegerwitz.com/
 https://midnight.pub/
 https://shazow.net/
-https://felt.dev/
 https://nixnet.email/
 https://salejandro.me/
 https://foxwells.garden/
@@ -179,7 +178,6 @@ https://lil.gay/
 https://beh.uk/
 https://ohio.araw.xyz/
 https://nytpu.com/
-http://www.verybad.link/
 https://ttntm.me/
 https://kishvanchee.com/
 https://quitsocialmedia.club/
@@ -373,7 +371,6 @@ https://blog.plr.moe/
 https://tylxr.com/
 https://bittich.be/
 https://html.earth/
-https://adayo.client.jp/
 https://vinc.cc/
 https://chione.neocities.org/
 http://verisimilitudes.net/

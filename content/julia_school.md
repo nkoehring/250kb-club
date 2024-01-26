@@ -1,11 +1,11 @@
 +++
 title = "julia.school"
 date = "2023-01-31"
-updated = "2024-01-19"
-weight = 4192
+updated = "2024-01-26"
+weight = 4137
 
 [extra]
 source = "https://julia.school"
-ratio = 27
+ratio = 25
 size = 4
 +++

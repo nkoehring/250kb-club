@@ -1,8 +1,8 @@
 +++
 title = "cli.club"
 date = "2023-01-31"
-updated = "2024-01-19"
-weight = 15553
+updated = "2024-01-26"
+weight = 15529
 
 [extra]
 source = "https://cli.club/"

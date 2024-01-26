@@ -1,8 +1,8 @@
 +++
 title = "gennext.net.au"
 date = "2022-03-22"
-updated = "2024-01-19"
-weight = 56579
+updated = "2024-01-26"
+weight = 56580
 
 [extra]
 source = "https://gennext.net.au/"

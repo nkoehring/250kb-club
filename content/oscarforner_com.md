@@ -1,8 +1,8 @@
 +++
 title = "oscarforner.com"
 date = "2022-03-22"
-updated = "2024-01-19"
-weight = 17747
+updated = "2024-01-26"
+weight = 17729
 
 [extra]
 source = "https://oscarforner.com/"

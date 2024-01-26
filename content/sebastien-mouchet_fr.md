@@ -1,8 +1,8 @@
 +++
 title = "sebastien-mouchet.fr"
 date = "2024-01-08"
-updated = "2024-01-19"
-weight = 7525
+updated = "2024-01-26"
+weight = 7524
 
 [extra]
 source = "https://sebastien-mouchet.fr/"

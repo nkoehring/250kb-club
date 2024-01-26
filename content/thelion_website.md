@@ -1,8 +1,8 @@
 +++
 title = "thelion.website"
 date = "2022-03-22"
-updated = "2024-01-19"
-weight = 36745
+updated = "2024-01-26"
+weight = 36734
 
 [extra]
 source = "https://thelion.website/"
