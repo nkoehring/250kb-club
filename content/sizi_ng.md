@@ -1,8 +1,8 @@
 +++
 title = "sizi.ng"
 date = "2022-03-22"
-updated = "2024-01-26"
-weight = 9564
+updated = "2024-02-21"
+weight = 9579
 
 [extra]
 source = "https://sizi.ng/"

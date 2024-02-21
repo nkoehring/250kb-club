@@ -1,8 +1,8 @@
 +++
 title = "ampersandia.net"
 date = "2022-04-11"
-updated = "2024-01-26"
-weight = 51113
+updated = "2024-02-21"
+weight = 51134
 
 [extra]
 source = "https://ampersandia.net/"

@@ -1,8 +1,8 @@
 +++
 title = "xwx.moe"
 date = "2022-06-10"
-updated = "2024-01-26"
-weight = 2905
+updated = "2024-02-21"
+weight = 2902
 
 [extra]
 source = "http://xwx.moe/"

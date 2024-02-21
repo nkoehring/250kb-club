@@ -1,11 +1,11 @@
 +++
 title = "centiskor.ch"
 date = "2023-11-17"
-updated = "2024-01-26"
-weight = 112861
+updated = "2024-02-21"
+weight = 129331
 
 [extra]
 source = "https://centiskor.ch/"
-ratio = 5
-size = 110
+ratio = 4
+size = 126
 +++

@@ -1,11 +1,11 @@
 +++
 title = "goestathomas.de"
 date = "2023-02-01"
-updated = "2024-01-26"
-weight = 17823
+updated = "2024-02-21"
+weight = 18526
 
 [extra]
 source = "http://goestathomas.de/"
-ratio = 32
-size = 17
+ratio = 31
+size = 18
 +++

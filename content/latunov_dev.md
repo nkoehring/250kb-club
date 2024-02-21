@@ -1,7 +1,7 @@
 +++
 title = "latunov.dev"
 date = "2023-11-17"
-updated = "2024-01-26"
+updated = "2024-02-21"
 weight = 19060
 
 [extra]

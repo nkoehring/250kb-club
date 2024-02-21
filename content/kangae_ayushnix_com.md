@@ -1,8 +1,8 @@
 +++
 title = "kangae.ayushnix.com"
 date = "2022-06-10"
-updated = "2024-01-26"
-weight = 11267
+updated = "2024-02-21"
+weight = 11240
 
 [extra]
 source = "https://kangae.ayushnix.com/"

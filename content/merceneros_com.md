@@ -1,8 +1,8 @@
 +++
 title = "merceneros.com"
 date = "2023-08-06"
-updated = "2024-01-26"
-weight = 208230
+updated = "2024-02-21"
+weight = 207507
 
 [extra]
 source = "https://merceneros.com/"

@@ -1,11 +1,11 @@
 +++
 title = "xiu.io"
 date = "2022-03-22"
-updated = "2024-01-26"
-weight = 147408
+updated = "2024-02-21"
+weight = 162259
 
 [extra]
 source = "https://xiu.io/"
-ratio = 7
-size = 144
+ratio = 6
+size = 158
 +++
