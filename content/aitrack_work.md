@@ -1,11 +1,11 @@
 +++
 title = "aitrack.work"
 date = "2023-01-31"
-updated = "2024-02-21"
-weight = 117635
+updated = "2024-03-08"
+weight = 128970
 
 [extra]
 source = "https://aitrack.work/"
-ratio = 1
-size = 115
+ratio = 2
+size = 126
 +++

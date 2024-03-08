@@ -1,11 +1,11 @@
 +++
 title = "missionfranceguichet.fr"
 date = "2024-02-21"
-updated = "2024-02-21"
-weight = 20976
+updated = "2024-03-08"
+weight = 19773
 
 [extra]
 source = "https://missionfranceguichet.fr/"
-ratio = 27
-size = 20
+ratio = 22
+size = 19
 +++

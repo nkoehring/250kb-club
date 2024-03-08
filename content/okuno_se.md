@@ -1,8 +1,8 @@
 +++
 title = "okuno.se"
 date = "2022-11-28"
-updated = "2024-02-21"
-weight = 87757
+updated = "2024-03-08"
+weight = 87716
 
 [extra]
 source = "https://okuno.se/"
