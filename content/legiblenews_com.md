@@ -1,11 +1,11 @@
 +++
 title = "legiblenews.com"
 date = "2022-03-22"
-updated = "2024-03-08"
-weight = 75442
+updated = "2024-03-30"
+weight = 74907
 
 [extra]
 source = "https://legiblenews.com"
-ratio = 8
-size = 74
+ratio = 7
+size = 73
 +++
