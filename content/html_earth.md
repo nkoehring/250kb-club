@@ -1,11 +1,11 @@
 +++
 title = "html.earth"
 date = "2024-01-08"
-updated = "2024-02-21"
-weight = 210872
+updated = "2024-03-08"
+weight = 212270
 
 [extra]
 source = "https://html.earth/"
 ratio = 2
-size = 206
+size = 207
 +++

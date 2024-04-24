@@ -1,11 +1,11 @@
 +++
 title = "ari.lt"
 date = "2023-12-13"
-updated = "2024-02-21"
-weight = 13748
+updated = "2024-03-08"
+weight = 33868
 
 [extra]
 source = "https://ari.lt/"
-ratio = 14
-size = 13
+ratio = 12
+size = 33
 +++

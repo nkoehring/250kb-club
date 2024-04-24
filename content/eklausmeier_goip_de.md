@@ -1,8 +1,8 @@
 +++
 title = "eklausmeier.goip.de"
 date = "2024-01-19"
-updated = "2024-02-21"
-weight = 80277
+updated = "2024-03-08"
+weight = 80197
 
 [extra]
 source = "https://eklausmeier.goip.de/"
