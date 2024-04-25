@@ -1,11 +1,11 @@
 +++
 title = "ononoki.org"
 date = "2022-06-10"
-updated = "2024-03-08"
-weight = 51996
+updated = "2024-04-24"
+weight = 72433
 
 [extra]
 source = "https://ononoki.org/"
-ratio = 3
-size = 51
+ratio = 2
+size = 71
 +++

@@ -1,11 +1,11 @@
 +++
 title = "box.matto.nl"
 date = "2022-03-22"
-updated = "2024-03-30"
-weight = 7345
+updated = "2024-04-24"
+weight = 8018
 
 [extra]
 source = "https://box.matto.nl"
-ratio = 62
-size = 7
+ratio = 65
+size = 8
 +++

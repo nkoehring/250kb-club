@@ -1,11 +1,11 @@
 +++
 title = "blog.plr.moe"
 date = "2024-01-08"
-updated = "2024-03-08"
-weight = 206545
+updated = "2024-04-25"
+weight = 145440
 
 [extra]
 source = "https://blog.plr.moe/"
-ratio = 2
-size = 202
+ratio = 4
+size = 142
 +++

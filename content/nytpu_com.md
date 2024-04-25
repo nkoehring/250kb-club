@@ -1,11 +1,11 @@
 +++
 title = "nytpu.com"
 date = "2022-03-22"
-updated = "2024-03-30"
-weight = 3752
+updated = "2024-04-24"
+weight = 6409
 
 [extra]
 source = "https://nytpu.com/"
-ratio = 58
-size = 4
+ratio = 79
+size = 6
 +++

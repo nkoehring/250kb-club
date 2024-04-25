@@ -31,7 +31,6 @@ https://monokai.nl
 https://frontaid.io
 https://worldti.me
 https://kunalmarwaha.com/
-https://chrisportela.com
 https://jlelse.dev/
 https://sr.ht/
 https://sourcehut.org/
@@ -54,7 +53,6 @@ https://benovermyer.com/
 https://www.tuhs.org/
 https://searchbot.app/
 https://lobste.rs/
-https://matthewstrom.com
 https://danielsada.tech/
 https://ihaque.org/
 https://xubuntu.org/
@@ -65,7 +63,6 @@ https://jvelo.at/
 http://dpldocs.info/this-week-in-d/Blog.html
 https://lucianmarin.com/
 https://www.rowlingindex.org/
-https://uberspace.de/
 https://salixos.org/
 http://www.danielwasserlaufquicklinks.com/
 https://bernsteinbear.com/
@@ -257,7 +254,6 @@ https://nih.ar/
 https://thelazysre.com/
 https://madelinepritchard.net
 https://vort3.com/
-https://emman.dev
 https://axel.beckert.ch/
 https://reim.ar
 https://bortox.it/
@@ -298,7 +294,6 @@ https://pigeon.codeberg.page/
 https://blog.madelinepritchard.net/
 https://ukarim.com
 https://holdenclarke.com/
-https://vanzasetia.site/
 https://iqbalrifai.eu.org/
 https://drag13.io/
 http://si3t.ch/
@@ -366,7 +361,6 @@ https://tylxr.com/
 https://bittich.be/
 https://html.earth/
 https://vinc.cc/
-https://chione.neocities.org/
 http://verisimilitudes.net/
 https://davidovski.xyz/
 https://sappho.io/
@@ -383,7 +377,6 @@ https://ivanrg.es/
 https://bukmark.club/
 https://romanvesely.com/
 https://www.marginalia.nu/
-https://frills.dev/
 https://www.archaeoramblings.com/
 https://missionfranceguichet.fr/
 https://diffractionlimit.com/
@@ -397,10 +390,17 @@ http://myr.sh/
 https://0xc3.win/
 https://casuallyblue.dev/
 https://thedroth.rocks/
-https://sn4il.site/
 https://proventherapies.nl/
 https://tamim.io/
 https://darktheme.club/
 https://cashx.pages.dev/
 https://antares.neocities.org/
 https://gagor.pro/
+https://notes.ghed.in/
+https://janilowski.pl/
+https://xtrm.me/
+https://gilcu3.website/
+https://anakojm.net/
+https://secu.pages.dev/
+https://visil.gw.lt/
+https://jagrg.gitlab.io/

@@ -1,8 +1,8 @@
 +++
 title = "freesolitaire.win"
 date = "2022-03-22"
-updated = "2024-03-30"
-weight = 84950
+updated = "2024-04-24"
+weight = 85361
 
 [extra]
 source = "https://freesolitaire.win/"

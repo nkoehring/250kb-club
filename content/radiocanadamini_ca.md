@@ -1,8 +1,8 @@
 +++
 title = "radiocanadamini.ca"
 date = "2022-03-22"
-updated = "2024-03-08"
-weight = 13160
+updated = "2024-04-24"
+weight = 13420
 
 [extra]
 source = "https://radiocanadamini.ca/"

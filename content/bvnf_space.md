@@ -1,11 +1,11 @@
 +++
 title = "bvnf.space"
 date = "2022-03-22"
-updated = "2024-03-08"
-weight = 3401
+updated = "2024-04-24"
+weight = 4129
 
 [extra]
 source = "https://bvnf.space/"
-ratio = 84
-size = 3
+ratio = 50
+size = 4
 +++

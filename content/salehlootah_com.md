@@ -1,11 +1,11 @@
 +++
 title = "salehlootah.com"
 date = "2023-11-17"
-updated = "2024-03-08"
-weight = 14165
+updated = "2024-04-25"
+weight = 6210
 
 [extra]
 source = "https://salehlootah.com/"
-ratio = 15
-size = 14
+ratio = 30
+size = 6
 +++

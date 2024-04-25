@@ -1,8 +1,8 @@
 +++
 title = "inatri.com"
 date = "2022-03-22"
-updated = "2024-03-30"
-weight = 5209
+updated = "2024-04-24"
+weight = 5245
 
 [extra]
 source = "https://inatri.com/"

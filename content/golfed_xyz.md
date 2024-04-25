@@ -1,11 +1,11 @@
 +++
 title = "golfed.xyz"
 date = "2023-08-05"
-updated = "2024-03-08"
-weight = 3886
+updated = "2024-04-25"
+weight = 4028
 
 [extra]
 source = "https://golfed.xyz/"
-ratio = 67
+ratio = 69
 size = 4
 +++

@@ -1,11 +1,11 @@
 +++
 title = "timotijhof.net"
 date = "2022-03-22"
-updated = "2024-03-30"
-weight = 14732
+updated = "2024-04-24"
+weight = 13900
 
 [extra]
 source = "https://timotijhof.net/"
-ratio = 21
+ratio = 22
 size = 14
 +++
