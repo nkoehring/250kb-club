@@ -1,8 +1,8 @@
 +++
 title = "cosmo.red"
 date = "2022-03-22"
-updated = "2024-04-24"
-weight = 1093
+updated = "2024-05-20"
+weight = 1080
 
 [extra]
 source = "https://cosmo.red"

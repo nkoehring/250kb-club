@@ -1,8 +1,8 @@
 +++
 title = "binyam.in"
 date = "2022-03-22"
-updated = "2024-04-24"
-weight = 46028
+updated = "2024-05-20"
+weight = 46127
 
 [extra]
 source = "https://binyam.in/"

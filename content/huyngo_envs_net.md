@@ -1,11 +1,11 @@
 +++
 title = "huyngo.envs.net"
 date = "2022-03-22"
-updated = "2024-04-24"
-weight = 11112
+updated = "2024-05-20"
+weight = 567
 
 [extra]
 source = "https://huyngo.envs.net"
-ratio = 52
-size = 11
+ratio = 100
+size = 1
 +++

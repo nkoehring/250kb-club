@@ -1,11 +1,11 @@
 +++
 title = "adambuczek.com"
 date = "2023-01-31"
-updated = "2024-04-24"
-weight = 18545
+updated = "2024-05-20"
+weight = 18763
 
 [extra]
 source = "https://adambuczek.com"
-ratio = 19
+ratio = 18
 size = 18
 +++

@@ -1,11 +1,11 @@
 +++
 title = "perfectlighthousescores.com"
 date = "2023-01-31"
-updated = "2024-04-24"
-weight = 140841
+updated = "2024-05-20"
+weight = 140648
 
 [extra]
 source = "https://perfectlighthousescores.com"
 ratio = 4
-size = 138
+size = 137
 +++

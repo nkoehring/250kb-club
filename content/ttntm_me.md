@@ -1,11 +1,11 @@
 +++
 title = "ttntm.me"
 date = "2022-03-22"
-updated = "2024-04-24"
-weight = 45387
+updated = "2024-05-20"
+weight = 46251
 
 [extra]
 source = "https://ttntm.me/"
-ratio = 12
-size = 44
+ratio = 13
+size = 45
 +++

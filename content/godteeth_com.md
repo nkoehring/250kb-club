@@ -1,11 +1,11 @@
 +++
 title = "godteeth.com"
 date = "2023-07-15"
-updated = "2024-04-25"
-weight = 1709
+updated = "2024-05-20"
+weight = 1624
 
 [extra]
 source = "https://godteeth.com/"
-ratio = 73
+ratio = 72
 size = 2
 +++

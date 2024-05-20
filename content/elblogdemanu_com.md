@@ -1,8 +1,8 @@
 +++
 title = "elblogdemanu.com"
 date = "2023-12-13"
-updated = "2024-04-25"
-weight = 5798
+updated = "2024-05-20"
+weight = 5709
 
 [extra]
 source = "https://elblogdemanu.com/"

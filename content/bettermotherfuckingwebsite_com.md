@@ -1,11 +1,11 @@
 +++
 title = "bettermotherfuckingwebsite.com"
 date = "2022-03-22"
-updated = "2024-04-24"
-weight = 113974
+updated = "2024-05-20"
+weight = 115736
 
 [extra]
 source = "http://bettermotherfuckingwebsite.com/"
 ratio = 2
-size = 111
+size = 113
 +++

@@ -1,8 +1,8 @@
 +++
 title = "bcachefs.org"
 date = "2022-03-22"
-updated = "2024-04-24"
-weight = 10447
+updated = "2024-05-20"
+weight = 10446
 
 [extra]
 source = "https://bcachefs.org/"

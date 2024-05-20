@@ -1,8 +1,8 @@
 +++
 title = "casperlefantom.net"
 date = "2022-04-11"
-updated = "2024-04-24"
-weight = 187024
+updated = "2024-05-20"
+weight = 187026
 
 [extra]
 source = "https://casperlefantom.net/"

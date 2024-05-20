@@ -1,11 +1,11 @@
 +++
 title = "tylxr.com"
 date = "2024-01-08"
-updated = "2024-04-25"
-weight = 15656
+updated = "2024-05-20"
+weight = 16881
 
 [extra]
 source = "https://tylxr.com/"
-ratio = 29
-size = 15
+ratio = 15
+size = 16
 +++

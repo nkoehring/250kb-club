@@ -1,8 +1,8 @@
 +++
 title = "html.earth"
 date = "2024-01-08"
-updated = "2024-04-25"
-weight = 212309
+updated = "2024-05-20"
+weight = 212259
 
 [extra]
 source = "https://html.earth/"

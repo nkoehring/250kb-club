@@ -1,11 +1,11 @@
 +++
 title = "utsuho.rocks"
 date = "2022-03-22"
-updated = "2024-04-24"
-weight = 96298
+updated = "2024-05-20"
+weight = 98230
 
 [extra]
 source = "https://utsuho.rocks/"
-ratio = 9
-size = 94
+ratio = 8
+size = 96
 +++

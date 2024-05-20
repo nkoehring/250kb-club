@@ -1,8 +1,8 @@
 +++
 title = "xigoi.neocities.org"
 date = "2022-03-22"
-updated = "2024-04-24"
-weight = 8995
+updated = "2024-05-20"
+weight = 8986
 
 [extra]
 source = "https://xigoi.neocities.org/"

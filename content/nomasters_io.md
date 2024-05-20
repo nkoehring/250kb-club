@@ -1,8 +1,8 @@
 +++
 title = "nomasters.io"
 date = "2022-03-22"
-updated = "2024-04-24"
-weight = 50786
+updated = "2024-05-20"
+weight = 50702
 
 [extra]
 source = "https://nomasters.io/"

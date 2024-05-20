@@ -1,8 +1,8 @@
 +++
 title = "xubuntu.org"
 date = "2022-03-22"
-updated = "2024-04-24"
-weight = 158225
+updated = "2024-05-20"
+weight = 158213
 
 [extra]
 source = "https://xubuntu.org/"

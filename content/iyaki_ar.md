@@ -1,8 +1,8 @@
 +++
 title = "iyaki.ar"
 date = "2023-08-05"
-updated = "2024-04-25"
-weight = 103270
+updated = "2024-05-20"
+weight = 103551
 
 [extra]
 source = "https://iyaki.ar/"
