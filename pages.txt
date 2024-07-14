@@ -145,7 +145,6 @@ https://rya.nc/
 https://temp.sh/
 https://decentnet.github.io/
 https://www.migadu.com/
-https://thelion.website/
 https://codingotaku.com/
 https://allien.work/
 https://minwiz.com
@@ -211,7 +210,6 @@ https://qubyte.codes/
 https://daniel-siepmann.de/
 https://thejollyteapot.com/
 https://boehs.org/
-https://radiocanadamini.ca/
 https://bvnf.space/
 https://gennext.net.au/
 https://xmdr.nl/
@@ -255,7 +253,6 @@ https://thelazysre.com/
 https://madelinepritchard.net
 https://vort3.com/
 https://axel.beckert.ch/
-https://reim.ar
 https://bortox.it/
 https://riedler.wien/music/
 https://otgt.us.eu.org/
@@ -324,7 +321,6 @@ https://iyaki.ar/
 https://masysma.net/
 https://pad.js.org/
 https://ploum.net/
-https://merceneros.com/
 https://brunofontes.net/
 http://arc-x.org/
 https://salehlootah.com/
@@ -351,11 +347,9 @@ https://jss.taxreligion.org/
 https://adithya.zip/
 https://zerocontradictions.net/
 https://password.town/
-https://yretek.com/
 https://arkensys.dedyn.io/
 https://nk.is-a.dev/
 https://koehr.ing/
-https://pavel.pikirenia.me/
 https://blog.plr.moe/
 https://tylxr.com/
 https://bittich.be/

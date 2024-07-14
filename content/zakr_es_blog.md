@@ -1,11 +1,11 @@
 +++
 title = "zakr.es/blog"
 date = "2024-01-19"
-updated = "2024-05-20"
-weight = 229776
+updated = "2024-07-14"
+weight = 232719
 
 [extra]
 source = "https://zakr.es/blog/"
-ratio = 16
-size = 224
+ratio = 13
+size = 227
 +++

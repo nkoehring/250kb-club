@@ -1,8 +1,8 @@
 +++
 title = "arkensys.dedyn.io"
 date = "2023-12-13"
-updated = "2024-05-20"
-weight = 24980
+updated = "2024-07-14"
+weight = 24933
 
 [extra]
 source = "https://arkensys.dedyn.io/"

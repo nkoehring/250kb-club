@@ -1,11 +1,11 @@
 +++
 title = "seirdy.one"
 date = "2022-03-22"
-updated = "2024-05-20"
-weight = 7887
+updated = "2024-07-14"
+weight = 8825
 
 [extra]
 source = "https://seirdy.one"
-ratio = 93
-size = 8
+ratio = 83
+size = 9
 +++

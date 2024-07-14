@@ -1,8 +1,8 @@
 +++
 title = "www.dustri.org"
 date = "2022-03-22"
-updated = "2024-05-20"
-weight = 27083
+updated = "2024-07-14"
+weight = 27094
 
 [extra]
 source = "https://www.dustri.org"

@@ -1,11 +1,11 @@
 +++
 title = "willcodefor.beer"
 date = "2022-03-22"
-updated = "2024-05-20"
-weight = 42493
+updated = "2024-07-14"
+weight = 42280
 
 [extra]
 source = "https://willcodefor.beer/"
-ratio = 21
+ratio = 20
 size = 41
 +++

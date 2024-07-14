@@ -1,8 +1,8 @@
 +++
 title = "morcus.net"
 date = "2024-01-19"
-updated = "2024-05-20"
-weight = 100685
+updated = "2024-07-14"
+weight = 100731
 
 [extra]
 source = "https://morcus.net/"

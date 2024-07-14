@@ -1,8 +1,8 @@
 +++
 title = "fabioartuso.com"
 date = "2022-03-22"
-updated = "2024-05-20"
-weight = 1564
+updated = "2024-07-14"
+weight = 1570
 
 [extra]
 source = "https://fabioartuso.com/"

@@ -1,11 +1,11 @@
 +++
 title = "lawzava.com"
 date = "2022-03-22"
-updated = "2024-05-20"
-weight = 51063
+updated = "2024-07-14"
+weight = 50676
 
 [extra]
 source = "https://lawzava.com"
 ratio = 5
-size = 50
+size = 49
 +++

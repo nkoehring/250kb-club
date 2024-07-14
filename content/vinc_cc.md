@@ -1,8 +1,8 @@
 +++
 title = "vinc.cc"
 date = "2024-01-19"
-updated = "2024-05-20"
-weight = 46855
+updated = "2024-07-14"
+weight = 46980
 
 [extra]
 source = "https://vinc.cc/"

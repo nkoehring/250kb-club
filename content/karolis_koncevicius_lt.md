@@ -1,8 +1,8 @@
 +++
 title = "karolis.koncevicius.lt"
 date = "2022-03-22"
-updated = "2024-05-20"
-weight = 2792
+updated = "2024-07-14"
+weight = 2857
 
 [extra]
 source = "http://karolis.koncevicius.lt/"

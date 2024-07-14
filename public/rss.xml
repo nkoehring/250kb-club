@@ -7,7 +7,7 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://250kb.club/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
       <item>
           <title>0xc3.win</title>
           <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
@@ -409,14 +409,6 @@
           <description></description>
       </item>
       <item>
-          <title>pavel.pikirenia.me</title>
-          <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://250kb.club/pavel-pikirenia-me/</link>
-          <guid>https://250kb.club/pavel-pikirenia-me/</guid>
-          <description></description>
-      </item>
-      <item>
           <title>sebastien-mouchet.fr</title>
           <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
           <author>Unknown</author>
@@ -446,14 +438,6 @@
           <author>Unknown</author>
           <link>https://250kb.club/adithya-zip/</link>
           <guid>https://250kb.club/adithya-zip/</guid>
-          <description></description>
-      </item>
-      <item>
-          <title>ari.lt</title>
-          <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://250kb.club/ari-lt/</link>
-          <guid>https://250kb.club/ari-lt/</guid>
           <description></description>
       </item>
       <item>
@@ -529,14 +513,6 @@
           <description></description>
       </item>
       <item>
-          <title>yretek.com</title>
-          <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://250kb.club/yretek-com/</link>
-          <guid>https://250kb.club/yretek-com/</guid>
-          <description></description>
-      </item>
-      <item>
           <title>zerocontradictions.net</title>
           <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
           <author>Unknown</author>
@@ -590,14 +566,6 @@
           <author>Unknown</author>
           <link>https://250kb.club/brunofontes-net/</link>
           <guid>https://250kb.club/brunofontes-net/</guid>
-          <description></description>
-      </item>
-      <item>
-          <title>centiskor.ch</title>
-          <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://250kb.club/centiskor-ch/</link>
-          <guid>https://250kb.club/centiskor-ch/</guid>
           <description></description>
       </item>
       <item>
@@ -670,14 +638,6 @@
           <author>Unknown</author>
           <link>https://250kb.club/wito-bar/</link>
           <guid>https://250kb.club/wito-bar/</guid>
-          <description></description>
-      </item>
-      <item>
-          <title>merceneros.com</title>
-          <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://250kb.club/merceneros-com/</link>
-          <guid>https://250kb.club/merceneros-com/</guid>
           <description></description>
       </item>
       <item>
@@ -1249,14 +1209,6 @@
           <description></description>
       </item>
       <item>
-          <title>reim.ar</title>
-          <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://250kb.club/reim-ar/</link>
-          <guid>https://250kb.club/reim-ar/</guid>
-          <description></description>
-      </item>
-      <item>
           <title>riedler.wien&#x2F;music</title>
           <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
           <author>Unknown</author>
@@ -1817,14 +1769,6 @@
           <description></description>
       </item>
       <item>
-          <title>codingbobby.xyz</title>
-          <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://250kb.club/codingbobby-xyz/</link>
-          <guid>https://250kb.club/codingbobby-xyz/</guid>
-          <description></description>
-      </item>
-      <item>
           <title>codingotaku.com</title>
           <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
           <author>Unknown</author>
@@ -2110,14 +2054,6 @@
           <author>Unknown</author>
           <link>https://250kb.club/huyngo-envs-net/</link>
           <guid>https://250kb.club/huyngo-envs-net/</guid>
-          <description></description>
-      </item>
-      <item>
-          <title>iain.in</title>
-          <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://250kb.club/iain-in/</link>
-          <guid>https://250kb.club/iain-in/</guid>
           <description></description>
       </item>
       <item>
@@ -2449,14 +2385,6 @@
           <description></description>
       </item>
       <item>
-          <title>monokai.nl</title>
-          <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://250kb.club/monokai-nl/</link>
-          <guid>https://250kb.club/monokai-nl/</guid>
-          <description></description>
-      </item>
-      <item>
           <title>motherfuckingwebsite.com</title>
           <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
           <author>Unknown</author>
@@ -2713,14 +2641,6 @@
           <description></description>
       </item>
       <item>
-          <title>radiocanadamini.ca</title>
-          <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://250kb.club/radiocanadamini-ca/</link>
-          <guid>https://250kb.club/radiocanadamini-ca/</guid>
-          <description></description>
-      </item>
-      <item>
           <title>remoteroast.club</title>
           <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
           <author>Unknown</author>
@@ -2910,14 +2830,6 @@
           <author>Unknown</author>
           <link>https://250kb.club/thejollyteapot-com/</link>
           <guid>https://250kb.club/thejollyteapot-com/</guid>
-          <description></description>
-      </item>
-      <item>
-          <title>thelion.website</title>
-          <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>https://250kb.club/thelion-website/</link>
-          <guid>https://250kb.club/thelion-website/</guid>
           <description></description>
       </item>
       <item>
