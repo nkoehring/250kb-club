@@ -1,8 +1,8 @@
 +++
 title = "willcodefor.beer"
 date = "2022-03-22"
-updated = "2024-07-14"
-weight = 42280
+updated = "2024-08-01"
+weight = 42286
 
 [extra]
 source = "https://willcodefor.beer/"

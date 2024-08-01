@@ -1,8 +1,8 @@
 +++
 title = "blitzw.in"
 date = "2024-03-08"
-updated = "2024-07-14"
-weight = 6809
+updated = "2024-08-01"
+weight = 6701
 
 [extra]
 source = "https://blitzw.in/"

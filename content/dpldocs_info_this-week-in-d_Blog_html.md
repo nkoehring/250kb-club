@@ -1,8 +1,8 @@
 +++
 title = "dpldocs.info/this-week-in-d/Blog.html"
 date = "2022-03-22"
-updated = "2024-07-14"
-weight = 143901
+updated = "2024-08-01"
+weight = 144669
 
 [extra]
 source = "http://dpldocs.info/this-week-in-d/Blog.html"

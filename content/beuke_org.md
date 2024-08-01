@@ -1,8 +1,8 @@
 +++
 title = "beuke.org"
 date = "2023-11-17"
-updated = "2024-07-14"
-weight = 19478
+updated = "2024-08-01"
+weight = 19506
 
 [extra]
 source = "https://beuke.org/"

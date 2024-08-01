@@ -1,8 +1,8 @@
 +++
 title = "www.bryanbraun.com/after-dark-css"
 date = "2022-03-22"
-updated = "2024-07-14"
-weight = 43898
+updated = "2024-08-01"
+weight = 44049
 
 [extra]
 source = "https://www.bryanbraun.com/after-dark-css/"

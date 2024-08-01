@@ -1,8 +1,8 @@
 +++
 title = "missionfranceguichet.fr"
 date = "2024-02-21"
-updated = "2024-07-14"
-weight = 22591
+updated = "2024-08-01"
+weight = 22418
 
 [extra]
 source = "https://missionfranceguichet.fr/"

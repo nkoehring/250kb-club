@@ -1,11 +1,11 @@
 +++
 title = "zach.fetters.me"
 date = "2024-07-14"
-updated = "2024-07-14"
-weight = 45215
+updated = "2024-08-01"
+weight = 88205
 
 [extra]
 source = "https://zach.fetters.me/"
-ratio = 3
-size = 44
+ratio = 2
+size = 86
 +++

@@ -1,8 +1,8 @@
 +++
 title = "godteeth.com"
 date = "2023-07-15"
-updated = "2024-07-14"
-weight = 1683
+updated = "2024-08-01"
+weight = 1679
 
 [extra]
 source = "https://godteeth.com/"

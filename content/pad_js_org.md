@@ -1,8 +1,8 @@
 +++
 title = "pad.js.org"
 date = "2023-08-06"
-updated = "2024-07-14"
-weight = 10706
+updated = "2024-08-01"
+weight = 10681
 
 [extra]
 source = "https://pad.js.org/"

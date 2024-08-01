@@ -1,8 +1,8 @@
 +++
 title = "leonardschuetz.ch"
 date = "2022-03-22"
-updated = "2024-07-14"
-weight = 170162
+updated = "2024-08-01"
+weight = 169872
 
 [extra]
 source = "https://leonardschuetz.ch/"

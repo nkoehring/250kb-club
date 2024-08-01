@@ -1,8 +1,8 @@
 +++
 title = "darktheme.club"
 date = "2024-04-25"
-updated = "2024-07-14"
-weight = 7082
+updated = "2024-08-01"
+weight = 7132
 
 [extra]
 source = "https://darktheme.club/"

@@ -1,11 +1,11 @@
 +++
 title = "avidseeker.github.io"
 date = "2024-07-14"
-updated = "2024-07-14"
-weight = 4780
+updated = "2024-08-01"
+weight = 4013
 
 [extra]
 source = "https://avidseeker.github.io/"
-ratio = 71
-size = 5
+ratio = 65
+size = 4
 +++

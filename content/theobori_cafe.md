@@ -1,8 +1,8 @@
 +++
 title = "theobori.cafe"
 date = "2023-11-17"
-updated = "2024-07-14"
-weight = 43531
+updated = "2024-08-01"
+weight = 43533
 
 [extra]
 source = "https://theobori.cafe/"

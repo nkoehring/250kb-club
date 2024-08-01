@@ -1,8 +1,8 @@
 +++
 title = "axel.beckert.ch"
 date = "2023-01-31"
-updated = "2024-07-14"
-weight = 65529
+updated = "2024-08-01"
+weight = 65530
 
 [extra]
 source = "https://axel.beckert.ch/"

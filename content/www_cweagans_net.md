@@ -1,11 +1,11 @@
 +++
 title = "www.cweagans.net"
-date = "2023-02-26"
-updated = "2024-07-14"
-weight = 240565
+date = "2024-08-01"
+updated = "2024-08-01"
+weight = 254359
 
 [extra]
 source = "https://www.cweagans.net/"
-ratio = 6
-size = 235
+ratio = 19
+size = 248
 +++

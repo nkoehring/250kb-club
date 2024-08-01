@@ -1,7 +1,7 @@
 +++
 title = "goestathomas.de"
 date = "2023-02-01"
-updated = "2024-07-14"
+updated = "2024-08-01"
 weight = 17823
 
 [extra]

@@ -1,11 +1,11 @@
 +++
 title = "nmosaic3.club"
 date = "2024-03-08"
-updated = "2024-07-14"
-weight = 4817
+updated = "2024-08-01"
+weight = 4840
 
 [extra]
 source = "https://nmosaic3.club/"
-ratio = 64
+ratio = 63
 size = 5
 +++

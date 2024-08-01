@@ -1,8 +1,8 @@
 +++
 title = "erikjohannes.no"
 date = "2023-01-31"
-updated = "2024-07-14"
-weight = 3997
+updated = "2024-08-01"
+weight = 4047
 
 [extra]
 source = "https://erikjohannes.no/"

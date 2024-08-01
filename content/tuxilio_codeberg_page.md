@@ -1,8 +1,8 @@
 +++
 title = "tuxilio.codeberg.page"
 date = "2024-07-14"
-updated = "2024-07-14"
-weight = 23472
+updated = "2024-08-01"
+weight = 23449
 
 [extra]
 source = "https://tuxilio.codeberg.page/"

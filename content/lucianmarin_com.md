@@ -1,8 +1,8 @@
 +++
 title = "lucianmarin.com"
 date = "2022-03-22"
-updated = "2024-07-14"
-weight = 42124
+updated = "2024-08-01"
+weight = 42083
 
 [extra]
 source = "https://lucianmarin.com/"

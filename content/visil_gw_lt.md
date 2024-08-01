@@ -1,8 +1,8 @@
 +++
 title = "visil.gw.lt"
 date = "2024-04-25"
-updated = "2024-07-14"
-weight = 14920
+updated = "2024-08-01"
+weight = 14921
 
 [extra]
 source = "https://visil.gw.lt/"

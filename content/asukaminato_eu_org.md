@@ -1,11 +1,11 @@
 +++
 title = "asukaminato.eu.org"
 date = "2023-08-05"
-updated = "2024-07-14"
-weight = 10487
+updated = "2024-08-01"
+weight = 10837
 
 [extra]
 source = "https://asukaminato.eu.org/"
-ratio = 44
-size = 10
+ratio = 46
+size = 11
 +++
