@@ -1,13 +1,4 @@
-services:
-  ylt:
-    image: ousamabenyounes/yellowlabtools
-
 steps:
-  analyze:
-    image: denoland/deno
-    commands:
-      - sleep 3
-      - deno run --allow-read --allow-write --allow-net --allow-env="CI" index.ts
   build:
     image: jauderho/zola:latest
     commands:
