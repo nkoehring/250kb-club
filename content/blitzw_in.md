@@ -1,11 +1,11 @@
 +++
 title = "blitzw.in"
 date = "2024-03-08"
-updated = "2024-08-01"
-weight = 6701
+updated = "2024-08-24"
+weight = 6994
 
 [extra]
 source = "https://blitzw.in/"
-ratio = 29
+ratio = 31
 size = 7
 +++

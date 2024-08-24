@@ -1,11 +1,11 @@
 +++
 title = "bittich.be"
 date = "2024-01-08"
-updated = "2024-08-01"
-weight = 16309
+updated = "2024-08-24"
+weight = 42360
 
 [extra]
 source = "https://bittich.be/"
-ratio = 51
-size = 16
+ratio = 20
+size = 41
 +++

@@ -1,7 +1,7 @@
 +++
 title = "www.marginalia.nu"
 date = "2024-02-21"
-updated = "2024-08-01"
+updated = "2024-08-24"
 weight = 7733
 
 [extra]

@@ -1,8 +1,8 @@
 +++
 title = "theholytachanka.com"
 date = "2024-07-14"
-updated = "2024-08-01"
-weight = 77942
+updated = "2024-08-24"
+weight = 77988
 
 [extra]
 source = "https://theholytachanka.com/"

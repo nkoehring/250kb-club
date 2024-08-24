@@ -1,8 +1,8 @@
 +++
 title = "kwiii.xyz"
 date = "2023-01-31"
-updated = "2024-08-01"
-weight = 64055
+updated = "2024-08-24"
+weight = 64614
 
 [extra]
 source = "https://kwiii.xyz"

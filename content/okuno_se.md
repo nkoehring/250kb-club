@@ -1,7 +1,7 @@
 +++
 title = "okuno.se"
 date = "2022-11-28"
-updated = "2024-08-01"
+updated = "2024-08-24"
 weight = 87748
 
 [extra]

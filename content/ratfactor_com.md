@@ -1,7 +1,7 @@
 +++
 title = "ratfactor.com"
 date = "2022-03-23"
-updated = "2024-08-01"
+updated = "2024-08-24"
 weight = 99930
 
 [extra]

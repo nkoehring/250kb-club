@@ -1,8 +1,8 @@
 +++
 title = "yorickpeterse.com"
 date = "2022-03-22"
-updated = "2024-08-01"
-weight = 27702
+updated = "2024-08-24"
+weight = 27706
 
 [extra]
 source = "https://yorickpeterse.com/"
