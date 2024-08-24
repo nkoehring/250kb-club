@@ -1,8 +1,8 @@
 +++
 title = "aruniverse.neocities.org"
 date = "2024-07-14"
-updated = "2024-08-01"
-weight = 17104
+updated = "2024-08-24"
+weight = 17151
 
 [extra]
 source = "https://aruniverse.neocities.org/"
