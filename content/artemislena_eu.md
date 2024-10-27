@@ -1,8 +1,8 @@
 +++
 title = "artemislena.eu"
 date = "2022-03-22"
-updated = "2024-08-24"
-weight = 2999
+updated = "2024-10-27"
+weight = 2995
 
 [extra]
 source = "https://artemislena.eu/"

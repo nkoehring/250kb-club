@@ -10,8 +10,6 @@ https://abridge.netlify.app/
 https://unixsheikh.com/
 https://www.usecue.com
 https://lecaro.me
-https://k0r.in
-https://koehr.in
 https://sjmulder.nl
 https://text.npr.org
 https://playerone.kevincox.ca
@@ -128,14 +126,11 @@ https://chad.hirsch.host
 https://secluded.site/
 https://willcodefor.beer/
 https://armaanb.net/
-https://benharr.is/
 https://myipaddress.ru
 https://pr0.uk/
 https://bnolet.me
 https://remoteroast.club/
 https://box.matto.nl
-https://zakr.es/
-https://zakr.es/blog/
 https://codevoid.de/
 https://bcachefs.org/
 https://wondroushealing.com
@@ -297,7 +292,6 @@ https://www.unsungnovelty.org/
 https://www.vmaxleclub.com/
 https://alessandrocuzzocrea.com
 https://ahmubashshir.github.io/
-https://pvac.xyz/
 https://privacyfreak84.github.io/
 https://jcruz.eu/
 https://madewithtea.com/
@@ -308,7 +302,6 @@ https://colincogle.name/
 https://jakk.dev/
 https://vk7.eu/
 https://sebastien-mouchet.fr/
-https://blog.darylsun.page/
 https://godteeth.com/
 https://willhackett.com/
 https://asukaminato.eu.org/
@@ -321,7 +314,6 @@ https://ploum.net/
 https://brunofontes.net/
 http://arc-x.org/
 https://salehlootah.com/
-https://moth.monster/
 https://wito.bar/
 https://akgbhat.github.io/
 https://giraud.eu/
@@ -336,8 +328,6 @@ https://latunov.dev/
 https://erikjohannes.no/
 https://rb.ax/
 https://ari.lt/
-https://tienbuigia.online/
-https://simpleshopinglist.com/
 https://sahil.kokamkar.com/
 https://elblogdemanu.com/
 https://jss.taxreligion.org/
@@ -374,9 +364,7 @@ https://alexalejandre.com/
 https://eternodevir.com/
 https://zoraster.org/
 https://blitzw.in/
-https://nmosaic3.club/
 https://bacardi55.io/
-http://myr.sh/
 https://0xc3.win/
 https://casuallyblue.dev/
 https://thedroth.rocks/
@@ -430,6 +418,16 @@ https://magicalunicorn.fr/
 https://lloydatkinson.net/
 https://daviewales.com/
 https://davidwalesdata.com/
-https://harrynfr.xyz/
 https://cujo.casa/
-https://tombrandis.uk.to
+https://tombrandis.uk.to/
+http://kaimac.org/
+https://rico040.su/
+https://oivas000.tech/
+https://asnine.me/
+https://fs2f.github.io/
+https://blog.x-way.org/
+https://bobbyhiltz.com/
+https://bunk.lol/
+https://okasayaku.neocities.org/
+https://world-playground-deceit.net/
+https://francescoro.si/

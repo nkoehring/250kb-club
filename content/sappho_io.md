@@ -1,11 +1,11 @@
 +++
 title = "sappho.io"
 date = "2024-01-26"
-updated = "2024-08-24"
-weight = 201114
+updated = "2024-10-27"
+weight = 203023
 
 [extra]
 source = "https://sappho.io/"
 ratio = 2
-size = 196
+size = 198
 +++

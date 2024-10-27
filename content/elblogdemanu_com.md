@@ -1,11 +1,11 @@
 +++
 title = "elblogdemanu.com"
 date = "2023-12-13"
-updated = "2024-08-24"
-weight = 5719
+updated = "2024-10-27"
+weight = 6112
 
 [extra]
 source = "https://elblogdemanu.com/"
-ratio = 41
+ratio = 43
 size = 6
 +++

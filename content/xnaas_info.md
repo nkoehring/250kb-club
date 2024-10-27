@@ -1,11 +1,11 @@
 +++
 title = "xnaas.info"
 date = "2022-03-22"
-updated = "2024-08-24"
-weight = 2635
+updated = "2024-10-27"
+weight = 2382
 
 [extra]
 source = "https://xnaas.info"
 ratio = 100
-size = 3
+size = 2
 +++

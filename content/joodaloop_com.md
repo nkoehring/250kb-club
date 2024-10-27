@@ -1,8 +1,8 @@
 +++
 title = "joodaloop.com"
 date = "2023-12-13"
-updated = "2024-08-24"
-weight = 34954
+updated = "2024-10-27"
+weight = 35007
 
 [extra]
 source = "https://joodaloop.com/"

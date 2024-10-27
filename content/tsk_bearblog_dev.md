@@ -1,11 +1,11 @@
 +++
 title = "tsk.bearblog.dev"
 date = "2022-11-28"
-updated = "2024-08-24"
-weight = 103487
+updated = "2024-10-27"
+weight = 103951
 
 [extra]
 source = "https://tsk.bearblog.dev/"
-ratio = 5
-size = 101
+ratio = 6
+size = 102
 +++

@@ -1,11 +1,11 @@
 +++
 title = "willhackett.com"
 date = "2023-08-05"
-updated = "2024-08-01"
-weight = 43230
+updated = "2024-10-27"
+weight = 29801
 
 [extra]
 source = "https://willhackett.com/"
-ratio = 17
-size = 42
+ratio = 27
+size = 29
 +++

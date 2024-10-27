@@ -1,8 +1,8 @@
 +++
 title = "jano.sh"
 date = "2024-07-14"
-updated = "2024-08-24"
-weight = 222136
+updated = "2024-10-27"
+weight = 222122
 
 [extra]
 source = "https://jano.sh/"

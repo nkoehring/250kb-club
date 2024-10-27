@@ -1,11 +1,11 @@
 +++
 title = "blakehawkins.com/blog"
 date = "2022-03-22"
-updated = "2024-08-24"
-weight = 57653
+updated = "2024-10-27"
+weight = 57793
 
 [extra]
 source = "https://blakehawkins.com/blog"
-ratio = 6
+ratio = 7
 size = 56
 +++

@@ -1,11 +1,11 @@
 +++
 title = "lunecake.com"
 date = "2023-02-01"
-updated = "2024-08-24"
-weight = 100142
+updated = "2024-10-27"
+weight = 107084
 
 [extra]
 source = "https://lunecake.com/"
 ratio = 1
-size = 98
+size = 105
 +++

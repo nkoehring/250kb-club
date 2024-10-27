@@ -1,8 +1,8 @@
 +++
 title = "hylang.org"
 date = "2023-02-26"
-updated = "2024-08-24"
-weight = 72003
+updated = "2024-10-27"
+weight = 72001
 
 [extra]
 source = "https://hylang.org/"

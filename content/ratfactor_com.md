@@ -1,8 +1,8 @@
 +++
 title = "ratfactor.com"
 date = "2022-03-23"
-updated = "2024-08-24"
-weight = 99930
+updated = "2024-10-27"
+weight = 100127
 
 [extra]
 source = "http://ratfactor.com/"

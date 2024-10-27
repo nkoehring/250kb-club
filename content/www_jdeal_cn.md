@@ -1,8 +1,8 @@
 +++
 title = "www.jdeal.cn"
 date = "2024-08-01"
-updated = "2024-08-24"
-weight = 22629
+updated = "2024-10-27"
+weight = 22644
 
 [extra]
 source = "https://www.jdeal.cn/"

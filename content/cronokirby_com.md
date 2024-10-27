@@ -1,8 +1,8 @@
 +++
 title = "cronokirby.com"
 date = "2022-03-22"
-updated = "2024-08-24"
-weight = 249299
+updated = "2024-10-27"
+weight = 248744
 
 [extra]
 source = "https://cronokirby.com"

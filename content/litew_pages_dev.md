@@ -1,8 +1,8 @@
 +++
 title = "litew.pages.dev"
 date = "2024-07-14"
-updated = "2024-08-24"
-weight = 1988
+updated = "2024-10-27"
+weight = 2291
 
 [extra]
 source = "https://litew.pages.dev/"
