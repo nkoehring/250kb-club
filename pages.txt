@@ -241,7 +241,6 @@ https://thelazysre.com/
 https://madelinepritchard.net
 https://vort3.com/
 https://axel.beckert.ch/
-https://bortox.it/
 https://riedler.wien/music/
 https://otgt.us.eu.org/
 https://ltlnx.codeberg.page
@@ -369,7 +368,6 @@ https://anakojm.net/
 https://secu.pages.dev/
 https://visil.gw.lt/
 https://jagrg.org/
-https://tuxilio.codeberg.page/
 https://crism.ro/
 https://www.thorlaksson.com/
 https://crtv.pages.dev/
@@ -427,3 +425,7 @@ https://tpaefawzen.github.io/
 https://LokiList.com/
 https://pavel.pikirenia.me/
 https://marcusb.org/
+https://mirat.dev/
+https://www.paoloose.site/
+https://vanzasetia.xyz/
+https://ansharora.in/
