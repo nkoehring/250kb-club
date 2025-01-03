@@ -13,7 +13,7 @@ https://
 
 **Is the download size of the site you are adding smaller than 256kB in total?**
 <!-- The easiest way to check is, to open the network inspector in an incognito tab -->
-[] Yes, I checked the size requirements.
+- [] Yes, I checked the size requirements.
 
 **What makes the site valuable, except for its small size?**
 <!-- Please think about the value, the requested site adds. Is it your digital home that might inspire others to create their own? Is it informative? Is it showcasing something? -->
