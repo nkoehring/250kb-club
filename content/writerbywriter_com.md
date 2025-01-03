@@ -1,8 +1,8 @@
 +++
 title = "writerbywriter.com"
 date = "2023-01-31"
-updated = "2024-10-27"
-weight = 193040
+updated = "2025-01-03"
+weight = 194015
 
 [extra]
 source = "https://writerbywriter.com/"

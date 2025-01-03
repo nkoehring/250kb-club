@@ -1,8 +1,8 @@
 +++
 title = "www.usecue.com"
 date = "2022-03-22"
-updated = "2024-10-27"
-weight = 31161
+updated = "2025-01-03"
+weight = 30782
 
 [extra]
 source = "https://www.usecue.com"

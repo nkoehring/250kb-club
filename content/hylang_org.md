@@ -1,11 +1,11 @@
 +++
 title = "hylang.org"
 date = "2023-02-26"
-updated = "2024-10-27"
+updated = "2025-01-03"
 weight = 72001
 
 [extra]
 source = "https://hylang.org/"
-ratio = 3
+ratio = 98
 size = 70
 +++

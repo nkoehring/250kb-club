@@ -1,11 +1,11 @@
 +++
 title = "crism.ro"
 date = "2024-07-14"
-updated = "2024-10-27"
-weight = 60744
+updated = "2025-01-03"
+weight = 61818
 
 [extra]
 source = "https://crism.ro/"
-ratio = 5
-size = 59
+ratio = 7
+size = 60
 +++

@@ -1,11 +1,11 @@
 +++
 title = "casuallyblue.dev"
 date = "2024-04-25"
-updated = "2024-10-27"
-weight = 38836
+updated = "2025-01-03"
+weight = 38859
 
 [extra]
 source = "https://casuallyblue.dev/"
-ratio = 3
+ratio = 95
 size = 38
 +++

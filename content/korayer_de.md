@@ -1,8 +1,8 @@
 +++
 title = "korayer.de"
 date = "2023-01-31"
-updated = "2024-10-27"
-weight = 650
+updated = "2025-01-03"
+weight = 636
 
 [extra]
 source = "https://korayer.de/"

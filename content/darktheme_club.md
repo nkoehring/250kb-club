@@ -1,11 +1,11 @@
 +++
 title = "darktheme.club"
 date = "2024-04-25"
-updated = "2024-10-27"
-weight = 7242
+updated = "2025-01-03"
+weight = 7197
 
 [extra]
 source = "https://darktheme.club/"
-ratio = 46
+ratio = 47
 size = 7
 +++

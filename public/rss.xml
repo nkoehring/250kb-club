@@ -7,7 +7,31 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://250kb.club/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>jlelse.dev</title>
+          <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+          <author>koehr</author>
+          <link>https://250kb.club/jlelse-dev/</link>
+          <guid>https://250kb.club/jlelse-dev/</guid>
+          <description xml:base="https://250kb.club/jlelse-dev/"></description>
+      </item>
+      <item>
+          <title>tombrandis.uk</title>
+          <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+          <author>koehr</author>
+          <link>https://250kb.club/tombrandis-uk/</link>
+          <guid>https://250kb.club/tombrandis-uk/</guid>
+          <description xml:base="https://250kb.club/tombrandis-uk/"></description>
+      </item>
+      <item>
+          <title>yatesrelates.com</title>
+          <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+          <author>koehr</author>
+          <link>https://250kb.club/yatesrelates-com/</link>
+          <guid>https://250kb.club/yatesrelates-com/</guid>
+          <description xml:base="https://250kb.club/yatesrelates-com/"></description>
+      </item>
       <item>
           <title>asnine.me</title>
           <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
@@ -393,14 +417,6 @@
           <description xml:base="https://250kb.club/theholytachanka-com/"></description>
       </item>
       <item>
-          <title>tuxilio.codeberg.page</title>
-          <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/tuxilio-codeberg-page/</link>
-          <guid>https://250kb.club/tuxilio-codeberg-page/</guid>
-          <description xml:base="https://250kb.club/tuxilio-codeberg-page/"></description>
-      </item>
-      <item>
           <title>www.thorlaksson.com</title>
           <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
           <author>koehr</author>
@@ -655,14 +671,6 @@
           <link>https://250kb.club/sappho-io/</link>
           <guid>https://250kb.club/sappho-io/</guid>
           <description xml:base="https://250kb.club/sappho-io/"></description>
-      </item>
-      <item>
-          <title>alexeystar.com</title>
-          <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/alexeystar-com/</link>
-          <guid>https://250kb.club/alexeystar-com/</guid>
-          <description xml:base="https://250kb.club/alexeystar-com/"></description>
       </item>
       <item>
           <title>andrekelling.de</title>

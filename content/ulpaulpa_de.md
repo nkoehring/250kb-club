@@ -1,11 +1,11 @@
 +++
 title = "ulpaulpa.de"
 date = "2022-03-22"
-updated = "2024-10-27"
+updated = "2025-01-03"
 weight = 20766
 
 [extra]
 source = "https://ulpaulpa.de/"
-ratio = 19
+ratio = 81
 size = 20
 +++

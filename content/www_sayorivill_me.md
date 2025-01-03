@@ -1,11 +1,11 @@
 +++
 title = "www.sayorivill.me"
 date = "2023-03-04"
-updated = "2024-10-27"
-weight = 118684
+updated = "2025-01-03"
+weight = 120291
 
 [extra]
 source = "http://www.sayorivill.me/"
-ratio = 3
-size = 116
+ratio = 58
+size = 117
 +++

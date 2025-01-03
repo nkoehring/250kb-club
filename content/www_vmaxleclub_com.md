@@ -1,11 +1,11 @@
 +++
 title = "www.vmaxleclub.com"
 date = "2023-05-10"
-updated = "2024-10-27"
+updated = "2025-01-03"
 weight = 242586
 
 [extra]
 source = "https://www.vmaxleclub.com/"
-ratio = 1
+ratio = 99
 size = 237
 +++

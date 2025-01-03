@@ -1,11 +1,11 @@
 +++
 title = "webperf.xyz"
 date = "2022-03-22"
-updated = "2024-10-27"
-weight = 210227
+updated = "2025-01-03"
+weight = 79874
 
 [extra]
 source = "https://webperf.xyz"
-ratio = 2
-size = 205
+ratio = 45
+size = 78
 +++

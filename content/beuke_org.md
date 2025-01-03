@@ -1,11 +1,11 @@
 +++
 title = "beuke.org"
 date = "2023-11-17"
-updated = "2024-10-27"
-weight = 21047
+updated = "2025-01-03"
+weight = 21084
 
 [extra]
 source = "https://beuke.org/"
-ratio = 15
+ratio = 20
 size = 21
 +++

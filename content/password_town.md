@@ -1,8 +1,8 @@
 +++
 title = "password.town"
 date = "2023-12-13"
-updated = "2024-10-27"
-weight = 4172
+updated = "2025-01-03"
+weight = 4202
 
 [extra]
 source = "https://password.town/"

@@ -1,11 +1,11 @@
 +++
 title = "janilowski.pl"
 date = "2024-04-25"
-updated = "2024-10-27"
-weight = 85598
+updated = "2025-01-03"
+weight = 112084
 
 [extra]
 source = "https://janilowski.pl/"
-ratio = 7
-size = 84
+ratio = 98
+size = 109
 +++

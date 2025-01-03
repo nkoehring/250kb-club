@@ -1,7 +1,7 @@
 +++
 title = "vinc.cc"
 date = "2024-01-19"
-updated = "2024-10-27"
+updated = "2025-01-03"
 weight = 46980
 
 [extra]

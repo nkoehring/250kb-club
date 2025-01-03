@@ -1,11 +1,11 @@
 +++
 title = "noelle.df1.dev"
 date = "2023-05-10"
-updated = "2024-10-27"
-weight = 115394
+updated = "2025-01-03"
+weight = 193045
 
 [extra]
 source = "https://noelle.df1.dev/"
-ratio = 2
-size = 113
+ratio = 90
+size = 189
 +++

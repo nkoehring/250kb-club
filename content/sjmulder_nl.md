@@ -1,8 +1,8 @@
 +++
 title = "sjmulder.nl"
 date = "2022-03-22"
-updated = "2024-10-27"
-weight = 3051
+updated = "2025-01-03"
+weight = 3193
 
 [extra]
 source = "https://sjmulder.nl"

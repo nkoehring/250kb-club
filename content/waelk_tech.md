@@ -1,11 +1,11 @@
 +++
 title = "waelk.tech"
 date = "2024-08-05"
-updated = "2024-10-27"
-weight = 8226
+updated = "2025-01-03"
+weight = 8267
 
 [extra]
 source = "https://waelk.tech/"
-ratio = 44
+ratio = 59
 size = 8
 +++

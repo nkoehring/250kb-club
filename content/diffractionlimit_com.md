@@ -1,11 +1,11 @@
 +++
 title = "diffractionlimit.com"
 date = "2024-02-21"
-updated = "2024-10-27"
-weight = 221260
+updated = "2025-01-03"
+weight = 221466
 
 [extra]
 source = "https://diffractionlimit.com/"
-ratio = 1
+ratio = 78
 size = 216
 +++

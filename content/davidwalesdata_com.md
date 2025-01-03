@@ -1,11 +1,11 @@
 +++
 title = "davidwalesdata.com"
 date = "2024-08-24"
-updated = "2024-10-27"
-weight = 16882
+updated = "2025-01-03"
+weight = 16859
 
 [extra]
 source = "https://davidwalesdata.com/"
-ratio = 8
+ratio = 97
 size = 16
 +++

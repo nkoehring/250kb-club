@@ -1,8 +1,8 @@
 +++
 title = "allien.work"
 date = "2022-03-22"
-updated = "2024-10-27"
-weight = 114454
+updated = "2025-01-03"
+weight = 114462
 
 [extra]
 source = "https://allien.work/"

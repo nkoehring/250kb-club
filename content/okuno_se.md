@@ -1,11 +1,11 @@
 +++
 title = "okuno.se"
 date = "2022-11-28"
-updated = "2024-10-27"
-weight = 87580
+updated = "2025-01-03"
+weight = 87763
 
 [extra]
 source = "https://okuno.se/"
-ratio = 3
+ratio = 95
 size = 86
 +++

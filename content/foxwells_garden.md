@@ -1,11 +1,11 @@
 +++
 title = "foxwells.garden"
 date = "2022-03-22"
-updated = "2024-10-27"
-weight = 41484
+updated = "2025-01-03"
+weight = 42103
 
 [extra]
 source = "https://foxwells.garden/"
-ratio = 13
+ratio = 28
 size = 41
 +++

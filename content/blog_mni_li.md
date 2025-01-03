@@ -1,11 +1,11 @@
 +++
 title = "blog.mni.li"
 date = "2024-07-14"
-updated = "2024-10-27"
-weight = 43683
+updated = "2025-01-03"
+weight = 44750
 
 [extra]
 source = "https://blog.mni.li/"
-ratio = 11
-size = 43
+ratio = 10
+size = 44
 +++

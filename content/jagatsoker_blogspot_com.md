@@ -1,11 +1,11 @@
 +++
 title = "jagatsoker.blogspot.com"
 date = "2022-03-23"
-updated = "2024-10-27"
-weight = 228198
+updated = "2025-01-03"
+weight = 132009
 
 [extra]
 source = "https://jagatsoker.blogspot.com/"
-ratio = 3
-size = 223
+ratio = 52
+size = 129
 +++

@@ -1,11 +1,11 @@
 +++
 title = "fmarier.org"
 date = "2022-03-22"
-updated = "2024-10-27"
-weight = 110504
+updated = "2025-01-03"
+weight = 110503
 
 [extra]
 source = "https://fmarier.org/"
-ratio = 2
+ratio = 99
 size = 108
 +++

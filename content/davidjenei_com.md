@@ -1,7 +1,7 @@
 +++
 title = "davidjenei.com"
 date = "2022-06-08"
-updated = "2024-10-27"
+updated = "2025-01-03"
 weight = 2948
 
 [extra]
