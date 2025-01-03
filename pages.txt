@@ -18,7 +18,6 @@ https://dotfilehub.com
 https://manpages.bsd.lv
 https://danluu.com
 http://minid.net
-https://subreply.com
 https://seirdy.one
 https://richj.co
 https://porkbrain.com
@@ -55,7 +54,6 @@ https://ihaque.org/
 https://xubuntu.org/
 https://www.tarsnap.com/
 https://ylukem.com/
-https://iain.in/
 https://jvelo.at/
 http://dpldocs.info/this-week-in-d/Blog.html
 https://lucianmarin.com/
@@ -109,7 +107,6 @@ https://pbanks.net/
 https://ache.one/
 https://emersion.fr/
 https://drewdevault.com/
-https://christine.website/
 http://cat-v.org/
 http://werc.cat-v.org/
 https://suckless.org/
@@ -133,7 +130,6 @@ https://remoteroast.club/
 https://box.matto.nl
 https://codevoid.de/
 https://bcachefs.org/
-https://wondroushealing.com
 https://blog.bshah.in/
 https://rya.nc/
 https://temp.sh/
@@ -199,13 +195,11 @@ https://timotijhof.net/
 https://jeffhuang.com/
 https://kidl.at/
 https://dusanmitrovic.xyz/
-https://xnaas.info
 https://qubyte.codes/
 https://daniel-siepmann.de/
 https://thejollyteapot.com/
 https://boehs.org/
 https://bvnf.space/
-https://gennext.net.au/
 https://xmdr.nl/
 https://ccsleep.net/
 https://jason.nabein.me/
@@ -290,7 +284,6 @@ https://noelle.df1.dev/
 https://bmoat.com/
 https://www.unsungnovelty.org/
 https://www.vmaxleclub.com/
-https://alessandrocuzzocrea.com
 https://ahmubashshir.github.io/
 https://privacyfreak84.github.io/
 https://jcruz.eu/
@@ -301,7 +294,6 @@ https://blog.skiserv.eu/
 https://colincogle.name/
 https://jakk.dev/
 https://vk7.eu/
-https://sebastien-mouchet.fr/
 https://godteeth.com/
 https://willhackett.com/
 https://asukaminato.eu.org/
@@ -320,14 +312,12 @@ https://giraud.eu/
 https://mathijs.vgorcum.com/
 https://bishwasaha.com/
 https://httpguides.com/
-https://centiskor.ch/
 https://kirillunlimited.com/
 https://theobori.cafe/
 https://beuke.org/
 https://latunov.dev/
 https://erikjohannes.no/
 https://rb.ax/
-https://ari.lt/
 https://sahil.kokamkar.com/
 https://elblogdemanu.com/
 https://jss.taxreligion.org/
@@ -349,8 +339,6 @@ https://eklausmeier.goip.de/
 https://morcus.net/
 https://email.is-not-s.ms/
 https://andrekelling.de/
-https://alexeystar.com/
-https://www.zinzy.website/
 https://paulcomte.cafe/
 https://luke.marzen.me/
 https://petercammeraat.net/
@@ -368,7 +356,6 @@ https://bacardi55.io/
 https://0xc3.win/
 https://casuallyblue.dev/
 https://thedroth.rocks/
-https://proventherapies.nl/
 https://tamim.io/
 https://darktheme.club/
 https://cashx.pages.dev/
@@ -389,7 +376,6 @@ https://crtv.pages.dev/
 https://litew.pages.dev/
 https://jano.sh/
 https://avidseeker.github.io/
-https://zach.fetters.me/
 https://theholytachanka.com/
 https://chromora.com/
 https://maniek86.xyz/
@@ -398,7 +384,6 @@ https://dostoynikov.bearblog.dev/
 http://old.net.eu.org/
 https://sharavananpa.dev/
 https://jesse.cafe/
-https://aruniverse.neocities.org/
 https://dillo-browser.github.io/
 https://thatmlopsguy.github.io/
 https://blog.mni.li/
@@ -424,11 +409,21 @@ http://kaimac.org/
 https://rico040.su/
 https://oivas000.tech/
 https://asnine.me/
-https://fs2f.github.io/
 https://blog.x-way.org/
 https://bobbyhiltz.com/
-https://bunk.lol/
 https://okasayaku.neocities.org/
 https://world-playground-deceit.net/
 https://francescoro.si/
 https://yatesrelates.com/
+https://home.hedy.dev/
+https://strife.galitec.es/
+https://dracol.ing/
+https://davidandkay.me.uk/
+https://www.websitecarbon.com/
+https://blog.tt4e.com/
+https://likun.cc/
+https://yatesrelates.com/
+https://tpaefawzen.github.io/
+https://LokiList.com/
+https://pavel.pikirenia.me/
+https://marcusb.org/
