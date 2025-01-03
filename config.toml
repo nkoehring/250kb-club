@@ -6,8 +6,20 @@ default_language = "en"
 compile_sass = false
 build_search_index = true
 minify_html = true
-generate_feed = true
-feed_filename = "rss.xml"
+generate_feeds = true
+feed_filenames = ["rss.xml"]
+hard_link_static = true
+taxonomies = []
+generate_sitemap = true
+generate_robots_txt = true
+
+author = "koehr"
+
+[link_checker]
+skip_prefixes = []
+skip_anchor_prefixes = []
+internal_level = "error"
+external_level = "error"
 
 [markdown]
 highlight_code = false
@@ -16,6 +28,8 @@ external_links_target_blank = true
 external_links_no_follow = true
 external_links_no_referrer = false
 smart_punctuation = true
+lazy_async_image = true
+bottom_footnotes = false
 
 [search]
 include_title = true
@@ -24,5 +38,4 @@ include_path = false
 include_content = true
 
 [extra]
-author = "Norman Köhring"
-author_homepage = "https://koehr.in"
+author_homepage = "https://koehr.ing"
