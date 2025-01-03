@@ -16,7 +16,7 @@ https://
 
 **Is the download size of the site still smaller than 256kB in total?**
 <!-- The easiest way to check is, to open the network inspector in an incognito tab -->
-[] Yes, I (re)checked the size requirements.
+- [ ] Yes, I (re)checked the size requirements.
 
 **Is the site still valuable?**
 <!-- Please think about the value, the site adds. Did it change? -->
