@@ -6,7 +6,8 @@ Inspired by [Bradley Taunt's 1MB.club](https://1mb.club/).
 
 ## But why?
 
-I love the idea of a list of webpages that are still reasonably usable with a slow internet connection. But 1MB is, in my honest opinion, still way too much. Nobody wants to wait 10 seconds — on good days — to load a web site. And a very large chunk of the world population isn't gifted with Gigabit internet connections.
+I love the idea of a list of webpages that are still reasonably usable with a slow internet connection. But 1MB is, in my honest opinion, still way too much. Nobody wants to wait 10 seconds — on good days — to load a web site. And a very large chunk of the world population isn't gifted with Gigabit internet connections. The carbon food print of a web site is also directly related to the data transfered over the wire.
+The 250kB Club, for example is [extremely efficient](https://www.websitecarbon.com/website/250kb-club/) thanks to its small size.
 
 Of course, the absolute size of a website is not a perfect indicator. A page might contain a lot of text or images as important part of their content. It would be unfair to call them bloated in this case. This is why, additionally to the absolute size the ratio of visible to invisible content is shown as well.
 
