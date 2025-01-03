@@ -1,54 +1,67 @@
-import "./index.d.ts";
+import { Table } from '@cliffy/table'
+import { tty } from '@cliffy/ansi/tty'
+import { colors } from '@cliffy/ansi/colors'
+
+import './index.d.ts'
 import {
   url2title,
   getPageRecord,
   writeRecord,
   removeRecord,
-} from "./analyser/toolkit.ts";
+} from './analyser/toolkit.ts'
 import {
   requestMetricsRun,
   checkStatus,
   retrieveMetrics,
-} from "./analyser/metrics.ts";
+} from './analyser/metrics.ts'
 
-const INPUT_FILE = Deno.args[0] ?? "./pages.txt";
-const OUTPUT_PATH = Deno.args[1] ?? "./content"; // results are written here
-const RECHECK_THRESHOLD = 60 * 60 * 24 * 7 * 1000; // recheck pages older than 1 week
-const REJECT_THRESHOLD = 262144; // 256KB (duh)
-const PARALLEL_JOBS = 3; // max YLT jobs
+const INPUT_FILE = Deno.args[0] ?? './pages.txt'
+const OUTPUT_PATH = Deno.args[1] ?? './content' // results are written here
+const RECHECK_THRESHOLD = 60 * 60 * 24 * 7 * 1000 // recheck pages older than 1 week
+const REJECT_THRESHOLD = 262144 // 256KB (duh)
+const PARALLEL_JOBS = 3 // max YLT jobs
 
-const now = Date.now();
-const pages = await getPageList(); // all pages
-const pagesUpdating: string[] = []; // currently running ylt jobs
+const now = Date.now()
+const pages = await getPageList() // all pages
+
+const statistics = {
+  total: pages.length,
+  checked: 0,
+  updated: [] as { url: string, weight: number }[],
+  rejected: [] as { url: string, weight: number }[],
+  errors: [] as string[],
+}
 
 async function getPageList(): Promise<string[]> {
-  const inputContent = await Deno.readTextFile(INPUT_FILE);
-  return inputContent.split("\n").filter((line) => line.startsWith("http"));
+  const inputContent = await Deno.readTextFile(INPUT_FILE)
+  return inputContent.split('\n').filter((line) => line.startsWith('http'))
 }
 
 async function updateRecord(runId: string, url: string): Promise<boolean> {
-  const oldRecord = await getPageRecord(url, OUTPUT_PATH);
-  const metrics = await retrieveMetrics(runId);
+  const oldRecord = await getPageRecord(url, OUTPUT_PATH)
+  const metrics = await retrieveMetrics(runId)
 
   if (!metrics) {
-    console.error("failed to retrieve results for", url, runId);
-    return false;
+    statistics.errors.push(`Failed to retrieve results for ${url} (run id: ${runId})`)
+    console.debug("failed to retrieve results for", url, runId)
+    return false
   }
 
   // poor mans toISODateString
-  const now = new Date().toISOString().split("T")[0];
-
-  const weight = metrics.metrics.contentLength;
+  const now = new Date().toISOString().split("T")[0]
+  const weight = metrics.metrics.contentLength
 
   if (weight > REJECT_THRESHOLD) {
-    console.log(url, "rejected! Weighs", Math.round(weight / 1024), "kb");
+    statistics.rejected.push({ url, weight: Math.round(weight / 1024) })
+    console.debug(url, "rejected! Weighs", Math.round(weight / 1024), "kb")
     if (oldRecord) {
-      console.log("Removing record at", OUTPUT_PATH)
+      console.debug("Removing record at", OUTPUT_PATH)
       removeRecord(url, OUTPUT_PATH).catch(() => {
-        console.error("Failed to remove old record of rejected url", url);
-      });
+        statistics.errors.push('Failed to remove', OUTPUT_PATH)
+        console.debug("Failed to remove old record of rejected url", url)
+      })
     }
-    return false;
+    return false
   }
   const { htmlSize, imageSize, videoSize } = metrics.metrics
   const contentSize = htmlSize + imageSize + videoSize
@@ -63,76 +76,121 @@ async function updateRecord(runId: string, url: string): Promise<boolean> {
       ratio: Math.round(contentSize / weight * 100),
       size: Math.round(weight / 1024),
     },
-  };
+  }
 
-  const success = await writeRecord(record, url, OUTPUT_PATH);
+  const success = await writeRecord(record, url, OUTPUT_PATH)
 
   if (success) {
-    console.log(url, "successfully updated");
+    statistics.updated.push({ url, weight })
+    console.debug(url, "successfully updated")
   } else {
-    console.error(url, "record could not be written!");
+    statistics.errors.push(`Failed to write record for ${url}`)
+    console.debug(url, "record could not be written!")
   }
+
+  return true
 }
 
 async function checkPage(url: string) {
-  const record = await getPageRecord(url, OUTPUT_PATH);
-  const lastUpdated = Date.parse(record?.updated || "");
-  const needsCheck = !record || now - lastUpdated > RECHECK_THRESHOLD;
+  const record = await getPageRecord(url, OUTPUT_PATH)
+  const lastUpdated = Date.parse(record?.updated || "")
+  const needsCheck = !record || now - lastUpdated > RECHECK_THRESHOLD
 
   if (!needsCheck) {
-    console.log(url, "is up-to-date");
-    return true;
+    statistics.checked++
+    console.debug(url, "is up-to-date")
+    return true
   }
 
-  const runId = await requestMetricsRun(url);
+  const runId = await requestMetricsRun(url)
   if (!runId) {
-    console.error(url, "updating failed!");
-    return false;
+    statistics.errors.push(`Failed to run metric for ${url}`)
+    console.debug(url, "updating failed!")
+    return false
   }
 
-  console.log(url, "new or outdated, runId is", runId);
-  return runId;
+  console.debug(url, "new or outdated, runId is", runId)
+  return runId
 }
 
 function sleep(duration: number) {
-  return new Promise((resolve) => {
-    setTimeout(() => resolve(), duration);
-  });
+  return new Promise<void>((resolve) => {
+    setTimeout(() => resolve(), duration)
+  })
+}
+
+const white = (output: string | number) => colors.white(` ${output} `)
+const whiteHd = (output: string | number) => colors.bgWhite.bold.black(` ${output} `)
+const red = (output: string | number) => colors.red(` ${output} `)
+const redHd = (output: string | number) => colors.bgRed.bold.black(` ${output} `)
+const yellow = (output: string | number) => colors.yellow(` ${output} `)
+const yellowHd = (output: string | number) => colors.bgYellow.bold.black(` ${output} `)
+const blue = (output: string | number) => colors.blue(` ${output} `)
+const blueHd = (output: string | number) => colors.bgBlue.bold.black(` ${output} `)
+
+function updateStatusScreen() {
+  const { total, checked, updated, rejected, errors } = statistics
+
+  const tableOutput = new Table(
+    [whiteHd('total'), whiteHd('checked'), blueHd('added/updated'), yellowHd('rejected'), redHd('errors')],
+    [white(total), white(checked), blue(updated.length), yellow(rejected.length), red(errors.length)],
+  )
+
+  tty.cursorLeft.cursorUp.eraseLine()
+  tty.cursorLeft.cursorUp.eraseLine()
+  console.log(tableOutput.toString())
+}
+
+function showStatistics() {
+  console.log(new Table(
+    ...statistics.rejected.map((page) => [yellowHd('Rejected'), page.url, `${red(page.weight)}kb`]),
+  ).toString())
+
+  console.log(new Table(
+    ...statistics.errors.map((err) => [redHd('Error'), err]),
+  ).toString())
 }
 
 async function handleBatch() {
-  if (!pages.length) return; // done, yeah!
+  updateStatusScreen()
+  if (!pages.length) return showStatistics() // done, yeah!
 
-  const batch = pages.splice(0, PARALLEL_JOBS);
-  const jobs = batch.map((url) => checkPage(url));
+  const batch = pages.splice(0, PARALLEL_JOBS)
+  const jobs = batch.map((url) => checkPage(url))
 
   while (jobs.length) {
     // take the first job and check
     // if the check fails, it will be added back to the end of the list
-    const runId = await jobs.shift();
+    const job = jobs.shift()
+    const runId = await job
 
     // page is up-to-date or YLT has an error
-    if (runId === true || runId === false) continue;
+    if (!job || runId === undefined || runId === true || runId === false) continue
 
     // TODO: handle failures more gracefully
-    const { url, status } = await checkStatus(runId);
+    const { url, status } = await checkStatus(runId)
 
     if (status === "failed") {
-      console.error(url, "YLT analysis failed");
-      continue;
+      statistics.errors.push(`YLT analysis failed for ${url} (run id: ${runId})`)
+      console.debug(url, "YLT analysis failed")
+      continue
     } else if (status === "complete") {
-      console.log(url, "updating record...");
-      await updateRecord(runId, url);
-      continue;
+      console.debug(url, "updating record...")
+      await updateRecord(runId, url)
+      continue
     } else {
       // not done yet, add it back
-      jobs.push(runId);
+      jobs.push(job)
       // wait a bit before checking again
-      await sleep(1000);
+      await sleep(1000)
     }
   }
 
-  handleBatch();
+  handleBatch()
 }
 
-handleBatch();
+const debug = Deno.env.get('DEBUG') !== undefined
+if (!debug) console.debug = () => {} // supress debug messages
+
+console.log('Starting...')
+handleBatch()

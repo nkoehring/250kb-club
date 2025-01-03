@@ -10,10 +10,6 @@ type PageRecord = {
   };
 }
 
-type StringMap = {
-  [key: string]: string;
-}
-
 type Status = {
   status: 'awaiting' | 'running' | 'complete' | 'failed';
   url: string;
