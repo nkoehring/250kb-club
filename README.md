@@ -12,7 +12,21 @@ Of course, the absolute size of a website is not a perfect indicator. A page mig
 
 ## Adding a web page
 
-Please send a patch or pull request. If unsure, you can also write a ticket mentioning the website(s). The website(s) will be added after passing the review and measured for changes about once every week.
+~~Please send a patch or pull request.~~ Please write an issue/ticket mentioning the website(s). The website(s) will be added after passing the review. Content checks are repeated in irregular intervals.
+
+If you read this on Github, use the corresponding [issue template for requesting membership](https://github.com/nkoehring/250kb-club/issues/new?assignees=nkoehring&labels=Membership%20Request&projects=&template=request-membership.md&title=%5BSITE+REQUEST%5D%20https%3A%2F%2FPLEASE_ADD_URL).
+
+## Updating a web page
+
+Please write an issue/ticket mentioning which URL should be updated to what.
+
+If you read this on Github, use the corresponding [issue template for updating an URL](https://github.com/nkoehring/250kb-club/issues/new?assignees=nkoehring&labels=Membership%20Update&projects=&template=update-membership.md&title=%5BSITE+UPDATE%5D%20https%3A%2F%2FOLD_URL%20to%20https%3A%2F%2FNEW_URL).
+
+## Removing a web page
+
+Please write an issue/ticket mentioning which URL should be removed and add a proof that it was you who initially requested to add it.
+
+If you read this on Github, use the corresponding [issue template for removing an URL](https://github.com/nkoehring/250kb-club/issues/new?assignees=nkoehring&labels=Membership%20Update&projects=&template=cancel-membership.md&title=%5BSITE+UPDATE%5D%20remove%20https%3A%2F%2FURL).
 
 ## What are those values?
 
@@ -29,13 +43,7 @@ is 60%. The rest are extras like CSS, JavaScript and so on. It is hard to
 say what a good ratio is but my gut feeling is that everything above 20% is
 pretty good already.
 
-## All shiny
-
-This page got completely rebuild and several issues of the old version got solved. It now has pagination (100 pages per... well, page) and detail pages for every entry that you can link to.
-
 ## Hacking this page
-
-[![status-badge](https://ci.k0r.in/api/badges/1/status.svg)](https://ci.k0r.in/repos/1)
 
 This page needs three components to work:
 
@@ -60,5 +68,4 @@ mkdir -m a+rwx yltresults # for access to YLT results
 
 And build the page with `yarn build`.
 
-The website analysis is done by `compile-list.js` which reads `pages.txt` and
-writes the results to `src/components/pages.mjs`. `pages.txt` is curated by hand.
+The website analysis functionality is implemented in `analyser/metrics.ts`, everything else either in `analyser/toolkit.ts`, `index.ts` or the corresponding Zola templates. Results are written as TOML front matter to `content/:page-slug:.md` and rendered by Zola in a later step. `pages.txt` is curated by hand.
