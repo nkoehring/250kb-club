@@ -39,17 +39,19 @@ async function updateRecord(runId: string, url: string): Promise<boolean> {
   const now = new Date().toISOString().split("T")[0];
 
   const weight = metrics.metrics.contentLength;
-  const ratio = Math.round((metrics.metrics.htmlSize / weight) * 100);
 
   if (weight > REJECT_THRESHOLD) {
     console.log(url, "rejected! Weighs", Math.round(weight / 1024), "kb");
     if (oldRecord) {
+      console.log("Removing record at", OUTPUT_PATH)
       removeRecord(url, OUTPUT_PATH).catch(() => {
         console.error("Failed to remove old record of rejected url", url);
       });
     }
     return false;
   }
+  const { htmlSize, imageSize, videoSize } = metrics.metrics
+  const contentSize = htmlSize + imageSize + videoSize
 
   const record: PageRecord = {
     title: url2title(url),
@@ -58,7 +60,7 @@ async function updateRecord(runId: string, url: string): Promise<boolean> {
     weight,
     extra: {
       source: url,
-      ratio,
+      ratio: Math.round(contentSize / weight * 100),
       size: Math.round(weight / 1024),
     },
   };
