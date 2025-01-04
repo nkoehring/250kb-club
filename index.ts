@@ -15,6 +15,18 @@ import {
   retrieveMetrics,
 } from './analyser/metrics.ts'
 
+const debug = Deno.env.get('DEBUG') !== undefined
+if (!debug) console.debug = () => {} // supress debug messages
+
+const white = (output: string | number) => colors.white(` ${output} `)
+const whiteHd = (output: string | number) => colors.bgWhite.bold.black(` ${output} `)
+const red = (output: string | number) => colors.red(` ${output} `)
+const redHd = (output: string | number) => colors.bgRed.bold.black(` ${output} `)
+const yellow = (output: string | number) => colors.yellow(` ${output} `)
+const yellowHd = (output: string | number) => colors.bgYellow.bold.black(` ${output} `)
+const blue = (output: string | number) => colors.blue(` ${output} `)
+const blueHd = (output: string | number) => colors.bgBlue.bold.black(` ${output} `)
+
 const INPUT_FILE = Deno.args[0] ?? './pages.txt'
 const OUTPUT_PATH = Deno.args[1] ?? './content' // results are written here
 const RECHECK_THRESHOLD = 60 * 60 * 24 * 7 * 1000 // recheck pages older than 1 week
@@ -43,7 +55,7 @@ async function updateRecord(runId: string, url: string): Promise<boolean> {
 
   if (!metrics) {
     statistics.errors.push(`Failed to retrieve results for ${url} (run id: ${runId})`)
-    console.debug("failed to retrieve results for", url, runId)
+    console.debug(red("failed to retrieve results"), "for", blue(url), runId)
     return false
   }
 
@@ -53,12 +65,12 @@ async function updateRecord(runId: string, url: string): Promise<boolean> {
 
   if (weight > REJECT_THRESHOLD) {
     statistics.rejected.push({ url, weight: Math.round(weight / 1024) })
-    console.debug(url, "rejected! Weighs", Math.round(weight / 1024), "kb")
+    console.debug(url, red("rejected!"), "Weighs", Math.round(weight / 1024), "kb")
     if (oldRecord) {
       console.debug("Removing record at", OUTPUT_PATH)
       removeRecord(url, OUTPUT_PATH).catch(() => {
         statistics.errors.push('Failed to remove', OUTPUT_PATH)
-        console.debug("Failed to remove old record of rejected url", url)
+        console.debug(red("Failed to remove old record"), "of rejected url", url)
       })
     }
     return false
@@ -82,10 +94,10 @@ async function updateRecord(runId: string, url: string): Promise<boolean> {
 
   if (success) {
     statistics.updated.push({ url, weight })
-    console.debug(url, "successfully updated")
+    console.debug(blue(url), white("successfully updated!"))
   } else {
     statistics.errors.push(`Failed to write record for ${url}`)
-    console.debug(url, "record could not be written!")
+    console.debug(blue(url), red("record could not be written!"))
   }
 
   return true
@@ -98,18 +110,18 @@ async function checkPage(url: string) {
 
   if (!needsCheck) {
     statistics.checked++
-    console.debug(url, "is up-to-date")
+    console.debug(blue(url), white("is up-to-date"))
     return true
   }
 
   const runId = await requestMetricsRun(url)
   if (!runId) {
     statistics.errors.push(`Failed to run metric for ${url}`)
-    console.debug(url, "updating failed!")
+    console.debug(blue(url), red("getting metrics failed!"))
     return false
   }
 
-  console.debug(url, "new or outdated, runId is", runId)
+  console.debug(blue(url), white("new or outdated,"), "runId is", runId)
   return runId
 }
 
@@ -118,15 +130,6 @@ function sleep(duration: number) {
     setTimeout(() => resolve(), duration)
   })
 }
-
-const white = (output: string | number) => colors.white(` ${output} `)
-const whiteHd = (output: string | number) => colors.bgWhite.bold.black(` ${output} `)
-const red = (output: string | number) => colors.red(` ${output} `)
-const redHd = (output: string | number) => colors.bgRed.bold.black(` ${output} `)
-const yellow = (output: string | number) => colors.yellow(` ${output} `)
-const yellowHd = (output: string | number) => colors.bgYellow.bold.black(` ${output} `)
-const blue = (output: string | number) => colors.blue(` ${output} `)
-const blueHd = (output: string | number) => colors.bgBlue.bold.black(` ${output} `)
 
 function updateStatusScreen() {
   const { total, checked, updated, rejected, errors } = statistics
@@ -152,7 +155,7 @@ function showStatistics() {
 }
 
 async function handleBatch() {
-  updateStatusScreen()
+  if (!debug) updateStatusScreen()
   if (!pages.length) return showStatistics() // done, yeah!
 
   const batch = pages.splice(0, PARALLEL_JOBS)
@@ -172,13 +175,14 @@ async function handleBatch() {
 
     if (status === "failed") {
       statistics.errors.push(`YLT analysis failed for ${url} (run id: ${runId})`)
-      console.debug(url, "YLT analysis failed")
+      console.debug(blue(url), red("YLT analysis failed"))
       continue
     } else if (status === "complete") {
-      console.debug(url, "updating record...")
+      console.debug(blue(url), blue("updating record..."))
       await updateRecord(runId, url)
       continue
     } else {
+      console.debug(blue(url), white("job incomplete, pushing back"))
       // not done yet, add it back
       jobs.push(job)
       // wait a bit before checking again
@@ -188,9 +192,6 @@ async function handleBatch() {
 
   handleBatch()
 }
-
-const debug = Deno.env.get('DEBUG') !== undefined
-if (!debug) console.debug = () => {} // supress debug messages
 
 console.log('Starting...')
 handleBatch()
