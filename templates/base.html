@@ -21,7 +21,7 @@
       color: #333;
     }
     body>header,main,body>footer {
-      max-width: calc(720px - 2em);
+      max-width: calc(800px - 2em);
       width: calc(100% - 2em);
       margin: 0 auto;
       padding: 0 1em;
@@ -144,13 +144,26 @@
       justify-content: space-between;
       align-items: center;
     }
+    .badges {
+      margin: 2em 0;
+    }
     .badges > img {
       margin-bottom: -5px;
     }
     pre {
       display: block;
-      height: 11em;
       background: #8885;
+    }
+    details {
+      margin: 1em 0;
+    }
+    summary {
+      cursor: pointer;
+    }
+    summary > pre {
+      display: inline-block;
+      background: transparent;
+      margin: 0;
     }
 
     @media (prefers-color-scheme: dark) {

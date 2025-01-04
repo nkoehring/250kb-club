@@ -44,7 +44,7 @@
         possible, a badge will add some kilobytes to the page weight. A code
         snipped can be found by clicking on the respective badge.
     </p>
-    <p class="badges">
+    <p>
         The badges can either be downloaded and served as part of the website or
         linked directly from 250KB.club. The latter might save a few users some
         bandwidth if the badge is already cached. On the other hand this gives
@@ -54,11 +54,11 @@
         yourself.
     </p>
 
-    <p>
+    <div class="badges">
         <details>
             <summary>
                 <img alt="simple badge, dark" src="/simple_badge_dark.png" />
-                (1.4kB)
+                (1.1kB)
             </summary>
             <pre><code>
     &lt;a title="250KB Club page" href="https://250kb.club/{{ page.slug }}"&gt;
@@ -69,15 +69,14 @@
     &lt;/a&gt;
       </code></pre>
         </details>
-    </p>
-    <p>
+
         <details>
             <summary>
                 <img
                     alt="simple badge, bright"
                     src="/simple_badge_bright.png"
                 />
-                (1.7kB)
+                (1.0kB)
             </summary>
             <pre><code>
     &lt;a title="250KB Club page" href="https://250kb.club/{{ page.slug }}"&gt;
@@ -88,12 +87,11 @@
     &lt;/a&gt;
       </code></pre>
         </details>
-    </p>
-    <p>
+
         <details>
             <summary>
                 <img alt="color badge, bright" src="/color_badge_bright.png" />
-                (4.0kB)
+                (1.4kB)
             </summary>
             <pre><code>
     &lt;a title="250KB Club page" href="https://250kb.club/{{ page.slug }}"&gt;
@@ -104,12 +102,11 @@
     &lt;/a&gt;
       </code></pre>
         </details>
-    </p>
-    <p>
+
         <details>
             <summary>
                 <img alt="color badge, dark" src="/color_badge_dark.png" />
-                (5.7kB)
+                (1.7kB)
             </summary>
             <pre><code>
     &lt;a title="250KB Club page" href="https://250kb.club/{{ page.slug }}"&gt;
@@ -120,9 +117,40 @@
     &lt;/a&gt;
       </code></pre>
         </details>
-    </p>
 
-    <p><a href="/">back</a></p>
+        <details>
+            <summary>
+                [[ Proud Member of the 250kB Club ]] (~120 bytes)
+            </summary>
+            <pre><code>
+    &lt;a title="250KB Club page" href="https://250kb.club/{{ page.slug }}"&gt;
+      [[ Proud Member of the 250kB Club ]]
+    &lt;/a&gt;
+            </code></pre>
+        </details>
+
+        <details>
+            <summary>
+              <pre> ___ ___  __  _   ___    ___ _      _
+|_  ) __|/  \| |_| _ )  / __| |_  _| |__
+ / /|__ \ () | / / _ \ | (__| | || | '_ \
+/___|___/\__/|_\_\___/  \___|_|\_,_|_.__/ (~260 bytes)</pre>
+            </summary>
+            <pre><code>
+    &lt;a title="250KB Club page" href="https://250kb.club/{{ page.slug }}"&gt;
+        &lt;pre&gt;
+ ___ ___  __  _   ___    ___ _      _
+|_  ) __|/  \| |_| _ )  / __| |_  _| |__
+ / /|__ \ () | / / _ \ | (__| | || | '_ \
+/___|___/\__/|_\_\___/  \___|_|\_,_|_.__/
+        &lt;/pre&gt;
+    &lt;/a&gt;
+            </code></pre>
+        </details>
+    
+    </div>
+
+    <p><a href="/">back to page list</a></p>
 
 </main>
 {% endblock content %}
