@@ -1,11 +1,11 @@
 +++
 title = "berkshirehathaway.com"
 date = "2022-03-22"
-updated = "2025-01-03"
-weight = 216953
+updated = "2025-01-26"
+weight = 226516
 
 [extra]
 source = "https://berkshirehathaway.com"
-ratio = 2
-size = 212
+ratio = 3
+size = 221
 +++

@@ -1,11 +1,11 @@
 +++
 title = "vanzasetia.xyz"
 date = "2025-01-03"
-updated = "2025-01-03"
-weight = 10738
+updated = "2025-01-26"
+weight = 11058
 
 [extra]
 source = "https://vanzasetia.xyz/"
-ratio = 60
-size = 10
+ratio = 59
+size = 11
 +++

@@ -1,8 +1,8 @@
 +++
 title = "nixnet.email"
 date = "2022-03-22"
-updated = "2025-01-03"
-weight = 72369
+updated = "2025-01-26"
+weight = 72346
 
 [extra]
 source = "https://nixnet.email/"

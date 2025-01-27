@@ -1,11 +1,11 @@
 +++
 title = "bobbyhiltz.com"
 date = "2024-10-27"
-updated = "2025-01-03"
-weight = 27091
+updated = "2025-01-26"
+weight = 27876
 
 [extra]
 source = "https://bobbyhiltz.com/"
-ratio = 71
-size = 26
+ratio = 72
+size = 27
 +++

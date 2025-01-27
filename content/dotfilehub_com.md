@@ -1,11 +1,11 @@
 +++
 title = "dotfilehub.com"
 date = "2022-03-22"
-updated = "2025-01-03"
-weight = 2820
+updated = "2025-01-26"
+weight = 2760
 
 [extra]
 source = "https://dotfilehub.com"
-ratio = 30
+ratio = 31
 size = 3
 +++

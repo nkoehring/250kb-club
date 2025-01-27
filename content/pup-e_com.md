@@ -1,11 +1,11 @@
 +++
 title = "pup-e.com"
 date = "2024-08-01"
-updated = "2025-01-03"
-weight = 5903
+updated = "2025-01-26"
+weight = 6075
 
 [extra]
 source = "https://pup-e.com/"
-ratio = 45
+ratio = 46
 size = 6
 +++

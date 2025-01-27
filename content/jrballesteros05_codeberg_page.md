@@ -1,8 +1,8 @@
 +++
 title = "jrballesteros05.codeberg.page"
 date = "2022-03-22"
-updated = "2025-01-03"
-weight = 1615
+updated = "2025-01-26"
+weight = 1600
 
 [extra]
 source = "https://jrballesteros05.codeberg.page/"

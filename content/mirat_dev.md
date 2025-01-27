@@ -1,8 +1,8 @@
 +++
 title = "mirat.dev"
 date = "2025-01-03"
-updated = "2025-01-03"
-weight = 72779
+updated = "2025-01-26"
+weight = 72973
 
 [extra]
 source = "https://mirat.dev/"

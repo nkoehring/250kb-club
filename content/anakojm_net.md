@@ -1,8 +1,8 @@
 +++
 title = "anakojm.net"
 date = "2024-04-25"
-updated = "2025-01-03"
-weight = 90731
+updated = "2025-01-26"
+weight = 90917
 
 [extra]
 source = "https://anakojm.net/"

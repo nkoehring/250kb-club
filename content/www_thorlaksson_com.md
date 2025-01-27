@@ -1,8 +1,8 @@
 +++
 title = "www.thorlaksson.com"
 date = "2024-07-14"
-updated = "2025-01-03"
-weight = 162938
+updated = "2025-01-26"
+weight = 162769
 
 [extra]
 source = "https://www.thorlaksson.com/"

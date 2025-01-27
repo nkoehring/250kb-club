@@ -1,11 +1,11 @@
 +++
 title = "theholytachanka.com"
 date = "2024-07-14"
-updated = "2025-01-03"
-weight = 89123
+updated = "2025-01-26"
+weight = 10689
 
 [extra]
 source = "https://theholytachanka.com/"
-ratio = 8
-size = 87
+ratio = 45
+size = 10
 +++

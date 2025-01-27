@@ -1,8 +1,8 @@
 +++
 title = "asnine.me"
 date = "2024-10-27"
-updated = "2025-01-03"
-weight = 12145
+updated = "2025-01-26"
+weight = 12147
 
 [extra]
 source = "https://asnine.me/"
