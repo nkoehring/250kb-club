@@ -7,7 +7,15 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://250kb.club/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>melroy.org</title>
+          <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+          <author>koehr</author>
+          <link>https://250kb.club/melroy-org/</link>
+          <guid>https://250kb.club/melroy-org/</guid>
+          <description xml:base="https://250kb.club/melroy-org/"></description>
+      </item>
       <item>
           <title>andreiclinciu.net</title>
           <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>

@@ -1,11 +1,11 @@
 +++
 title = "xubuntu.org"
 date = "2022-03-22"
-updated = "2025-01-26"
-weight = 158225
+updated = "2025-02-08"
+weight = 158183
 
 [extra]
 source = "https://xubuntu.org/"
 ratio = 22
-size = 155
+size = 154
 +++

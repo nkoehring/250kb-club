@@ -1,11 +1,11 @@
 +++
 title = "www.curiositry.com"
 date = "2023-02-01"
-updated = "2025-01-26"
-weight = 39336
+updated = "2025-02-08"
+weight = 39564
 
 [extra]
 source = "https://www.curiositry.com/"
-ratio = 20
-size = 38
+ratio = 21
+size = 39
 +++

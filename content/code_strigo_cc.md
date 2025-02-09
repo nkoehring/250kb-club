@@ -1,8 +1,8 @@
 +++
 title = "code.strigo.cc"
 date = "2023-07-15"
-updated = "2025-01-26"
-weight = 107989
+updated = "2025-02-08"
+weight = 107937
 
 [extra]
 source = "https://code.strigo.cc/"

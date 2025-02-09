@@ -1,8 +1,8 @@
 +++
 title = "processwire.dev"
 date = "2022-03-22"
-updated = "2025-01-26"
-weight = 20355
+updated = "2025-02-08"
+weight = 20354
 
 [extra]
 source = "https://processwire.dev/"

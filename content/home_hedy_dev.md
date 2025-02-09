@@ -1,8 +1,8 @@
 +++
 title = "home.hedy.dev"
 date = "2025-01-03"
-updated = "2025-01-26"
-weight = 135640
+updated = "2025-02-08"
+weight = 135451
 
 [extra]
 source = "https://home.hedy.dev/"

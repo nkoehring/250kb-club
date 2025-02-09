@@ -1,8 +1,8 @@
 +++
 title = "jagatsoker.blogspot.com"
 date = "2022-03-23"
-updated = "2025-01-26"
-weight = 132068
+updated = "2025-02-08"
+weight = 131849
 
 [extra]
 source = "https://jagatsoker.blogspot.com/"

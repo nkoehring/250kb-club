@@ -1,8 +1,8 @@
 +++
 title = "www.websitecarbon.com"
 date = "2025-01-03"
-updated = "2025-01-26"
-weight = 164619
+updated = "2025-02-08"
+weight = 164486
 
 [extra]
 source = "https://www.websitecarbon.com/"

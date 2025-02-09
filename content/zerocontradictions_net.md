@@ -1,8 +1,8 @@
 +++
 title = "zerocontradictions.net"
 date = "2023-12-13"
-updated = "2025-01-26"
-weight = 50312
+updated = "2025-02-08"
+weight = 50514
 
 [extra]
 source = "https://zerocontradictions.net/"

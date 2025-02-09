@@ -1,11 +1,11 @@
 +++
 title = "duanin2.top"
 date = "2025-01-27"
-updated = "2025-01-27"
-weight = 24257
+updated = "2025-02-08"
+weight = 68227
 
 [extra]
 source = "https://duanin2.top/"
-ratio = 76
-size = 24
+ratio = 88
+size = 67
 +++

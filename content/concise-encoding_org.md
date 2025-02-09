@@ -1,8 +1,8 @@
 +++
 title = "concise-encoding.org"
 date = "2022-03-22"
-updated = "2025-01-26"
-weight = 27586
+updated = "2025-02-08"
+weight = 27577
 
 [extra]
 source = "https://concise-encoding.org/"

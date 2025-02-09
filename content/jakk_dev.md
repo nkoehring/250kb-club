@@ -1,7 +1,7 @@
 +++
 title = "jakk.dev"
 date = "2023-07-15"
-updated = "2025-01-26"
+updated = "2025-02-08"
 weight = 3540
 
 [extra]

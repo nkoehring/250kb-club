@@ -1,11 +1,11 @@
 +++
 title = "visil.gw.lt"
 date = "2024-04-25"
-updated = "2025-01-26"
-weight = 21996
+updated = "2025-02-08"
+weight = 22099
 
 [extra]
 source = "https://visil.gw.lt/"
 ratio = 73
-size = 21
+size = 22
 +++
