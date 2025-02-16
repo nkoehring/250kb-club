@@ -1,8 +1,8 @@
 +++
 title = "www.paoloose.site"
 date = "2025-01-03"
-updated = "2025-02-08"
-weight = 10583
+updated = "2025-02-16"
+weight = 10717
 
 [extra]
 source = "https://www.paoloose.site/"

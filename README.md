@@ -1,6 +1,6 @@
 # 250kb-club
 
-An exclusive members-only club for web pages weighing no more than 250kb.
+An exclusive members-only club for web pages weighing no more than [256kb](https://256kb.club).
 
 Inspired by [Bradley Taunt's 1MB.club](https://1mb.club/).
 

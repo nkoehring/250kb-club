@@ -1,11 +1,11 @@
 +++
 title = "jagrg.org"
 date = "2024-04-25"
-updated = "2025-02-08"
-weight = 4230
+updated = "2025-02-16"
+weight = 4246
 
 [extra]
 source = "https://jagrg.org/"
-ratio = 44
+ratio = 45
 size = 4
 +++

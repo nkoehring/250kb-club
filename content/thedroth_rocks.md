@@ -1,7 +1,7 @@
 +++
 title = "thedroth.rocks"
 date = "2024-04-25"
-updated = "2025-02-08"
+updated = "2025-02-16"
 weight = 8600
 
 [extra]

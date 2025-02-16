@@ -1,7 +1,7 @@
 +++
 title = "html.earth"
 date = "2024-01-08"
-updated = "2025-02-08"
+updated = "2025-02-16"
 weight = 212258
 
 [extra]

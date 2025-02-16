@@ -1,8 +1,8 @@
 +++
 title = "schnouki.net"
 date = "2025-01-27"
-updated = "2025-02-08"
-weight = 52767
+updated = "2025-02-16"
+weight = 52792
 
 [extra]
 source = "https://schnouki.net"

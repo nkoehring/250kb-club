@@ -1,8 +1,8 @@
 +++
 title = "retro.maniek86.xyz"
 date = "2024-07-14"
-updated = "2025-02-08"
-weight = 18301
+updated = "2025-02-16"
+weight = 18270
 
 [extra]
 source = "https://retro.maniek86.xyz/"

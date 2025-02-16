@@ -1,8 +1,8 @@
 +++
 title = "thejollyteapot.com"
 date = "2022-03-22"
-updated = "2025-02-08"
-weight = 1576
+updated = "2025-02-16"
+weight = 1650
 
 [extra]
 source = "https://thejollyteapot.com/"

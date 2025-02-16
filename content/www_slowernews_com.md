@@ -1,8 +1,8 @@
 +++
 title = "www.slowernews.com"
 date = "2022-03-22"
-updated = "2025-02-08"
-weight = 117053
+updated = "2025-02-16"
+weight = 117068
 
 [extra]
 source = "https://www.slowernews.com/"

@@ -1,8 +1,8 @@
 +++
 title = "chromora.com"
 date = "2024-07-14"
-updated = "2025-02-08"
-weight = 97396
+updated = "2025-02-16"
+weight = 97189
 
 [extra]
 source = "https://chromora.com/"

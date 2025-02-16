@@ -1,8 +1,8 @@
 +++
 title = "news.tuxmachines.org"
 date = "2023-02-01"
-updated = "2025-02-08"
-weight = 134944
+updated = "2025-02-16"
+weight = 134903
 
 [extra]
 source = "https://news.tuxmachines.org/"

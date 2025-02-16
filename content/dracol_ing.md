@@ -1,11 +1,11 @@
 +++
 title = "dracol.ing"
 date = "2025-01-03"
-updated = "2025-02-08"
-weight = 16877
+updated = "2025-02-16"
+weight = 16900
 
 [extra]
 source = "https://dracol.ing/"
-ratio = 96
-size = 16
+ratio = 95
+size = 17
 +++
