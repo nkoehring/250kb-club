@@ -7,7 +7,23 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://250kb.club/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>aashvik.com</title>
+          <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+          <author>koehr</author>
+          <link>https://250kb.club/aashvik-com/</link>
+          <guid>https://250kb.club/aashvik-com/</guid>
+          <description xml:base="https://250kb.club/aashvik-com/"></description>
+      </item>
+      <item>
+          <title>gaze.systems</title>
+          <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+          <author>koehr</author>
+          <link>https://250kb.club/gaze-systems/</link>
+          <guid>https://250kb.club/gaze-systems/</guid>
+          <description xml:base="https://250kb.club/gaze-systems/"></description>
+      </item>
       <item>
           <title>rafhei0.ichi.city</title>
           <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
