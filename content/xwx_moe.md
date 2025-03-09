@@ -1,11 +1,11 @@
 +++
 title = "xwx.moe"
 date = "2022-06-10"
-updated = "2025-02-16"
-weight = 8336
+updated = "2025-03-08"
+weight = 7630
 
 [extra]
 source = "http://xwx.moe/"
-ratio = 100
-size = 8
+ratio = 86
+size = 7
 +++

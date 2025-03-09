@@ -1,8 +1,8 @@
 +++
 title = "sr.ht"
 date = "2022-03-22"
-updated = "2025-02-16"
-weight = 28771
+updated = "2025-03-08"
+weight = 28764
 
 [extra]
 source = "https://sr.ht/"

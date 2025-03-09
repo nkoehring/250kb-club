@@ -1,11 +1,11 @@
 +++
 title = "drewsh.com"
 date = "2025-01-27"
-updated = "2025-02-16"
-weight = 33397
+updated = "2025-03-08"
+weight = 32574
 
 [extra]
 source = "https://drewsh.com/"
-ratio = 45
-size = 33
+ratio = 46
+size = 32
 +++

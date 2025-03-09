@@ -1,11 +1,11 @@
 +++
 title = "www.powerpointkaraoke.com"
 date = "2022-03-22"
-updated = "2025-02-16"
-weight = 147181
+updated = "2025-03-08"
+weight = 149982
 
 [extra]
 source = "https://www.powerpointkaraoke.com/"
-ratio = 10
-size = 144
+ratio = 9
+size = 146
 +++

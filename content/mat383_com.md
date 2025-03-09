@@ -1,11 +1,11 @@
 +++
 title = "mat383.com"
 date = "2024-08-05"
-updated = "2025-02-16"
-weight = 86018
+updated = "2025-03-08"
+weight = 53925
 
 [extra]
 source = "https://mat383.com/"
-ratio = 40
-size = 84
+ratio = 48
+size = 53
 +++

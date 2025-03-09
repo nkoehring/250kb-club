@@ -1,8 +1,8 @@
 +++
 title = "alexschroeder.ch"
 date = "2023-11-17"
-updated = "2025-02-16"
-weight = 5441
+updated = "2025-03-08"
+weight = 5488
 
 [extra]
 source = "https://alexschroeder.ch/"

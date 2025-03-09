@@ -1,11 +1,11 @@
 +++
 title = "morcus.net"
 date = "2024-01-19"
-updated = "2025-02-16"
-weight = 86996
+updated = "2025-03-08"
+weight = 54960
 
 [extra]
 source = "https://morcus.net/"
-ratio = 1
-size = 85
+ratio = 2
+size = 54
 +++

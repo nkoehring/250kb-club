@@ -1,8 +1,8 @@
 +++
 title = "latunov.dev"
 date = "2023-11-17"
-updated = "2025-02-16"
-weight = 19083
+updated = "2025-03-08"
+weight = 19060
 
 [extra]
 source = "https://latunov.dev/"

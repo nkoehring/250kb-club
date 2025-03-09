@@ -1,11 +1,11 @@
 +++
 title = "binyam.in"
 date = "2022-03-22"
-updated = "2025-02-16"
-weight = 45763
+updated = "2025-03-08"
+weight = 46082
 
 [extra]
 source = "https://binyam.in/"
-ratio = 21
+ratio = 20
 size = 45
 +++

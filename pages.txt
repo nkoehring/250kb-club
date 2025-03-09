@@ -27,7 +27,6 @@ https://lawzava.com
 https://frontaid.io
 https://worldti.me
 https://kunalmarwaha.com/
-https://jlelse.dev/
 https://sr.ht/
 https://sourcehut.org/
 http://oxenburypartners.com/
@@ -50,7 +49,6 @@ https://www.tuhs.org/
 https://searchbot.app/
 https://lobste.rs/
 https://danielsada.tech/
-https://ihaque.org/
 https://xubuntu.org/
 https://www.tarsnap.com/
 https://ylukem.com/
@@ -440,8 +438,13 @@ https://george.mand.is/
 https://www.johnwalker.nl/
 https://melroy.org/
 https://nizzlay.com/
-https://www.nonpaged.com/~anton/
+http://www.next.gen.oh.us/~anton/
 https://www.pandadiestro.xyz/
 https://rafhei0.ichi.city/
 https://aashvik.com/
 https://gaze.systems/
+https://pilledtexts.com/
+https://daltoncraven.com/
+https://5.vg/
+https://w3teal.is-a.dev/
+https://aleteoryx.me/

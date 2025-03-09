@@ -1,8 +1,8 @@
 +++
 title = "fanael.github.io"
 date = "2022-03-22"
-updated = "2025-02-16"
-weight = 9052
+updated = "2025-03-08"
+weight = 9041
 
 [extra]
 source = "https://fanael.github.io/"

@@ -1,7 +1,7 @@
 +++
 title = "no-js.club"
 date = "2022-06-10"
-updated = "2025-02-16"
+updated = "2025-03-08"
 weight = 1714
 
 [extra]

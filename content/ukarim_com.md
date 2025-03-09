@@ -1,8 +1,8 @@
 +++
 title = "ukarim.com"
 date = "2023-04-17"
-updated = "2025-02-16"
-weight = 1485
+updated = "2025-03-08"
+weight = 1397
 
 [extra]
 source = "https://ukarim.com"
