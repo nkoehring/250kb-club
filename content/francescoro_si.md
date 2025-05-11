@@ -1,11 +1,11 @@
 +++
 title = "francescoro.si"
 date = "2024-10-27"
-updated = "2025-03-08"
-weight = 126816
+updated = "2025-05-11"
+weight = 125753
 
 [extra]
 source = "https://francescoro.si/"
 ratio = 18
-size = 124
+size = 123
 +++

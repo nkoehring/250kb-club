@@ -1,8 +1,8 @@
 +++
 title = "nizzlay.com"
 date = "2025-02-09"
-updated = "2025-03-08"
-weight = 35421
+updated = "2025-05-11"
+weight = 35510
 
 [extra]
 source = "https://nizzlay.com/"

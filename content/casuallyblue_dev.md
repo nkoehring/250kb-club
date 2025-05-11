@@ -1,8 +1,8 @@
 +++
 title = "casuallyblue.dev"
 date = "2024-04-25"
-updated = "2025-03-08"
-weight = 38859
+updated = "2025-05-11"
+weight = 38868
 
 [extra]
 source = "https://casuallyblue.dev/"

@@ -1,11 +1,11 @@
 +++
 title = "codingotaku.com"
 date = "2022-03-22"
-updated = "2025-03-08"
-weight = 10567
+updated = "2025-05-11"
+weight = 11219
 
 [extra]
 source = "https://codingotaku.com/"
-ratio = 72
-size = 10
+ratio = 71
+size = 11
 +++

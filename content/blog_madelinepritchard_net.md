@@ -1,11 +1,11 @@
 +++
 title = "blog.madelinepritchard.net"
 date = "2023-03-17"
-updated = "2025-03-08"
-weight = 41982
+updated = "2025-05-11"
+weight = 41780
 
 [extra]
 source = "https://blog.madelinepritchard.net/"
-ratio = 6
+ratio = 7
 size = 41
 +++

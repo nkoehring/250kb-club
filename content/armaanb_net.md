@@ -1,11 +1,11 @@
 +++
 title = "armaanb.net"
 date = "2022-03-22"
-updated = "2025-03-08"
-weight = 16809
+updated = "2025-05-11"
+weight = 16976
 
 [extra]
 source = "https://armaanb.net/"
-ratio = 97
-size = 16
+ratio = 95
+size = 17
 +++

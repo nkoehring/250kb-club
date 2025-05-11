@@ -1,11 +1,11 @@
 +++
 title = "rafhei0.ichi.city"
 date = "2025-02-16"
-updated = "2025-03-08"
-weight = 31590
+updated = "2025-05-11"
+weight = 32883
 
 [extra]
 source = "https://rafhei0.ichi.city/"
-ratio = 91
-size = 31
+ratio = 92
+size = 32
 +++

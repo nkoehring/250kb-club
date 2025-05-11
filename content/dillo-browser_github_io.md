@@ -1,8 +1,8 @@
 +++
 title = "dillo-browser.github.io"
 date = "2024-07-14"
-updated = "2025-03-08"
-weight = 95426
+updated = "2025-05-11"
+weight = 95736
 
 [extra]
 source = "https://dillo-browser.github.io/"

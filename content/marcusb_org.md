@@ -1,11 +1,11 @@
 +++
 title = "marcusb.org"
 date = "2025-01-03"
-updated = "2025-03-08"
-weight = 6202
+updated = "2025-05-11"
+weight = 8403
 
 [extra]
 source = "https://marcusb.org/"
-ratio = 76
-size = 6
+ratio = 71
+size = 8
 +++

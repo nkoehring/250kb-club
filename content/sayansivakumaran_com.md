@@ -1,11 +1,11 @@
 +++
 title = "sayansivakumaran.com"
 date = "2023-08-05"
-updated = "2025-03-08"
-weight = 42681
+updated = "2025-05-11"
+weight = 44471
 
 [extra]
 source = "https://sayansivakumaran.com/"
-ratio = 8
-size = 42
+ratio = 10
+size = 43
 +++

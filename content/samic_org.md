@@ -1,8 +1,8 @@
 +++
 title = "samic.org"
 date = "2022-04-11"
-updated = "2025-03-08"
-weight = 22794
+updated = "2025-05-11"
+weight = 22840
 
 [extra]
 source = "https://samic.org/"

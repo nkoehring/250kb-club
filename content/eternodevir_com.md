@@ -1,11 +1,11 @@
 +++
 title = "eternodevir.com"
 date = "2024-02-21"
-updated = "2025-03-08"
-weight = 4974
+updated = "2025-05-11"
+weight = 5319
 
 [extra]
 source = "https://eternodevir.com/"
-ratio = 54
+ratio = 51
 size = 5
 +++

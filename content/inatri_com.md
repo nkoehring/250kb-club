@@ -1,11 +1,11 @@
 +++
 title = "inatri.com"
 date = "2022-03-22"
-updated = "2025-03-08"
-weight = 5241
+updated = "2025-05-11"
+weight = 5050
 
 [extra]
 source = "https://inatri.com/"
-ratio = 80
+ratio = 81
 size = 5
 +++

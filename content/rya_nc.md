@@ -1,11 +1,11 @@
 +++
 title = "rya.nc"
 date = "2022-03-22"
-updated = "2025-03-08"
-weight = 38186
+updated = "2025-05-11"
+weight = 38987
 
 [extra]
 source = "https://rya.nc/"
-ratio = 81
-size = 37
+ratio = 80
+size = 38
 +++

@@ -1,11 +1,11 @@
 +++
 title = "httpguides.com"
 date = "2023-11-17"
-updated = "2025-03-08"
-weight = 7243
+updated = "2025-05-11"
+weight = 7257
 
 [extra]
 source = "https://httpguides.com/"
-ratio = 35
+ratio = 36
 size = 7
 +++

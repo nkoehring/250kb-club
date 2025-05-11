@@ -1,11 +1,11 @@
 +++
 title = "iyaki.ar"
 date = "2023-08-05"
-updated = "2025-03-08"
-weight = 22330
+updated = "2025-05-11"
+weight = 31309
 
 [extra]
 source = "https://iyaki.ar/"
-ratio = 63
-size = 22
+ratio = 47
+size = 31
 +++

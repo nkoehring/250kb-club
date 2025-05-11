@@ -1,8 +1,8 @@
 +++
 title = "goto10.xyz"
 date = "2024-07-14"
-updated = "2025-03-08"
-weight = 4132
+updated = "2025-05-11"
+weight = 4156
 
 [extra]
 source = "https://goto10.xyz/"

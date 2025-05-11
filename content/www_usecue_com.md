@@ -1,11 +1,11 @@
 +++
 title = "www.usecue.com"
 date = "2022-03-22"
-updated = "2025-03-08"
-weight = 32628
+updated = "2025-05-11"
+weight = 30940
 
 [extra]
 source = "https://www.usecue.com"
-ratio = 9
-size = 32
+ratio = 8
+size = 30
 +++

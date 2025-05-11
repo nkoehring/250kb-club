@@ -1,11 +1,11 @@
 +++
 title = "bukmark.club"
 date = "2024-02-21"
-updated = "2025-03-08"
-weight = 112057
+updated = "2025-05-11"
+weight = 18383
 
 [extra]
 source = "https://bukmark.club/"
-ratio = 98
-size = 109
+ratio = 87
+size = 18
 +++

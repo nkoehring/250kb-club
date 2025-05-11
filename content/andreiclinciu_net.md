@@ -1,11 +1,11 @@
 +++
 title = "andreiclinciu.net"
 date = "2025-01-27"
-updated = "2025-03-08"
-weight = 4512
+updated = "2025-05-11"
+weight = 147548
 
 [extra]
 source = "https://andreiclinciu.net/"
-ratio = 73
-size = 4
+ratio = 19
+size = 144
 +++
