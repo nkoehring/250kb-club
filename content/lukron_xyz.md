@@ -1,11 +1,11 @@
 +++
 title = "lukron.xyz"
 date = "2025-05-11"
-updated = "2025-05-11"
-weight = 141659
+updated = "2025-06-04"
+weight = 207036
 
 [extra]
 source = "https://lukron.xyz/"
-ratio = 2
-size = 138
+ratio = 26
+size = 202
 +++

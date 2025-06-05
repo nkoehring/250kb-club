@@ -1,11 +1,11 @@
 +++
 title = "eklausmeier.goip.de"
 date = "2024-01-19"
-updated = "2025-05-11"
-weight = 157536
+updated = "2025-06-04"
+weight = 158707
 
 [extra]
 source = "https://eklausmeier.goip.de/"
 ratio = 8
-size = 154
+size = 155
 +++

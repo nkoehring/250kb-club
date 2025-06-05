@@ -1,7 +1,7 @@
 +++
 title = "webseiten-vorlage.seopunkt.de"
 date = "2023-02-01"
-updated = "2025-05-11"
+updated = "2025-06-04"
 weight = 14476
 
 [extra]

@@ -1,7 +1,7 @@
 +++
 title = "pavel.pikirenia.me"
 date = "2025-01-03"
-updated = "2025-05-11"
+updated = "2025-06-04"
 weight = 96833
 
 [extra]

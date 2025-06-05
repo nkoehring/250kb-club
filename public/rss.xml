@@ -7,7 +7,7 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://250kb.club/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
       <item>
           <title>0987654.xyz</title>
           <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
@@ -95,14 +95,6 @@
           <link>https://250kb.club/miraikumiko-com/</link>
           <guid>https://250kb.club/miraikumiko-com/</guid>
           <description xml:base="https://250kb.club/miraikumiko-com/"></description>
-      </item>
-      <item>
-          <title>monocyte.bearblog.dev</title>
-          <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/monocyte-bearblog-dev/</link>
-          <guid>https://250kb.club/monocyte-bearblog-dev/</guid>
-          <description xml:base="https://250kb.club/monocyte-bearblog-dev/"></description>
       </item>
       <item>
           <title>tiagorangel.com</title>
@@ -495,14 +487,6 @@
           <link>https://250kb.club/kaimac-org/</link>
           <guid>https://250kb.club/kaimac-org/</guid>
           <description xml:base="https://250kb.club/kaimac-org/"></description>
-      </item>
-      <item>
-          <title>oivas000.tech</title>
-          <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/oivas000-tech/</link>
-          <guid>https://250kb.club/oivas000-tech/</guid>
-          <description xml:base="https://250kb.club/oivas000-tech/"></description>
       </item>
       <item>
           <title>okasayaku.neocities.org</title>
@@ -1447,14 +1431,6 @@
           <link>https://250kb.club/jcruz-eu/</link>
           <guid>https://250kb.club/jcruz-eu/</guid>
           <description xml:base="https://250kb.club/jcruz-eu/"></description>
-      </item>
-      <item>
-          <title>madewithtea.com</title>
-          <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/madewithtea-com/</link>
-          <guid>https://250kb.club/madewithtea-com/</guid>
-          <description xml:base="https://250kb.club/madewithtea-com/"></description>
       </item>
       <item>
           <title>privacyfreak84.github.io</title>

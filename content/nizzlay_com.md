@@ -1,11 +1,11 @@
 +++
 title = "nizzlay.com"
 date = "2025-02-09"
-updated = "2025-05-11"
-weight = 35510
+updated = "2025-06-04"
+weight = 44874
 
 [extra]
 source = "https://nizzlay.com/"
-ratio = 51
-size = 35
+ratio = 61
+size = 44
 +++

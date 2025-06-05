@@ -1,11 +1,11 @@
 +++
 title = "www.bryanbraun.com"
 date = "2022-03-22"
-updated = "2025-05-11"
-weight = 186160
+updated = "2025-06-04"
+weight = 188592
 
 [extra]
 source = "https://www.bryanbraun.com/"
 ratio = 6
-size = 182
+size = 184
 +++

@@ -1,7 +1,7 @@
 +++
 title = "davidwalesdata.com"
 date = "2024-08-24"
-updated = "2025-05-11"
+updated = "2025-06-04"
 weight = 16893
 
 [extra]

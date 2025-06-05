@@ -1,8 +1,8 @@
 +++
 title = "strife.galitec.es"
 date = "2025-01-03"
-updated = "2025-05-11"
-weight = 184377
+updated = "2025-06-04"
+weight = 184407
 
 [extra]
 source = "https://strife.galitec.es/"

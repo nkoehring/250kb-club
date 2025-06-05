@@ -1,8 +1,8 @@
 +++
 title = "jss.taxreligion.org"
 date = "2023-12-13"
-updated = "2025-05-11"
-weight = 5720
+updated = "2025-06-04"
+weight = 5726
 
 [extra]
 source = "https://jss.taxreligion.org/"

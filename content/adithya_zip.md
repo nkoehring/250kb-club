@@ -1,11 +1,11 @@
 +++
 title = "adithya.zip"
 date = "2023-12-13"
-updated = "2025-05-11"
-weight = 3841
+updated = "2025-06-04"
+weight = 3126
 
 [extra]
 source = "https://adithya.zip/"
-ratio = 37
-size = 4
+ratio = 42
+size = 3
 +++

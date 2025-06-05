@@ -1,8 +1,8 @@
 +++
 title = "davidovski.xyz"
 date = "2024-01-19"
-updated = "2025-05-11"
-weight = 142142
+updated = "2025-06-04"
+weight = 142030
 
 [extra]
 source = "https://davidovski.xyz/"

@@ -1,8 +1,8 @@
 +++
 title = "bmoat.com"
 date = "2023-05-10"
-updated = "2025-05-11"
-weight = 98862
+updated = "2025-06-04"
+weight = 99210
 
 [extra]
 source = "https://bmoat.com/"

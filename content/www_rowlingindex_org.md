@@ -1,11 +1,11 @@
 +++
 title = "www.rowlingindex.org"
 date = "2022-03-22"
-updated = "2025-05-11"
-weight = 146398
+updated = "2025-06-04"
+weight = 150345
 
 [extra]
 source = "https://www.rowlingindex.org/"
-ratio = 11
-size = 143
+ratio = 10
+size = 147
 +++

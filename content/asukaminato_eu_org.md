@@ -1,8 +1,8 @@
 +++
 title = "asukaminato.eu.org"
 date = "2023-08-05"
-updated = "2025-05-11"
-weight = 8001
+updated = "2025-06-04"
+weight = 8015
 
 [extra]
 source = "https://asukaminato.eu.org/"

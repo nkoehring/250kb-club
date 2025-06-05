@@ -1,8 +1,8 @@
 +++
 title = "aashvik.com"
 date = "2025-02-22"
-updated = "2025-05-11"
-weight = 14722
+updated = "2025-06-04"
+weight = 14714
 
 [extra]
 source = "https://aashvik.com/"

@@ -1,8 +1,8 @@
 +++
 title = "ononoki.org"
 date = "2022-06-10"
-updated = "2025-05-11"
-weight = 71582
+updated = "2025-06-04"
+weight = 71633
 
 [extra]
 source = "https://ononoki.org/"

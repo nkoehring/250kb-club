@@ -1,8 +1,8 @@
 +++
 title = "eldred.fr"
 date = "2025-01-27"
-updated = "2025-05-11"
-weight = 164888
+updated = "2025-06-04"
+weight = 165016
 
 [extra]
 source = "https://eldred.fr/"

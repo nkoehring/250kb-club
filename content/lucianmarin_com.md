@@ -1,11 +1,11 @@
 +++
 title = "lucianmarin.com"
 date = "2022-03-22"
-updated = "2025-05-11"
-weight = 42482
+updated = "2025-06-04"
+weight = 56535
 
 [extra]
 source = "https://lucianmarin.com/"
-ratio = 8
-size = 41
+ratio = 9
+size = 55
 +++

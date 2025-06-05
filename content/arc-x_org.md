@@ -1,11 +1,11 @@
 +++
 title = "arc-x.org"
 date = "2023-11-17"
-updated = "2025-05-11"
-weight = 13689
+updated = "2025-06-04"
+weight = 23528
 
 [extra]
 source = "http://arc-x.org/"
-ratio = 100
-size = 13
+ratio = 94
+size = 23
 +++

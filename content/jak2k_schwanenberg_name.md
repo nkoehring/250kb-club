@@ -1,11 +1,11 @@
 +++
 title = "jak2k.schwanenberg.name"
 date = "2025-05-11"
-updated = "2025-05-11"
-weight = 30081
+updated = "2025-06-04"
+weight = 18679
 
 [extra]
 source = "https://jak2k.schwanenberg.name/"
-ratio = 22
-size = 29
+ratio = 59
+size = 18
 +++

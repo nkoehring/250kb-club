@@ -1,8 +1,8 @@
 +++
 title = "stringpool.de"
 date = "2025-01-27"
-updated = "2025-05-11"
-weight = 16205
+updated = "2025-06-04"
+weight = 15990
 
 [extra]
 source = "https://stringpool.de/"

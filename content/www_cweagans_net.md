@@ -1,8 +1,8 @@
 +++
 title = "www.cweagans.net"
 date = "2024-08-24"
-updated = "2025-05-11"
-weight = 98237
+updated = "2025-06-04"
+weight = 98120
 
 [extra]
 source = "https://www.cweagans.net/"

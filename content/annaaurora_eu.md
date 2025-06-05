@@ -1,8 +1,8 @@
 +++
 title = "annaaurora.eu"
 date = "2022-11-28"
-updated = "2025-05-11"
-weight = 130798
+updated = "2025-06-04"
+weight = 131161
 
 [extra]
 source = "https://annaaurora.eu/"

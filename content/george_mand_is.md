@@ -1,11 +1,11 @@
 +++
 title = "george.mand.is"
 date = "2025-01-27"
-updated = "2025-05-11"
-weight = 46115
+updated = "2025-06-04"
+weight = 44859
 
 [extra]
 source = "https://george.mand.is/"
-ratio = 31
-size = 45
+ratio = 13
+size = 44
 +++
