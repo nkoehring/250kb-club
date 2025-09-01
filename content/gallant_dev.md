@@ -1,11 +1,11 @@
 +++
 title = "gallant.dev"
 date = "2022-03-22"
-updated = "2025-06-04"
-weight = 41083
+updated = "2025-07-26"
+weight = 39320
 
 [extra]
 source = "https://gallant.dev/"
-ratio = 28
-size = 40
+ratio = 32
+size = 38
 +++

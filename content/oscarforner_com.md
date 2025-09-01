@@ -1,11 +1,11 @@
 +++
 title = "oscarforner.com"
 date = "2022-03-22"
-updated = "2025-06-04"
-weight = 17752
+updated = "2025-07-26"
+weight = 19288
 
 [extra]
 source = "https://oscarforner.com/"
-ratio = 88
-size = 17
+ratio = 81
+size = 19
 +++

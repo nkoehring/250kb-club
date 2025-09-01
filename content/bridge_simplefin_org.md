@@ -1,11 +1,11 @@
 +++
 title = "bridge.simplefin.org"
 date = "2022-03-22"
-updated = "2025-06-04"
-weight = 8797
+updated = "2025-07-26"
+weight = 10911
 
 [extra]
 source = "https://bridge.simplefin.org"
-ratio = 52
-size = 9
+ratio = 62
+size = 11
 +++

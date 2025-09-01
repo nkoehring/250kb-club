@@ -1,11 +1,11 @@
 +++
 title = "searchbot.app"
 date = "2022-03-22"
-updated = "2025-06-04"
-weight = 43842
+updated = "2025-07-26"
+weight = 45534
 
 [extra]
 source = "https://searchbot.app/"
-ratio = 10
-size = 43
+ratio = 13
+size = 44
 +++

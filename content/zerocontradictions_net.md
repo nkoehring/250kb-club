@@ -1,11 +1,11 @@
 +++
 title = "zerocontradictions.net"
 date = "2023-12-13"
-updated = "2025-06-04"
-weight = 53777
+updated = "2025-07-27"
+weight = 55987
 
 [extra]
 source = "https://zerocontradictions.net/"
-ratio = 100
-size = 53
+ratio = 99
+size = 55
 +++

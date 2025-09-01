@@ -1,11 +1,11 @@
 +++
 title = "xidoc.nim.town"
 date = "2023-02-01"
-updated = "2025-06-04"
-weight = 77760
+updated = "2025-07-27"
+weight = 79550
 
 [extra]
 source = "https://xidoc.nim.town/"
-ratio = 6
-size = 76
+ratio = 7
+size = 78
 +++

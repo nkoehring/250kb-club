@@ -1,11 +1,11 @@
 +++
 title = "www.dustri.org"
 date = "2022-03-22"
-updated = "2025-06-04"
-weight = 27220
+updated = "2025-07-26"
+weight = 28564
 
 [extra]
 source = "https://www.dustri.org"
-ratio = 7
-size = 27
+ratio = 10
+size = 28
 +++

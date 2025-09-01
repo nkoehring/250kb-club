@@ -1,11 +1,11 @@
 +++
 title = "pbanks.net"
 date = "2022-03-22"
-updated = "2025-06-04"
-weight = 2454
+updated = "2025-07-26"
+weight = 2879
 
 [extra]
 source = "https://pbanks.net/"
-ratio = 73
-size = 2
+ratio = 77
+size = 3
 +++

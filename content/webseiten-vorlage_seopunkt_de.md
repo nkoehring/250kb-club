@@ -1,11 +1,11 @@
 +++
 title = "webseiten-vorlage.seopunkt.de"
 date = "2023-02-01"
-updated = "2025-06-04"
-weight = 14476
+updated = "2025-07-27"
+weight = 23317
 
 [extra]
 source = "https://webseiten-vorlage.seopunkt.de/"
-ratio = 41
-size = 14
+ratio = 25
+size = 23
 +++

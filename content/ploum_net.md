@@ -1,11 +1,11 @@
 +++
 title = "ploum.net"
 date = "2023-08-06"
-updated = "2025-06-04"
-weight = 53492
+updated = "2025-07-27"
+weight = 54831
 
 [extra]
 source = "https://ploum.net/"
-ratio = 100
-size = 52
+ratio = 99
+size = 54
 +++

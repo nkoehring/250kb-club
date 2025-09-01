@@ -1,11 +1,11 @@
 +++
 title = "qubyte.codes"
 date = "2022-03-22"
-updated = "2025-06-04"
-weight = 37804
+updated = "2025-07-27"
+weight = 41308
 
 [extra]
 source = "https://qubyte.codes/"
-ratio = 7
-size = 37
+ratio = 95
+size = 40
 +++

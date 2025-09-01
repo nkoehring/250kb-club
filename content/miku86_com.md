@@ -1,11 +1,11 @@
 +++
 title = "miku86.com"
 date = "2022-03-22"
-updated = "2025-06-04"
-weight = 2108
+updated = "2025-07-26"
+weight = 2214
 
 [extra]
 source = "https://miku86.com/"
-ratio = 56
+ratio = 55
 size = 2
 +++

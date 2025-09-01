@@ -1,11 +1,11 @@
 +++
 title = "otgt.us.eu.org"
 date = "2023-01-31"
-updated = "2025-06-04"
-weight = 34097
+updated = "2025-07-27"
+weight = 37884
 
 [extra]
 source = "https://otgt.us.eu.org/"
-ratio = 74
-size = 33
+ratio = 77
+size = 37
 +++

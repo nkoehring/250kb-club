@@ -1,11 +1,11 @@
 +++
 title = "giraud.eu"
 date = "2023-11-17"
-updated = "2025-06-04"
-weight = 14414
+updated = "2025-07-27"
+weight = 15020
 
 [extra]
 source = "https://giraud.eu/"
-ratio = 100
-size = 14
+ratio = 97
+size = 15
 +++

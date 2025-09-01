@@ -1,11 +1,11 @@
 +++
 title = "lecaro.me"
 date = "2023-03-17"
-updated = "2025-06-04"
-weight = 3834
+updated = "2025-07-26"
+weight = 19542
 
 [extra]
 source = "https://lecaro.me"
-ratio = 100
-size = 4
+ratio = 20
+size = 19
 +++

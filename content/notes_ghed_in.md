@@ -1,11 +1,11 @@
 +++
 title = "notes.ghed.in"
 date = "2024-04-25"
-updated = "2025-06-04"
-weight = 19554
+updated = "2025-07-27"
+weight = 27295
 
 [extra]
 source = "https://notes.ghed.in/"
-ratio = 69
-size = 19
+ratio = 51
+size = 27
 +++

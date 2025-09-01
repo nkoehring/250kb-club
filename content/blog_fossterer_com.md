@@ -1,11 +1,11 @@
 +++
 title = "blog.fossterer.com"
 date = "2022-03-22"
-updated = "2025-06-04"
-weight = 15984
+updated = "2025-07-26"
+weight = 21468
 
 [extra]
 source = "https://blog.fossterer.com/"
-ratio = 9
-size = 16
+ratio = 32
+size = 21
 +++

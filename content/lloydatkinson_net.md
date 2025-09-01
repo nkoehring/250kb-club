@@ -1,11 +1,11 @@
 +++
 title = "lloydatkinson.net"
 date = "2024-08-24"
-updated = "2025-06-04"
-weight = 83026
+updated = "2025-07-27"
+weight = 86476
 
 [extra]
 source = "https://lloydatkinson.net/"
-ratio = 7
-size = 81
+ratio = 8
+size = 84
 +++

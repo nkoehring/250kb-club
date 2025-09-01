@@ -1,11 +1,11 @@
 +++
 title = "tamim.io"
 date = "2024-04-25"
-updated = "2025-06-04"
-weight = 81483
+updated = "2025-07-27"
+weight = 86887
 
 [extra]
 source = "https://tamim.io/"
-ratio = 7
-size = 80
+ratio = 10
+size = 85
 +++

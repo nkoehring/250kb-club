@@ -1,11 +1,11 @@
 +++
 title = "maniek86.xyz"
 date = "2024-07-14"
-updated = "2025-06-04"
-weight = 19328
+updated = "2025-07-27"
+weight = 36683
 
 [extra]
 source = "https://maniek86.xyz/"
-ratio = 54
-size = 19
+ratio = 42
+size = 36
 +++

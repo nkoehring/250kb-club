@@ -1,8 +1,8 @@
 +++
 title = "kidl.at"
 date = "2022-03-22"
-updated = "2025-06-04"
-weight = 148999
+updated = "2025-07-27"
+weight = 149468
 
 [extra]
 source = "https://kidl.at/"

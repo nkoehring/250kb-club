@@ -1,11 +1,11 @@
 +++
 title = "email.is-not-s.ms"
 date = "2024-01-19"
-updated = "2025-06-04"
-weight = 5205
+updated = "2025-07-27"
+weight = 6377
 
 [extra]
 source = "https://email.is-not-s.ms/"
-ratio = 86
-size = 5
+ratio = 88
+size = 6
 +++

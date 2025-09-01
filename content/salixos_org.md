@@ -1,11 +1,11 @@
 +++
 title = "salixos.org"
 date = "2022-03-22"
-updated = "2025-06-04"
-weight = 64026
+updated = "2025-07-26"
+weight = 51028
 
 [extra]
 source = "https://salixos.org/"
-ratio = 83
-size = 63
+ratio = 77
+size = 50
 +++

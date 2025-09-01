@@ -1,8 +1,8 @@
 +++
 title = "tsk.bearblog.dev"
 date = "2022-11-28"
-updated = "2025-06-04"
-weight = 100690
+updated = "2025-07-27"
+weight = 100441
 
 [extra]
 source = "https://tsk.bearblog.dev/"

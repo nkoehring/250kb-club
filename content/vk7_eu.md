@@ -1,8 +1,8 @@
 +++
 title = "vk7.eu"
 date = "2023-07-15"
-updated = "2025-06-04"
-weight = 4373
+updated = "2025-07-27"
+weight = 4372
 
 [extra]
 source = "https://vk7.eu/"

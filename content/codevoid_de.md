@@ -1,11 +1,11 @@
 +++
 title = "codevoid.de"
 date = "2022-03-22"
-updated = "2025-05-11"
-weight = 7397
+updated = "2025-07-26"
+weight = 11034
 
 [extra]
 source = "https://codevoid.de/"
-ratio = 90
-size = 7
+ratio = 60
+size = 11
 +++

@@ -1,11 +1,11 @@
 +++
 title = "chino.is-a.dev"
 date = "2023-02-26"
-updated = "2025-06-04"
-weight = 213429
+updated = "2025-07-27"
+weight = 194343
 
 [extra]
 source = "https://chino.is-a.dev/"
-ratio = 5
-size = 208
+ratio = 80
+size = 190
 +++

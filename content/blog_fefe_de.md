@@ -1,11 +1,11 @@
 +++
 title = "blog.fefe.de"
 date = "2022-03-22"
-updated = "2025-06-04"
-weight = 761
+updated = "2025-07-26"
+weight = 1881
 
 [extra]
 source = "https://blog.fefe.de"
-ratio = 100
-size = 1
+ratio = 40
+size = 2
 +++

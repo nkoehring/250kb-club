@@ -52,7 +52,7 @@ export async function retrieveMetrics(runId: string): Promise<Metric | null> {
     scores: {
       pageWeight:
         json.scoreProfiles.generic.categories.pageWeight.categoryScore,
-      requests: json.scoreProfiles.generic.categories.requests.categoryScore,
+      // requests: json.scoreProfiles.generic.categories.requests.categoryScore,
       domComplexity:
         json.scoreProfiles.generic.categories.domComplexity.categoryScore,
       javascriptComplexity:

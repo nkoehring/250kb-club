@@ -1,11 +1,11 @@
 +++
 title = "myipaddress.ru"
 date = "2022-03-22"
-updated = "2025-06-04"
-weight = 1220
+updated = "2025-07-26"
+weight = 1965
 
 [extra]
 source = "https://myipaddress.ru"
-ratio = 100
-size = 1
+ratio = 62
+size = 2
 +++

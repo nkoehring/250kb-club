@@ -1,11 +1,11 @@
 +++
 title = "nih.ar"
 date = "2023-01-31"
-updated = "2025-06-04"
-weight = 3030
+updated = "2025-07-27"
+weight = 3637
 
 [extra]
 source = "https://nih.ar/"
-ratio = 71
-size = 3
+ratio = 59
+size = 4
 +++
