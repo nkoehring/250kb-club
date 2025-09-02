@@ -9,6 +9,22 @@
       <atom:link href="https://250kb.club/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
       <item>
+          <title>5snb.club</title>
+          <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+          <author>koehr</author>
+          <link>https://250kb.club/5snb-club/</link>
+          <guid>https://250kb.club/5snb-club/</guid>
+          <description xml:base="https://250kb.club/5snb-club/"></description>
+      </item>
+      <item>
+          <title>baccyflap.com</title>
+          <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+          <author>koehr</author>
+          <link>https://250kb.club/baccyflap-com/</link>
+          <guid>https://250kb.club/baccyflap-com/</guid>
+          <description xml:base="https://250kb.club/baccyflap-com/"></description>
+      </item>
+      <item>
           <title>danq.me</title>
           <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
           <author>koehr</author>
@@ -31,6 +47,14 @@
           <link>https://250kb.club/monocyte-bearblog-dev/</link>
           <guid>https://250kb.club/monocyte-bearblog-dev/</guid>
           <description xml:base="https://250kb.club/monocyte-bearblog-dev/"></description>
+      </item>
+      <item>
+          <title>tekk.in</title>
+          <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+          <author>koehr</author>
+          <link>https://250kb.club/tekk-in/</link>
+          <guid>https://250kb.club/tekk-in/</guid>
+          <description xml:base="https://250kb.club/tekk-in/"></description>
       </item>
       <item>
           <title>lunecake.com</title>
