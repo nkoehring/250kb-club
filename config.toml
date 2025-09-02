@@ -4,7 +4,7 @@ description = "An exclusive membership for web pages presenting themselves in no
 default_language = "en"
 
 compile_sass = false
-build_search_index = true
+build_search_index = false
 minify_html = true
 generate_feeds = true
 feed_filenames = ["rss.xml"]
@@ -32,10 +32,11 @@ lazy_async_image = true
 bottom_footnotes = false
 
 [search]
-include_title = true
+index_format = "fuse_javascript"
+include_title = false
 include_description = false
 include_path = false
-include_content = true
+include_content = false
 
 [extra]
 author_homepage = "https://koehr.ing"
