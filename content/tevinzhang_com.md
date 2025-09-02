@@ -1,11 +1,11 @@
 +++
 title = "tevinzhang.com"
 date = "2024-08-24"
-updated = "2025-07-27"
-weight = 113029
+updated = "2025-09-01"
+weight = 113948
 
 [extra]
 source = "https://tevinzhang.com/"
 ratio = 5
-size = 110
+size = 111
 +++

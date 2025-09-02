@@ -1,11 +1,11 @@
 +++
 title = "zlendy.com"
 date = "2025-05-11"
-updated = "2025-06-04"
-weight = 148946
+updated = "2025-09-02"
+weight = 180739
 
 [extra]
 source = "https://zlendy.com/"
-ratio = 5
-size = 145
+ratio = 16
+size = 177
 +++

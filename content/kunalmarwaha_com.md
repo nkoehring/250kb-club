@@ -1,11 +1,11 @@
 +++
 title = "kunalmarwaha.com"
 date = "2022-03-22"
-updated = "2025-07-26"
-weight = 2912
+updated = "2025-09-01"
+weight = 2684
 
 [extra]
 source = "https://kunalmarwaha.com/"
-ratio = 30
+ratio = 33
 size = 3
 +++

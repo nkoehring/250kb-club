@@ -1,11 +1,11 @@
 +++
 title = "aashvik.com"
 date = "2025-02-22"
-updated = "2025-06-04"
-weight = 14714
+updated = "2025-09-02"
+weight = 16482
 
 [extra]
 source = "https://aashvik.com/"
-ratio = 92
-size = 14
+ratio = 93
+size = 16
 +++

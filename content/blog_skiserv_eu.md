@@ -1,7 +1,7 @@
 +++
 title = "blog.skiserv.eu"
 date = "2023-07-15"
-updated = "2025-07-27"
+updated = "2025-09-01"
 weight = 26576
 
 [extra]

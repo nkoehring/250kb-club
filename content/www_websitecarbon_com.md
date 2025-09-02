@@ -1,11 +1,11 @@
 +++
 title = "www.websitecarbon.com"
 date = "2025-01-03"
-updated = "2025-06-04"
-weight = 166944
+updated = "2025-09-02"
+weight = 101533
 
 [extra]
 source = "https://www.websitecarbon.com/"
-ratio = 10
-size = 163
+ratio = 19
+size = 99
 +++

@@ -1,11 +1,11 @@
 +++
 title = "yorickpeterse.com"
 date = "2022-03-22"
-updated = "2025-07-26"
-weight = 16337
+updated = "2025-09-01"
+weight = 15862
 
 [extra]
 source = "https://yorickpeterse.com/"
-ratio = 67
-size = 16
+ratio = 68
+size = 15
 +++

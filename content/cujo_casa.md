@@ -1,8 +1,8 @@
 +++
 title = "cujo.casa"
 date = "2024-10-27"
-updated = "2025-07-27"
-weight = 5554
+updated = "2025-09-01"
+weight = 5536
 
 [extra]
 source = "https://cujo.casa/"

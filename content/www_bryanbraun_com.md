@@ -1,8 +1,8 @@
 +++
 title = "www.bryanbraun.com"
 date = "2022-03-22"
-updated = "2025-07-26"
-weight = 73797
+updated = "2025-09-01"
+weight = 73498
 
 [extra]
 source = "https://www.bryanbraun.com/"

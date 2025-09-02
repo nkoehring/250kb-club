@@ -1,11 +1,11 @@
 +++
 title = "sahil.kokamkar.com"
 date = "2023-12-13"
-updated = "2025-07-27"
-weight = 53419
+updated = "2025-09-01"
+weight = 49926
 
 [extra]
 source = "https://sahil.kokamkar.com/"
-ratio = 11
-size = 52
+ratio = 10
+size = 49
 +++

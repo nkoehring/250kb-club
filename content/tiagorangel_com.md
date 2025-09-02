@@ -1,11 +1,11 @@
 +++
 title = "tiagorangel.com"
 date = "2025-05-11"
-updated = "2025-06-04"
-weight = 108640
+updated = "2025-09-02"
+weight = 56072
 
 [extra]
 source = "https://tiagorangel.com/"
-ratio = 14
-size = 106
+ratio = 35
+size = 55
 +++

@@ -1,11 +1,11 @@
 +++
 title = "loorjoal.netlify.app"
 date = "2025-05-11"
-updated = "2025-06-04"
-weight = 88806
+updated = "2025-09-02"
+weight = 88635
 
 [extra]
 source = "https://loorjoal.netlify.app/"
-ratio = 55
+ratio = 58
 size = 87
 +++

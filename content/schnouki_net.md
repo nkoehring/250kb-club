@@ -1,11 +1,11 @@
 +++
 title = "schnouki.net"
 date = "2025-01-27"
-updated = "2025-06-04"
-weight = 52825
+updated = "2025-09-02"
+weight = 51991
 
 [extra]
 source = "https://schnouki.net"
-ratio = 23
-size = 52
+ratio = 20
+size = 51
 +++

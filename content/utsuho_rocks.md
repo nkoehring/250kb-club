@@ -1,8 +1,8 @@
 +++
 title = "utsuho.rocks"
 date = "2022-03-22"
-updated = "2025-07-26"
-weight = 112314
+updated = "2025-09-01"
+weight = 112775
 
 [extra]
 source = "https://utsuho.rocks/"

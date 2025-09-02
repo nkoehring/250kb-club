@@ -1,11 +1,11 @@
 +++
 title = "antares.neocities.org"
 date = "2024-04-25"
-updated = "2025-07-27"
-weight = 145207
+updated = "2025-09-01"
+weight = 144300
 
 [extra]
 source = "https://antares.neocities.org/"
-ratio = 96
-size = 142
+ratio = 95
+size = 141
 +++

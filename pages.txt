@@ -22,7 +22,6 @@ https://seirdy.one
 https://richj.co
 https://porkbrain.com
 https://pgjones.dev
-https://jaime.gomezobregon.com
 https://lawzava.com
 https://frontaid.io
 https://worldti.me
@@ -36,7 +35,6 @@ https://bridge.simplefin.org
 https://mataroa.blog
 https://jvanelian.dev
 https://legiblenews.com
-https://cronokirby.com
 https://john-doe.neocities.org
 https://news.ycombinator.com
 https://blog.fefe.de
@@ -62,14 +60,11 @@ https://www.speedshop.co/
 https://usrme.xyz/
 https://nomasters.io/
 https://n.2p5.xyz/
-https://jakob.kaivo.net/
 https://alexschroeder.ch/
 https://jrballesteros05.codeberg.page/
 https://concise-encoding.org/
 http://gerikson.com/hnlo/
 http://gerikson.com/
-https://www.dustri.org
-https://leonardschuetz.ch/
 https://lambdapapers.com
 https://phreedom.club/
 https://zupzup.org/
@@ -116,7 +111,6 @@ https://arfer.net/
 https://chad.hirsch.host
 https://secluded.site/
 https://willcodefor.beer/
-https://armaanb.net/
 https://myipaddress.ru
 https://bnolet.me
 https://remoteroast.club/
@@ -128,7 +122,6 @@ https://rya.nc/
 https://temp.sh/
 https://decentnet.github.io/
 https://www.migadu.com/
-https://codingotaku.com/
 https://allien.work/
 https://cosmo.red
 https://lectupedia.com/en/
@@ -138,12 +131,10 @@ https://motz-berlin.de/
 https://cycloneblaze.net/
 https://kayafirat.com/
 https://binyam.in/
-https://my-flow.com/
 https://0xff.nu/
 https://oscarforner.com/
 https://www.openbsd.org/
 https://inatri.com/
-https://thomas.me/
 https://martin.baillie.id/
 https://m-chrzan.xyz/
 https://paulwilde.uk/
@@ -253,7 +244,6 @@ https://10maurycy10.github.io/
 https://hylang.org/
 https://www.cweagans.net/
 https://nelson.cloud/
-http://www.sayorivill.me/
 https://pigeon.codeberg.page/
 https://blog.madelinepritchard.net/
 https://ukarim.com
@@ -268,7 +258,6 @@ https://www.vmaxleclub.com/
 https://ahmubashshir.github.io/
 https://privacyfreak84.github.io/
 https://jcruz.eu/
-https://madewithtea.com/
 https://code.strigo.cc/
 https://theden.sh/
 https://blog.skiserv.eu/
@@ -296,7 +285,6 @@ https://httpguides.com/
 https://kirillunlimited.com/
 https://theobori.cafe/
 https://beuke.org/
-https://latunov.dev/
 https://erikjohannes.no/
 https://rb.ax/
 https://sahil.kokamkar.com/
@@ -308,7 +296,6 @@ https://password.town/
 https://arkensys.dedyn.io/
 https://nk.is-a.dev/
 https://koehr.ing/
-https://blog.plr.moe/
 https://bittich.be/
 https://html.earth/
 https://vinc.cc/
@@ -347,7 +334,6 @@ https://anakojm.net/
 https://secu.pages.dev/
 https://visil.gw.lt/
 https://jagrg.org/
-https://crism.ro/
 https://www.thorlaksson.com/
 https://crtv.pages.dev/
 https://litew.pages.dev/
@@ -381,7 +367,6 @@ https://cujo.casa/
 https://tombrandis.uk/
 http://kaimac.org/
 https://rico040.su/
-https://oivas000.tech/
 https://asnine.me/
 https://blog.x-way.org/
 https://bobbyhiltz.com/
@@ -389,7 +374,6 @@ https://world-playground-deceit.net/
 https://francescoro.si/
 https://yatesrelates.com/
 https://home.hedy.dev/
-https://strife.galitec.es/
 https://dracol.ing/
 https://davidandkay.me.uk/
 https://www.websitecarbon.com/
@@ -401,7 +385,6 @@ https://pavel.pikirenia.me/
 https://marcusb.org/
 https://mirat.dev/
 https://www.paoloose.site/
-https://vanzasetia.xyz/
 https://ansharora.in/
 https://danq.me/
 https://eldred.fr/
@@ -423,8 +406,6 @@ https://gaze.systems/
 https://daltoncraven.com/
 https://5.vg/
 https://w3teal.is-a.dev/
-https://lukron.xyz/
-https://0987654.xyz/
 https://jak2k.schwanenberg.name/
 https://marmar22.tilde.team/
 https://monocyte.bearblog.dev/
@@ -433,7 +414,6 @@ https://loorjoal.netlify.app/
 https://kyrylo.org/
 https://waelk.tech/
 https://miraikumiko.com/
-https://virt.dedyn.io/
 https://dospuntostr.es/en/
 https://michaelharley.net/
 https://tiagorangel.com/

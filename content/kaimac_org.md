@@ -1,11 +1,11 @@
 +++
 title = "kaimac.org"
 date = "2024-10-27"
-updated = "2025-06-04"
-weight = 10474
+updated = "2025-09-01"
+weight = 6748
 
 [extra]
 source = "http://kaimac.org/"
 ratio = 100
-size = 10
+size = 7
 +++

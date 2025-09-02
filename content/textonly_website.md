@@ -1,8 +1,8 @@
 +++
 title = "textonly.website"
 date = "2023-01-31"
-updated = "2025-07-27"
-weight = 1484
+updated = "2025-09-01"
+weight = 1504
 
 [extra]
 source = "https://textonly.website"

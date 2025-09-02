@@ -1,8 +1,8 @@
 +++
 title = "text.npr.org"
 date = "2022-03-22"
-updated = "2025-07-26"
-weight = 2813
+updated = "2025-09-01"
+weight = 2892
 
 [extra]
 source = "https://text.npr.org"

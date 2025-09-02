@@ -1,11 +1,11 @@
 +++
 title = "cycloneblaze.net"
 date = "2022-03-22"
-updated = "2025-07-26"
-weight = 58129
+updated = "2025-09-01"
+weight = 59075
 
 [extra]
 source = "https://cycloneblaze.net/"
-ratio = 10
-size = 57
+ratio = 12
+size = 58
 +++

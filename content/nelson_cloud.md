@@ -1,11 +1,11 @@
 +++
 title = "nelson.cloud"
 date = "2023-02-26"
-updated = "2025-07-27"
-weight = 107641
+updated = "2025-09-01"
+weight = 109741
 
 [extra]
 source = "https://nelson.cloud/"
 ratio = 5
-size = 105
+size = 107
 +++

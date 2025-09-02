@@ -1,11 +1,11 @@
 +++
 title = "michaelharley.net"
 date = "2025-05-11"
-updated = "2025-06-04"
-weight = 50112
+updated = "2025-09-02"
+weight = 53203
 
 [extra]
 source = "https://michaelharley.net/"
-ratio = 95
-size = 49
+ratio = 90
+size = 52
 +++

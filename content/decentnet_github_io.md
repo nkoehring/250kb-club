@@ -1,8 +1,8 @@
 +++
 title = "decentnet.github.io"
 date = "2022-03-22"
-updated = "2025-07-26"
-weight = 5105
+updated = "2025-09-01"
+weight = 5084
 
 [extra]
 source = "https://decentnet.github.io/"

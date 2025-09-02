@@ -1,11 +1,11 @@
 +++
 title = "notionbackups.com"
 date = "2022-03-22"
-updated = "2025-07-26"
-weight = 32733
+updated = "2025-09-01"
+weight = 33312
 
 [extra]
 source = "https://notionbackups.com/"
-ratio = 68
-size = 32
+ratio = 69
+size = 33
 +++

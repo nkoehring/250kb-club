@@ -1,11 +1,11 @@
 +++
 title = "5.vg"
 date = "2025-03-08"
-updated = "2025-06-04"
-weight = 7652
+updated = "2025-09-02"
+weight = 5337
 
 [extra]
 source = "https://5.vg/"
-ratio = 56
-size = 7
+ratio = 79
+size = 5
 +++

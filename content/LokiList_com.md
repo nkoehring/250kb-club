@@ -1,11 +1,11 @@
 +++
 title = "LokiList.com"
 date = "2025-01-03"
-updated = "2025-06-04"
-weight = 50547
+updated = "2025-09-02"
+weight = 51058
 
 [extra]
 source = "https://LokiList.com/"
 ratio = 100
-size = 49
+size = 50
 +++

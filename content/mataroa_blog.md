@@ -1,8 +1,8 @@
 +++
 title = "mataroa.blog"
 date = "2022-03-22"
-updated = "2025-07-26"
-weight = 6637
+updated = "2025-09-01"
+weight = 6644
 
 [extra]
 source = "https://mataroa.blog"

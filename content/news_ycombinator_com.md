@@ -1,11 +1,11 @@
 +++
 title = "news.ycombinator.com"
 date = "2022-03-22"
-updated = "2025-07-26"
-weight = 11675
+updated = "2025-09-01"
+weight = 11329
 
 [extra]
 source = "https://news.ycombinator.com"
-ratio = 64
+ratio = 63
 size = 11
 +++

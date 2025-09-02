@@ -1,11 +1,11 @@
 +++
 title = "findl.top"
 date = "2025-01-27"
-updated = "2025-06-04"
-weight = 143774
+updated = "2025-09-02"
+weight = 220082
 
 [extra]
 source = "https://findl.top/"
-ratio = 3
-size = 140
+ratio = 35
+size = 215
 +++

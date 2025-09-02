@@ -1,11 +1,11 @@
 +++
 title = "world-playground-deceit.net"
 date = "2024-10-27"
-updated = "2025-06-04"
-weight = 23487
+updated = "2025-09-01"
+weight = 28550
 
 [extra]
 source = "https://world-playground-deceit.net/"
-ratio = 89
-size = 23
+ratio = 85
+size = 28
 +++

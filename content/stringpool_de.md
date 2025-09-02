@@ -1,11 +1,11 @@
 +++
 title = "stringpool.de"
 date = "2025-01-27"
-updated = "2025-06-04"
-weight = 15990
+updated = "2025-09-02"
+weight = 20629
 
 [extra]
 source = "https://stringpool.de/"
-ratio = 100
-size = 16
+ratio = 79
+size = 20
 +++

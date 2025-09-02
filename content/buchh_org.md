@@ -1,8 +1,8 @@
 +++
 title = "buchh.org"
 date = "2022-03-22"
-updated = "2025-07-27"
-weight = 2421
+updated = "2025-09-01"
+weight = 2440
 
 [extra]
 source = "https://buchh.org/"

@@ -1,8 +1,8 @@
 +++
 title = "blog.mni.li"
 date = "2024-07-14"
-updated = "2025-07-27"
-weight = 47370
+updated = "2025-09-01"
+weight = 47072
 
 [extra]
 source = "https://blog.mni.li/"

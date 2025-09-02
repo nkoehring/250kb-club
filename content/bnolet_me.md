@@ -1,11 +1,11 @@
 +++
 title = "bnolet.me"
 date = "2022-03-22"
-updated = "2025-07-26"
-weight = 109574
+updated = "2025-09-01"
+weight = 109924
 
 [extra]
 source = "https://bnolet.me"
-ratio = 4
+ratio = 3
 size = 107
 +++

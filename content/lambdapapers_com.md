@@ -1,11 +1,11 @@
 +++
 title = "lambdapapers.com"
 date = "2022-03-22"
-updated = "2025-07-26"
-weight = 39871
+updated = "2025-09-01"
+weight = 39172
 
 [extra]
 source = "https://lambdapapers.com"
 ratio = 34
-size = 39
+size = 38
 +++
