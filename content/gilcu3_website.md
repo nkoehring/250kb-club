@@ -1,11 +1,11 @@
 +++
 title = "gilcu3.website"
 date = "2024-04-25"
-updated = "2025-09-01"
-weight = 25064
+updated = "2025-10-26"
+weight = 24772
 
 [extra]
 source = "https://gilcu3.website/"
-ratio = 40
+ratio = 41
 size = 24
 +++

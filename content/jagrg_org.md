@@ -1,8 +1,8 @@
 +++
 title = "jagrg.org"
 date = "2024-04-25"
-updated = "2025-09-01"
-weight = 5762
+updated = "2025-10-26"
+weight = 5766
 
 [extra]
 source = "https://jagrg.org/"

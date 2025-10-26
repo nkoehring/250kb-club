@@ -1,11 +1,11 @@
 +++
 title = "motherfuckingwebsite.com"
 date = "2022-03-22"
-updated = "2025-09-01"
-weight = 24301
+updated = "2025-10-26"
+weight = 160461
 
 [extra]
 source = "https://motherfuckingwebsite.com/"
-ratio = 9
-size = 24
+ratio = 1
+size = 157
 +++

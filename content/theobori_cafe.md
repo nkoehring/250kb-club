@@ -1,7 +1,7 @@
 +++
 title = "theobori.cafe"
 date = "2023-11-17"
-updated = "2025-09-01"
+updated = "2025-10-26"
 weight = 111525
 
 [extra]

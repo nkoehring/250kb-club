@@ -1,8 +1,8 @@
 +++
 title = "romanvesely.com"
 date = "2024-02-21"
-updated = "2025-09-01"
-weight = 87419
+updated = "2025-10-26"
+weight = 87466
 
 [extra]
 source = "https://romanvesely.com/"

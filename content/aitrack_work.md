@@ -1,8 +1,8 @@
 +++
 title = "aitrack.work"
 date = "2023-01-31"
-updated = "2025-09-01"
-weight = 147211
+updated = "2025-10-26"
+weight = 147700
 
 [extra]
 source = "https://aitrack.work/"

@@ -1,11 +1,11 @@
 +++
 title = "holdenclarke.com"
 date = "2023-04-17"
-updated = "2025-09-01"
-weight = 130517
+updated = "2025-10-26"
+weight = 111162
 
 [extra]
 source = "https://holdenclarke.com/"
-ratio = 99
-size = 127
+ratio = 98
+size = 109
 +++

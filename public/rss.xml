@@ -7,7 +7,7 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://250kb.club/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate>
       <item>
           <title>5snb.club</title>
           <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
@@ -39,14 +39,6 @@
           <link>https://250kb.club/d-u-u-boo/</link>
           <guid>https://250kb.club/d-u-u-boo/</guid>
           <description xml:base="https://250kb.club/d-u-u-boo/"></description>
-      </item>
-      <item>
-          <title>danq.me</title>
-          <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/danq-me/</link>
-          <guid>https://250kb.club/danq-me/</guid>
-          <description xml:base="https://250kb.club/danq-me/"></description>
       </item>
       <item>
           <title>dbohdan.tilde.institute</title>
@@ -119,14 +111,6 @@
           <link>https://250kb.club/monocyte-bearblog-dev/</link>
           <guid>https://250kb.club/monocyte-bearblog-dev/</guid>
           <description xml:base="https://250kb.club/monocyte-bearblog-dev/"></description>
-      </item>
-      <item>
-          <title>mzemlickis.lv</title>
-          <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/mzemlickis-lv/</link>
-          <guid>https://250kb.club/mzemlickis-lv/</guid>
-          <description xml:base="https://250kb.club/mzemlickis-lv/"></description>
       </item>
       <item>
           <title>oneoffinvoice.com</title>
@@ -1057,14 +1041,6 @@
           <description xml:base="https://250kb.club/bacardi55-io/"></description>
       </item>
       <item>
-          <title>blitzw.in</title>
-          <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/blitzw-in/</link>
-          <guid>https://250kb.club/blitzw-in/</guid>
-          <description xml:base="https://250kb.club/blitzw-in/"></description>
-      </item>
-      <item>
           <title>alexalejandre.com</title>
           <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
           <author>koehr</author>
@@ -1175,14 +1151,6 @@
           <link>https://250kb.club/davidovski-xyz/</link>
           <guid>https://250kb.club/davidovski-xyz/</guid>
           <description xml:base="https://250kb.club/davidovski-xyz/"></description>
-      </item>
-      <item>
-          <title>eklausmeier.goip.de</title>
-          <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/eklausmeier-goip-de/</link>
-          <guid>https://250kb.club/eklausmeier-goip-de/</guid>
-          <description xml:base="https://250kb.club/eklausmeier-goip-de/"></description>
       </item>
       <item>
           <title>email.is-not-s.ms</title>
@@ -1409,14 +1377,6 @@
           <description xml:base="https://250kb.club/mathijs-vgorcum-com/"></description>
       </item>
       <item>
-          <title>salehlootah.com</title>
-          <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/salehlootah-com/</link>
-          <guid>https://250kb.club/salehlootah-com/</guid>
-          <description xml:base="https://250kb.club/salehlootah-com/"></description>
-      </item>
-      <item>
           <title>theobori.cafe</title>
           <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
           <author>koehr</author>
@@ -1457,14 +1417,6 @@
           <description xml:base="https://250kb.club/asukaminato-eu-org/"></description>
       </item>
       <item>
-          <title>golfed.xyz</title>
-          <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/golfed-xyz/</link>
-          <guid>https://250kb.club/golfed-xyz/</guid>
-          <description xml:base="https://250kb.club/golfed-xyz/"></description>
-      </item>
-      <item>
           <title>iyaki.ar</title>
           <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
           <author>koehr</author>
@@ -1487,14 +1439,6 @@
           <link>https://250kb.club/sayansivakumaran-com/</link>
           <guid>https://250kb.club/sayansivakumaran-com/</guid>
           <description xml:base="https://250kb.club/sayansivakumaran-com/"></description>
-      </item>
-      <item>
-          <title>willhackett.com</title>
-          <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/willhackett-com/</link>
-          <guid>https://250kb.club/willhackett-com/</guid>
-          <description xml:base="https://250kb.club/willhackett-com/"></description>
       </item>
       <item>
           <title>blog.skiserv.eu</title>
@@ -1687,14 +1631,6 @@
           <link>https://250kb.club/pigeon-codeberg-page/</link>
           <guid>https://250kb.club/pigeon-codeberg-page/</guid>
           <description xml:base="https://250kb.club/pigeon-codeberg-page/"></description>
-      </item>
-      <item>
-          <title>10maurycy10.github.io</title>
-          <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/10maurycy10-github-io/</link>
-          <guid>https://250kb.club/10maurycy10-github-io/</guid>
-          <description xml:base="https://250kb.club/10maurycy10-github-io/"></description>
       </item>
       <item>
           <title>chino.is-a.dev</title>
@@ -1943,14 +1879,6 @@
           <link>https://250kb.club/textonly-website/</link>
           <guid>https://250kb.club/textonly-website/</guid>
           <description xml:base="https://250kb.club/textonly-website/"></description>
-      </item>
-      <item>
-          <title>thelazysre.com</title>
-          <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/thelazysre-com/</link>
-          <guid>https://250kb.club/thelazysre-com/</guid>
-          <description xml:base="https://250kb.club/thelazysre-com/"></description>
       </item>
       <item>
           <title>virbox.net</title>
@@ -2287,14 +2215,6 @@
           <link>https://250kb.club/benovermyer-com/</link>
           <guid>https://250kb.club/benovermyer-com/</guid>
           <description xml:base="https://250kb.club/benovermyer-com/"></description>
-      </item>
-      <item>
-          <title>berkshirehathaway.com</title>
-          <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/berkshirehathaway-com/</link>
-          <guid>https://250kb.club/berkshirehathaway-com/</guid>
-          <description xml:base="https://250kb.club/berkshirehathaway-com/"></description>
       </item>
       <item>
           <title>bernsteinbear.com</title>

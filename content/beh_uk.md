@@ -1,11 +1,11 @@
 +++
 title = "beh.uk"
 date = "2022-03-22"
-updated = "2025-09-01"
-weight = 72198
+updated = "2025-10-26"
+weight = 83993
 
 [extra]
 source = "https://beh.uk/"
-ratio = 46
-size = 71
+ratio = 38
+size = 82
 +++

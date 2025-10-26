@@ -1,11 +1,11 @@
 +++
 title = "joodaloop.com"
 date = "2023-12-13"
-updated = "2025-09-01"
-weight = 40614
+updated = "2025-10-26"
+weight = 38236
 
 [extra]
 source = "https://joodaloop.com/"
-ratio = 22
-size = 40
+ratio = 24
+size = 37
 +++

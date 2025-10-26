@@ -10,7 +10,6 @@ https://abridge.netlify.app/
 https://unixsheikh.com/
 https://www.usecue.com
 https://lecaro.me
-https://sjmulder.nl
 https://text.npr.org
 https://playerone.kevincox.ca
 https://jamesst.one
@@ -29,7 +28,6 @@ https://kunalmarwaha.com/
 https://sr.ht/
 https://sourcehut.org/
 https://freesolitaire.win/
-https://berkshirehathaway.com
 https://susam.net
 https://bridge.simplefin.org
 https://mataroa.blog
@@ -43,7 +41,6 @@ https://webperf.xyz
 https://fullstackpython.com
 https://benovermyer.com/
 https://www.tuhs.org/
-https://searchbot.app/
 https://lobste.rs/
 https://danielsada.tech/
 https://xubuntu.org/
@@ -147,7 +144,7 @@ https://ohio.araw.xyz/
 https://nytpu.com/
 https://ttntm.me/
 https://kishvanchee.com/
-https://quitsocialmedia.club/
+https://quitsocialmedia.club/home/
 https://www.paritybit.ca/
 https://cnx.gdn
 https://huyngo.envs.net
@@ -211,13 +208,10 @@ https://textonly.website
 https://korayer.de/
 https://joodaloop.com/
 https://nih.ar/
-https://thelazysre.com/
 https://madelinepritchard.net
 https://vort3.com/
-https://axel.beckert.ch/
 https://riedler.wien/music/
 https://otgt.us.eu.org/
-https://ltlnx.codeberg.page
 https://writerbywriter.com/
 https://perfectlighthousescores.com
 https://aitrack.work/
@@ -228,7 +222,6 @@ https://cli.club/
 https://adambuczek.com
 https://ayham.xyz/
 https://virbox.net
-https://xidoc.nim.town/
 https://jacksonchen666.com/
 https://lunecake.com/
 https://www.curiositry.com/
@@ -265,17 +258,14 @@ https://colincogle.name/
 https://jakk.dev/
 https://vk7.eu/
 https://godteeth.com/
-https://willhackett.com/
 https://asukaminato.eu.org/
 https://sayansivakumaran.com/
-https://golfed.xyz/
 https://iyaki.ar/
 https://masysma.net/
 https://pad.js.org/
 https://ploum.net/
 https://brunofontes.net/
 http://arc-x.org/
-https://salehlootah.com/
 https://wito.bar/
 https://akgbhat.github.io/
 https://giraud.eu/
@@ -304,7 +294,6 @@ https://davidovski.xyz/
 https://sappho.io/
 https://eklausmeier.goip.de/
 https://morcus.net/
-https://email.is-not-s.ms/
 https://andrekelling.de/
 https://paulcomte.cafe/
 https://luke.marzen.me/
@@ -317,9 +306,7 @@ https://missionfranceguichet.fr/
 https://diffractionlimit.com/
 https://alexalejandre.com/
 https://eternodevir.com/
-https://blitzw.in/
 https://bacardi55.io/
-https://0xc3.win/
 https://casuallyblue.dev/
 https://tamim.io/
 https://darktheme.club/
@@ -365,7 +352,6 @@ https://daviewales.com/
 https://davidwalesdata.com/
 https://cujo.casa/
 https://tombrandis.uk/
-http://kaimac.org/
 https://rico040.su/
 https://asnine.me/
 https://blog.x-way.org/
@@ -398,7 +384,6 @@ https://george.mand.is/
 https://www.johnwalker.nl/
 https://melroy.org/
 https://nizzlay.com/
-http://www.next.gen.oh.us/~anton/
 https://www.pandadiestro.xyz/
 https://rafhei0.ichi.city/
 https://aashvik.com/
@@ -413,7 +398,6 @@ https://cleberg.net/
 https://loorjoal.netlify.app/
 https://kyrylo.org/
 https://waelk.tech/
-https://miraikumiko.com/
 https://dospuntostr.es/en/
 https://michaelharley.net/
 https://tiagorangel.com/
@@ -432,11 +416,9 @@ https://oneoffinvoice.com
 https://dbohdan.tilde.institute
 https://deal.digital/
 https://sorcery.ie/
-https://mzemlickis.lv/
 https://lyra.horse/
 https://pixelprophecy.com/microfiction/
 https://georgepaulcretu.com/
 https://peterspath.net/
 https://visruth.com/
 https://pain.agency/
-https://d.u-u.boo/

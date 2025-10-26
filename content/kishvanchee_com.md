@@ -1,11 +1,11 @@
 +++
 title = "kishvanchee.com"
 date = "2022-03-22"
-updated = "2025-09-01"
-weight = 12846
+updated = "2025-10-26"
+weight = 12819
 
 [extra]
 source = "https://kishvanchee.com/"
-ratio = 49
+ratio = 48
 size = 13
 +++

@@ -1,11 +1,11 @@
 +++
 title = "kookoomyawka.my1.ru/clock.html"
 date = "2023-02-26"
-updated = "2025-09-01"
-weight = 156436
+updated = "2025-10-26"
+weight = 157266
 
 [extra]
 source = "https://kookoomyawka.my1.ru/clock.html"
-ratio = 2
-size = 153
+ratio = 3
+size = 154
 +++

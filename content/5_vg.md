@@ -1,8 +1,8 @@
 +++
 title = "5.vg"
 date = "2025-03-08"
-updated = "2025-09-02"
-weight = 5337
+updated = "2025-10-26"
+weight = 5310
 
 [extra]
 source = "https://5.vg/"

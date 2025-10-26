@@ -1,8 +1,8 @@
 +++
 title = "rico040.su"
 date = "2024-10-27"
-updated = "2025-09-01"
-weight = 91320
+updated = "2025-10-26"
+weight = 90931
 
 [extra]
 source = "https://rico040.su/"

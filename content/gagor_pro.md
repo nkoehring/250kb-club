@@ -1,11 +1,11 @@
 +++
 title = "gagor.pro"
 date = "2024-04-25"
-updated = "2025-09-01"
-weight = 54841
+updated = "2025-10-26"
+weight = 67444
 
 [extra]
 source = "https://gagor.pro/"
-ratio = 82
-size = 54
+ratio = 74
+size = 66
 +++

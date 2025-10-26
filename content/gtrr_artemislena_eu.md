@@ -1,11 +1,11 @@
 +++
 title = "gtrr.artemislena.eu"
 date = "2022-03-22"
-updated = "2025-09-01"
-weight = 7561
+updated = "2025-10-26"
+weight = 7574
 
 [extra]
 source = "https://gtrr.artemislena.eu/"
-ratio = 94
+ratio = 93
 size = 7
 +++

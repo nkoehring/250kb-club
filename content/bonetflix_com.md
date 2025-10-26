@@ -1,11 +1,11 @@
 +++
 title = "bonetflix.com"
 date = "2023-07-15"
-updated = "2025-09-01"
-weight = 160664
+updated = "2025-10-26"
+weight = 159139
 
 [extra]
 source = "https://bonetflix.com/"
-ratio = 30
-size = 157
+ratio = 83
+size = 155
 +++

@@ -1,11 +1,11 @@
 +++
 title = "freesolitaire.win"
 date = "2022-03-22"
-updated = "2025-09-01"
-weight = 41048
+updated = "2025-10-26"
+weight = 60552
 
 [extra]
 source = "https://freesolitaire.win/"
-ratio = 93
-size = 40
+ratio = 96
+size = 59
 +++

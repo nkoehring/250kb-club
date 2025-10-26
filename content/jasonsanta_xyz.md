@@ -1,11 +1,11 @@
 +++
 title = "jasonsanta.xyz"
 date = "2022-06-10"
-updated = "2025-09-01"
-weight = 1031
+updated = "2025-10-26"
+weight = 97894
 
 [extra]
 source = "https://jasonsanta.xyz"
-ratio = 100
-size = 1
+ratio = 96
+size = 96
 +++

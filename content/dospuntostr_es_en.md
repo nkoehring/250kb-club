@@ -1,8 +1,8 @@
 +++
 title = "dospuntostr.es/en"
 date = "2025-05-11"
-updated = "2025-09-02"
-weight = 22213
+updated = "2025-10-26"
+weight = 22201
 
 [extra]
 source = "https://dospuntostr.es/en/"
