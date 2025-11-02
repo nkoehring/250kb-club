@@ -1,8 +1,8 @@
 +++
 title = "qubyte.codes"
 date = "2022-03-22"
-updated = "2025-10-26"
-weight = 41280
+updated = "2025-11-02"
+weight = 41205
 
 [extra]
 source = "https://qubyte.codes/"

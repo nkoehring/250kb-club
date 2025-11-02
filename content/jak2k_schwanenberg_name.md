@@ -1,7 +1,7 @@
 +++
 title = "jak2k.schwanenberg.name"
 date = "2025-05-11"
-updated = "2025-10-26"
+updated = "2025-11-02"
 weight = 3028
 
 [extra]

@@ -1,8 +1,8 @@
 +++
 title = "w3teal.is-a.dev"
 date = "2025-03-08"
-updated = "2025-10-26"
-weight = 2869
+updated = "2025-11-02"
+weight = 2873
 
 [extra]
 source = "https://w3teal.is-a.dev/"

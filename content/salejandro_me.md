@@ -1,11 +1,11 @@
 +++
 title = "salejandro.me"
 date = "2022-03-22"
-updated = "2025-10-26"
-weight = 10614
+updated = "2025-11-02"
+weight = 3053
 
 [extra]
 source = "https://salejandro.me/"
-ratio = 19
-size = 10
+ratio = 64
+size = 3
 +++

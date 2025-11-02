@@ -1,7 +1,7 @@
 +++
 title = "secu.pages.dev"
 date = "2024-04-25"
-updated = "2025-10-26"
+updated = "2025-11-02"
 weight = 2273
 
 [extra]

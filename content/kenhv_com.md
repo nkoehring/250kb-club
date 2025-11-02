@@ -1,11 +1,11 @@
 +++
 title = "kenhv.com"
 date = "2024-08-01"
-updated = "2025-10-26"
-weight = 39410
+updated = "2025-11-02"
+weight = 39607
 
 [extra]
 source = "https://kenhv.com"
-ratio = 6
-size = 38
+ratio = 5
+size = 39
 +++

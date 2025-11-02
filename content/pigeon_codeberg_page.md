@@ -1,7 +1,7 @@
 +++
 title = "pigeon.codeberg.page"
 date = "2023-03-04"
-updated = "2025-10-26"
+updated = "2025-11-02"
 weight = 7623
 
 [extra]

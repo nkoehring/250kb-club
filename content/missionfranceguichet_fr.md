@@ -1,7 +1,7 @@
 +++
 title = "missionfranceguichet.fr"
 date = "2024-02-21"
-updated = "2025-10-26"
+updated = "2025-11-02"
 weight = 19820
 
 [extra]

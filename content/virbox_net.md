@@ -1,11 +1,11 @@
 +++
 title = "virbox.net"
 date = "2023-01-31"
-updated = "2025-10-26"
-weight = 142958
+updated = "2025-11-02"
+weight = 3370
 
 [extra]
 source = "https://virbox.net"
-ratio = 1
-size = 140
+ratio = 54
+size = 3
 +++

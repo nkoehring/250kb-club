@@ -1,11 +1,11 @@
 +++
 title = "frontaid.io"
 date = "2022-03-22"
-updated = "2025-10-26"
-weight = 150538
+updated = "2025-11-02"
+weight = 18471
 
 [extra]
 source = "https://frontaid.io"
-ratio = 35
-size = 147
+ratio = 17
+size = 18
 +++

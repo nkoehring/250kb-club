@@ -1,7 +1,7 @@
 +++
 title = "pumpopoly.com"
 date = "2022-03-23"
-updated = "2025-10-26"
+updated = "2025-11-02"
 weight = 35093
 
 [extra]

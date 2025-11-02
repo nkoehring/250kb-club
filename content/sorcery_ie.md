@@ -1,11 +1,11 @@
 +++
 title = "sorcery.ie"
 date = "2025-09-02"
-updated = "2025-10-26"
-weight = 11825
+updated = "2025-11-02"
+weight = 4355
 
 [extra]
 source = "https://sorcery.ie/"
-ratio = 37
-size = 12
+ratio = 100
+size = 4
 +++

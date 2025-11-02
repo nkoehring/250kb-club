@@ -1,8 +1,8 @@
 +++
 title = "n.2p5.xyz"
 date = "2022-03-22"
-updated = "2025-10-26"
-weight = 1577
+updated = "2025-11-02"
+weight = 1576
 
 [extra]
 source = "https://n.2p5.xyz/"

@@ -1,11 +1,11 @@
 +++
 title = "magicalunicorn.fr"
 date = "2024-08-24"
-updated = "2025-10-26"
-weight = 167755
+updated = "2025-11-02"
+weight = 35567
 
 [extra]
 source = "https://magicalunicorn.fr/"
-ratio = 9
-size = 164
+ratio = 44
+size = 35
 +++

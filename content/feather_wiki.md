@@ -1,8 +1,8 @@
 +++
 title = "feather.wiki"
 date = "2022-06-10"
-updated = "2025-10-26"
-weight = 90708
+updated = "2025-11-02"
+weight = 90672
 
 [extra]
 source = "https://feather.wiki/"

@@ -1,8 +1,8 @@
 +++
 title = "jcruz.eu"
 date = "2023-07-15"
-updated = "2025-10-26"
-weight = 40692
+updated = "2025-11-02"
+weight = 40683
 
 [extra]
 source = "https://jcruz.eu/"

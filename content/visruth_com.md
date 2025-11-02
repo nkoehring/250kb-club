@@ -1,8 +1,8 @@
 +++
 title = "visruth.com"
 date = "2025-09-02"
-updated = "2025-10-26"
-weight = 34779
+updated = "2025-11-02"
+weight = 35149
 
 [extra]
 source = "https://visruth.com/"
