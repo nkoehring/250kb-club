@@ -231,7 +231,7 @@ https://chino.is-a.dev/
 https://hylang.org/
 https://www.cweagans.net/
 https://nelson.cloud/
-https://pigeon.codeberg.page/
+https://flockless.xyz/
 https://blog.madelinepritchard.net/
 https://ukarim.com
 https://holdenclarke.com/
@@ -445,3 +445,7 @@ https://blog.frost.kiwi/
 https://jgyasu.github.io/
 https://businessnutshell.com/
 https://perrotta.dev/
+https://diyarciftci.xyz/
+https://probably.co.uk/
+https://yojigen.cn/
+https://blog.cani.ne.jp/
