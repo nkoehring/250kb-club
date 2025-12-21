@@ -1,8 +1,8 @@
 +++
 title = "jann.stute.dev"
 date = "2025-10-28"
-updated = "2025-10-28"
-weight = 14389
+updated = "2025-12-21"
+weight = 14390
 
 [extra]
 source = "https://jann.stute.dev/"

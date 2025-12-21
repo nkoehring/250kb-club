@@ -1,11 +1,11 @@
 +++
 title = "mataroa.blog"
 date = "2022-03-22"
-updated = "2025-11-02"
-weight = 6644
+updated = "2025-12-21"
+weight = 8404
 
 [extra]
 source = "https://mataroa.blog"
 ratio = 100
-size = 6
+size = 8
 +++

@@ -1,7 +1,7 @@
 +++
 title = "mathijs.vgorcum.com"
 date = "2023-11-17"
-updated = "2025-11-02"
+updated = "2025-12-21"
 weight = 48638
 
 [extra]

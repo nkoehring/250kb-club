@@ -1,11 +1,11 @@
 +++
 title = "cat-v.org"
 date = "2022-03-22"
-updated = "2025-11-02"
-weight = 9649
+updated = "2025-12-21"
+weight = 12381
 
 [extra]
 source = "http://cat-v.org/"
-ratio = 69
-size = 9
+ratio = 54
+size = 12
 +++

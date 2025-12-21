@@ -1,11 +1,11 @@
 +++
 title = "daviewales.com"
 date = "2024-08-24"
-updated = "2025-11-02"
-weight = 162379
+updated = "2025-12-21"
+weight = 161176
 
 [extra]
 source = "https://daviewales.com/"
-ratio = 27
-size = 159
+ratio = 28
+size = 157
 +++

@@ -1,8 +1,8 @@
 +++
 title = "jacksonkerr.neocities.org"
 date = "2025-11-02"
-updated = "2025-11-02"
-weight = 30390
+updated = "2025-12-21"
+weight = 30823
 
 [extra]
 source = "https://jacksonkerr.neocities.org/"

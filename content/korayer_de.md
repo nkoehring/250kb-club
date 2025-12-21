@@ -1,7 +1,7 @@
 +++
 title = "korayer.de"
 date = "2023-01-31"
-updated = "2025-11-02"
+updated = "2025-12-21"
 weight = 669
 
 [extra]

@@ -1,8 +1,8 @@
 +++
 title = "lite.jackson.gd"
 date = "2025-11-02"
-updated = "2025-11-02"
-weight = 36017
+updated = "2025-12-21"
+weight = 36189
 
 [extra]
 source = "https://lite.jackson.gd/"

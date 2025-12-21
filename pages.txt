@@ -4,7 +4,6 @@ Lines that don't start with http:// or https://, as well as duplicates are ignor
 https://250kb.club/
 https://512kb.club/
 https://1mb.club/
-https://bonetflix.com/
 https://no-js.club/
 https://abridge.netlify.app/
 https://unixsheikh.com/
@@ -112,7 +111,6 @@ https://myipaddress.ru
 https://bnolet.me
 https://remoteroast.club/
 https://box.matto.nl
-https://codevoid.de/
 https://bcachefs.org/
 https://blog.bshah.in/
 https://rya.nc/
@@ -191,7 +189,6 @@ https://samic.org/
 https://thoughts.page/
 https://ampersandia.net/
 https://rectangles.app/
-https://davidjenei.com
 https://jaxson.neocities.org/
 https://feather.wiki/
 https://jasonsanta.xyz
@@ -202,7 +199,6 @@ https://1kb.lejtzen.dev
 https://tsk.bearblog.dev/
 https://okuno.se/
 https://starsy.netlify.app/
-https://www.jouissance.net
 https://robins.one
 https://textonly.website
 https://korayer.de/
@@ -223,7 +219,6 @@ https://adambuczek.com
 https://ayham.xyz/
 https://virbox.net
 https://jacksonchen666.com/
-https://lunecake.com/
 https://www.curiositry.com/
 https://bubirwebsitesi.github.io/
 https://news.tuxmachines.org/
@@ -233,7 +228,6 @@ http://goestathomas.de/
 https://kookoomyawka.my1.ru/clock.html
 https://zapisnik.skladka.net/
 https://chino.is-a.dev/
-https://10maurycy10.github.io/
 https://hylang.org/
 https://www.cweagans.net/
 https://nelson.cloud/
@@ -292,7 +286,6 @@ https://vinc.cc/
 http://verisimilitudes.net/
 https://davidovski.xyz/
 https://sappho.io/
-https://eklausmeier.goip.de/
 https://morcus.net/
 https://andrekelling.de/
 https://paulcomte.cafe/
@@ -372,14 +365,11 @@ https://marcusb.org/
 https://mirat.dev/
 https://www.paoloose.site/
 https://ansharora.in/
-https://danq.me/
 https://eldred.fr/
 https://schnouki.net
 https://andreiclinciu.net/
-https://findl.top/
 https://stringpool.de/
 https://drewsh.com/
-https://duanin2.top/
 https://george.mand.is/
 https://www.johnwalker.nl/
 https://melroy.org/
@@ -425,7 +415,6 @@ https://pain.agency/
 https://mattlacey.com/
 https://jann.stute.dev/
 https://lucio.albenga.es/
-https://offensivename.com/
 https://hunicke.com/
 https://www.bkapteijn.nl/
 https://doomdesire.dev/

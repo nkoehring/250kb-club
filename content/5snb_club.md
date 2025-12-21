@@ -1,11 +1,11 @@
 +++
 title = "5snb.club"
 date = "2025-09-02"
-updated = "2025-11-02"
-weight = 167486
+updated = "2025-12-21"
+weight = 119088
 
 [extra]
 source = "https://5snb.club/"
-ratio = 98
-size = 164
+ratio = 97
+size = 116
 +++

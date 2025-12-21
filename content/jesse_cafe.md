@@ -1,8 +1,8 @@
 +++
 title = "jesse.cafe"
 date = "2024-07-14"
-updated = "2025-11-02"
-weight = 4047
+updated = "2025-12-21"
+weight = 4054
 
 [extra]
 source = "https://jesse.cafe/"

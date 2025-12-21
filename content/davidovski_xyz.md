@@ -1,7 +1,7 @@
 +++
 title = "davidovski.xyz"
 date = "2024-01-19"
-updated = "2025-11-02"
+updated = "2025-12-21"
 weight = 142484
 
 [extra]

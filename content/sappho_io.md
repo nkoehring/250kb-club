@@ -1,8 +1,8 @@
 +++
 title = "sappho.io"
 date = "2024-01-26"
-updated = "2025-11-02"
-weight = 189040
+updated = "2025-12-21"
+weight = 189052
 
 [extra]
 source = "https://sappho.io/"

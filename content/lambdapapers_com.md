@@ -1,8 +1,8 @@
 +++
 title = "lambdapapers.com"
 date = "2022-03-22"
-updated = "2025-11-02"
-weight = 39220
+updated = "2025-12-21"
+weight = 39253
 
 [extra]
 source = "https://lambdapapers.com"

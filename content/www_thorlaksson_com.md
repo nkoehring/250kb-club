@@ -1,11 +1,11 @@
 +++
 title = "www.thorlaksson.com"
 date = "2024-07-14"
-updated = "2025-11-02"
-weight = 163322
+updated = "2025-12-21"
+weight = 163351
 
 [extra]
 source = "https://www.thorlaksson.com/"
 ratio = 34
-size = 159
+size = 160
 +++

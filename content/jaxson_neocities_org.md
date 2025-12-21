@@ -1,8 +1,8 @@
 +++
 title = "jaxson.neocities.org"
 date = "2022-06-10"
-updated = "2025-11-02"
-weight = 6437
+updated = "2025-12-21"
+weight = 6438
 
 [extra]
 source = "https://jaxson.neocities.org/"

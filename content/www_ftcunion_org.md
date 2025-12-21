@@ -1,11 +1,11 @@
 +++
 title = "www.ftcunion.org"
 date = "2025-10-28"
-updated = "2025-10-28"
-weight = 111621
+updated = "2025-12-21"
+weight = 43372
 
 [extra]
 source = "https://www.ftcunion.org/"
-ratio = 14
-size = 109
+ratio = 48
+size = 42
 +++

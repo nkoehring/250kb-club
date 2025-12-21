@@ -1,11 +1,11 @@
 +++
 title = "cleberg.net"
 date = "2025-05-11"
-updated = "2025-11-02"
-weight = 1925
+updated = "2025-12-21"
+weight = 10164
 
 [extra]
 source = "https://cleberg.net/"
-ratio = 51
-size = 2
+ratio = 19
+size = 10
 +++

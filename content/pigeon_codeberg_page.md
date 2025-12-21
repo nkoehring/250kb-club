@@ -1,11 +1,11 @@
 +++
 title = "pigeon.codeberg.page"
 date = "2023-03-04"
-updated = "2025-11-02"
-weight = 7623
+updated = "2025-12-21"
+weight = 19110
 
 [extra]
 source = "https://pigeon.codeberg.page/"
-ratio = 38
-size = 7
+ratio = 17
+size = 19
 +++

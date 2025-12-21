@@ -1,8 +1,8 @@
 +++
 title = "www.bryanbraun.com/connect-four"
 date = "2022-03-22"
-updated = "2025-11-02"
-weight = 51621
+updated = "2025-12-21"
+weight = 51590
 
 [extra]
 source = "https://www.bryanbraun.com/connect-four/"

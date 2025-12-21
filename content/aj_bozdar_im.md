@@ -1,8 +1,8 @@
 +++
 title = "aj.bozdar.im"
 date = "2025-09-02"
-updated = "2025-11-02"
-weight = 122574
+updated = "2025-12-21"
+weight = 122649
 
 [extra]
 source = "https://aj.bozdar.im"

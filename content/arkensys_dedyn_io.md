@@ -1,7 +1,7 @@
 +++
 title = "arkensys.dedyn.io"
 date = "2023-12-13"
-updated = "2025-11-02"
+updated = "2025-12-21"
 weight = 17038
 
 [extra]

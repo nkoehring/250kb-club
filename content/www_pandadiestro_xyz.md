@@ -1,11 +1,11 @@
 +++
 title = "www.pandadiestro.xyz"
 date = "2025-02-16"
-updated = "2025-11-02"
-weight = 145858
+updated = "2025-12-21"
+weight = 146117
 
 [extra]
 source = "https://www.pandadiestro.xyz/"
-ratio = 36
-size = 142
+ratio = 35
+size = 143
 +++

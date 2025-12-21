@@ -1,8 +1,8 @@
 +++
 title = "unquoting.com"
 date = "2025-11-02"
-updated = "2025-11-02"
-weight = 7699
+updated = "2025-12-21"
+weight = 7773
 
 [extra]
 source = "https://unquoting.com/"

@@ -1,11 +1,11 @@
 +++
 title = "pavel.pikirenia.me"
 date = "2025-01-03"
-updated = "2025-11-02"
-weight = 107131
+updated = "2025-12-21"
+weight = 43907
 
 [extra]
 source = "https://pavel.pikirenia.me/"
-ratio = 72
-size = 105
+ratio = 67
+size = 43
 +++
