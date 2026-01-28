@@ -1,11 +1,11 @@
 +++
 title = "martin.baillie.id"
 date = "2022-03-22"
-updated = "2025-12-21"
-weight = 57338
+updated = "2026-01-27"
+weight = 56937
 
 [extra]
 source = "https://martin.baillie.id/"
-ratio = 10
+ratio = 9
 size = 56
 +++

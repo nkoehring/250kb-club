@@ -1,11 +1,11 @@
 +++
 title = "tom.kobalt.dev"
 date = "2022-04-11"
-updated = "2025-12-21"
-weight = 5990
+updated = "2026-01-27"
+weight = 5981
 
 [extra]
 source = "https://tom.kobalt.dev/"
-ratio = 66
+ratio = 65
 size = 6
 +++

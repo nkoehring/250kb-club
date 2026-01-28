@@ -1,11 +1,11 @@
 +++
 title = "susam.net"
 date = "2022-03-22"
-updated = "2025-12-21"
-weight = 7377
+updated = "2026-01-27"
+weight = 7624
 
 [extra]
 source = "https://susam.net"
-ratio = 66
+ratio = 67
 size = 7
 +++

@@ -1,8 +1,8 @@
 +++
 title = "rafhei0.ichi.city"
 date = "2025-02-16"
-updated = "2025-12-21"
-weight = 35400
+updated = "2026-01-27"
+weight = 35402
 
 [extra]
 source = "https://rafhei0.ichi.city/"

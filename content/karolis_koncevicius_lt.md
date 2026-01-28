@@ -1,11 +1,11 @@
 +++
 title = "karolis.koncevicius.lt"
 date = "2022-03-22"
-updated = "2025-12-21"
-weight = 2648
+updated = "2026-01-27"
+weight = 3642
 
 [extra]
 source = "http://karolis.koncevicius.lt/"
 ratio = 100
-size = 3
+size = 4
 +++

@@ -1,8 +1,8 @@
 +++
 title = "guts.plus"
 date = "2022-03-22"
-updated = "2025-12-21"
-weight = 18987
+updated = "2026-01-27"
+weight = 19014
 
 [extra]
 source = "https://guts.plus/"

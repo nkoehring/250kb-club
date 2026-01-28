@@ -1,11 +1,11 @@
 +++
 title = "teapot.chat"
 date = "2024-08-05"
-updated = "2025-12-21"
-weight = 20860
+updated = "2026-01-27"
+weight = 21000
 
 [extra]
 source = "https://teapot.chat/"
 ratio = 91
-size = 20
+size = 21
 +++

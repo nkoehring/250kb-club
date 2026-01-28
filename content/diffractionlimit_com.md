@@ -1,8 +1,8 @@
 +++
 title = "diffractionlimit.com"
 date = "2024-02-21"
-updated = "2025-12-21"
-weight = 230351
+updated = "2026-01-27"
+weight = 230221
 
 [extra]
 source = "https://diffractionlimit.com/"

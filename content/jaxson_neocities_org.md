@@ -1,7 +1,7 @@
 +++
 title = "jaxson.neocities.org"
 date = "2022-06-10"
-updated = "2025-12-21"
+updated = "2026-01-27"
 weight = 6438
 
 [extra]

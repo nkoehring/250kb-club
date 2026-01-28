@@ -1,11 +1,11 @@
 +++
 title = "visruth.com"
 date = "2025-09-02"
-updated = "2025-12-21"
-weight = 33649
+updated = "2026-01-28"
+weight = 33118
 
 [extra]
 source = "https://visruth.com/"
 ratio = 20
-size = 33
+size = 32
 +++

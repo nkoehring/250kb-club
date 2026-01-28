@@ -1,8 +1,8 @@
 +++
 title = "walktheearth.pw"
 date = "2025-10-28"
-updated = "2025-12-21"
-weight = 4864
+updated = "2026-01-28"
+weight = 4881
 
 [extra]
 source = "https://walktheearth.pw/"

@@ -1,11 +1,11 @@
 +++
 title = "smalltictactoe.dpdns.org"
 date = "2025-11-02"
-updated = "2025-12-21"
-weight = 1951
+updated = "2026-01-28"
+weight = 1973
 
 [extra]
 source = "https://smalltictactoe.dpdns.org/"
-ratio = 58
+ratio = 57
 size = 2
 +++

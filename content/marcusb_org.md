@@ -1,8 +1,8 @@
 +++
 title = "marcusb.org"
 date = "2025-01-03"
-updated = "2025-12-21"
-weight = 6868
+updated = "2026-01-27"
+weight = 6799
 
 [extra]
 source = "https://marcusb.org/"

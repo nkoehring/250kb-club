@@ -1,11 +1,11 @@
 +++
 title = "w3teal.is-a.dev"
 date = "2025-03-08"
-updated = "2025-12-21"
-weight = 3790
+updated = "2026-01-27"
+weight = 4609
 
 [extra]
 source = "https://w3teal.is-a.dev/"
-ratio = 74
-size = 4
+ratio = 65
+size = 5
 +++

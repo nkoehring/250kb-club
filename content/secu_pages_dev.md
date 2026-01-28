@@ -1,8 +1,8 @@
 +++
 title = "secu.pages.dev"
 date = "2024-04-25"
-updated = "2025-12-21"
-weight = 2276
+updated = "2026-01-27"
+weight = 2246
 
 [extra]
 source = "https://secu.pages.dev/"

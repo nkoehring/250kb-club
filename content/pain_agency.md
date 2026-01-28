@@ -1,8 +1,8 @@
 +++
 title = "pain.agency"
 date = "2025-09-02"
-updated = "2025-12-21"
-weight = 84013
+updated = "2026-01-28"
+weight = 84042
 
 [extra]
 source = "https://pain.agency/"

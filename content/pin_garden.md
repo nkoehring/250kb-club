@@ -1,11 +1,11 @@
 +++
 title = "pin.garden"
 date = "2025-12-21"
-updated = "2025-12-21"
-weight = 37876
+updated = "2026-01-28"
+weight = 39435
 
 [extra]
 source = "https://pin.garden/"
-ratio = 6
-size = 37
+ratio = 5
+size = 39
 +++

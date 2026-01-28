@@ -1,11 +1,11 @@
 +++
 title = "unquoting.com"
 date = "2025-11-02"
-updated = "2025-12-21"
-weight = 7773
+updated = "2026-01-28"
+weight = 193543
 
 [extra]
 source = "https://unquoting.com/"
-ratio = 81
-size = 8
+ratio = 6
+size = 189
 +++

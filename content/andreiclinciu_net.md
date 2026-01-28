@@ -1,7 +1,7 @@
 +++
 title = "andreiclinciu.net"
 date = "2025-01-27"
-updated = "2025-12-21"
+updated = "2026-01-27"
 weight = 163391
 
 [extra]

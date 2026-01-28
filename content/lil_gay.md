@@ -1,11 +1,11 @@
 +++
 title = "lil.gay"
 date = "2022-03-22"
-updated = "2025-12-21"
-weight = 992
+updated = "2026-01-27"
+weight = 984
 
 [extra]
 source = "https://lil.gay/"
-ratio = 66
+ratio = 65
 size = 1
 +++

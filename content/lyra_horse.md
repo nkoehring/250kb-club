@@ -1,8 +1,8 @@
 +++
 title = "lyra.horse"
 date = "2025-09-02"
-updated = "2025-12-21"
-weight = 34977
+updated = "2026-01-28"
+weight = 35053
 
 [extra]
 source = "https://lyra.horse/"

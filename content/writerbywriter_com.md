@@ -1,11 +1,11 @@
 +++
 title = "writerbywriter.com"
 date = "2023-01-31"
-updated = "2025-12-21"
-weight = 87064
+updated = "2026-01-27"
+weight = 231309
 
 [extra]
 source = "https://writerbywriter.com/"
-ratio = 9
-size = 85
+ratio = 4
+size = 226
 +++

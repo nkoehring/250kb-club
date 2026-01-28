@@ -1,8 +1,8 @@
 +++
 title = "www.johnwalker.nl"
 date = "2025-01-27"
-updated = "2025-12-21"
-weight = 11064
+updated = "2026-01-27"
+weight = 11005
 
 [extra]
 source = "https://www.johnwalker.nl/"

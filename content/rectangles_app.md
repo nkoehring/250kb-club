@@ -1,8 +1,8 @@
 +++
 title = "rectangles.app"
 date = "2022-04-11"
-updated = "2025-12-21"
-weight = 9593
+updated = "2026-01-27"
+weight = 9549
 
 [extra]
 source = "https://rectangles.app/"

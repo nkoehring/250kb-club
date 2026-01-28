@@ -1,11 +1,11 @@
 +++
 title = "sizi.ng"
 date = "2022-03-22"
-updated = "2025-12-21"
-weight = 2849
+updated = "2026-01-27"
+weight = 10263
 
 [extra]
 source = "https://sizi.ng/"
-ratio = 100
-size = 3
+ratio = 28
+size = 10
 +++

@@ -1,11 +1,11 @@
 +++
 title = "diyarciftci.xyz"
 date = "2025-12-21"
-updated = "2025-12-21"
-weight = 4597
+updated = "2026-01-28"
+weight = 5465
 
 [extra]
 source = "https://diyarciftci.xyz/"
-ratio = 61
-size = 4
+ratio = 57
+size = 5
 +++

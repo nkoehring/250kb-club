@@ -1,7 +1,7 @@
 +++
 title = "clock.dssr.ch"
 date = "2025-12-21"
-updated = "2025-12-21"
+updated = "2026-01-28"
 weight = 5541
 
 [extra]

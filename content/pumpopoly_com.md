@@ -1,11 +1,11 @@
 +++
 title = "pumpopoly.com"
 date = "2022-03-23"
-updated = "2025-12-21"
-weight = 35093
+updated = "2026-01-27"
+weight = 74297
 
 [extra]
 source = "https://pumpopoly.com/"
-ratio = 58
-size = 34
+ratio = 80
+size = 73
 +++

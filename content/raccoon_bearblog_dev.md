@@ -1,11 +1,11 @@
 +++
 title = "raccoon.bearblog.dev"
 date = "2025-10-28"
-updated = "2025-12-21"
-weight = 37005
+updated = "2026-01-28"
+weight = 18320
 
 [extra]
 source = "https://raccoon.bearblog.dev"
-ratio = 98
-size = 36
+ratio = 96
+size = 18
 +++

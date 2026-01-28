@@ -1,11 +1,11 @@
 +++
 title = "peterspath.net"
 date = "2025-09-02"
-updated = "2025-12-21"
-weight = 32745
+updated = "2026-01-28"
+weight = 33417
 
 [extra]
 source = "https://peterspath.net/"
-ratio = 79
-size = 32
+ratio = 78
+size = 33
 +++

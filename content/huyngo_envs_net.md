@@ -1,8 +1,8 @@
 +++
 title = "huyngo.envs.net"
 date = "2022-03-22"
-updated = "2025-12-21"
-weight = 845
+updated = "2026-01-27"
+weight = 1489
 
 [extra]
 source = "https://huyngo.envs.net"

@@ -1,11 +1,11 @@
 +++
 title = "erikjohannes.no"
 date = "2023-01-31"
-updated = "2025-12-21"
-weight = 12851
+updated = "2026-01-27"
+weight = 16138
 
 [extra]
 source = "https://erikjohannes.no/"
-ratio = 90
-size = 13
+ratio = 64
+size = 16
 +++

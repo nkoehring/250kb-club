@@ -1,11 +1,11 @@
 +++
 title = "lukealexdavis.co.uk"
 date = "2023-01-31"
-updated = "2025-12-21"
-weight = 39082
+updated = "2026-01-27"
+weight = 57393
 
 [extra]
 source = "https://lukealexdavis.co.uk/"
-ratio = 34
-size = 38
+ratio = 24
+size = 56
 +++

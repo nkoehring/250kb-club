@@ -1,8 +1,8 @@
 +++
 title = "iqbalrifai.eu.org"
 date = "2023-04-17"
-updated = "2025-12-21"
-weight = 1777
+updated = "2026-01-27"
+weight = 1758
 
 [extra]
 source = "https://iqbalrifai.eu.org/"

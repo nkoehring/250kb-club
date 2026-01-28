@@ -1,7 +1,7 @@
 +++
 title = "dostoynikov.com"
 date = "2025-10-28"
-updated = "2025-12-21"
+updated = "2026-01-27"
 weight = 4719
 
 [extra]

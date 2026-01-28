@@ -1,11 +1,11 @@
 +++
 title = "oneoffinvoice.com"
 date = "2025-09-02"
-updated = "2025-12-21"
-weight = 32183
+updated = "2026-01-28"
+weight = 32532
 
 [extra]
 source = "https://oneoffinvoice.com"
 ratio = 11
-size = 31
+size = 32
 +++

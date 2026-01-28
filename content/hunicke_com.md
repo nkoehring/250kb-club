@@ -1,11 +1,11 @@
 +++
 title = "hunicke.com"
 date = "2025-10-28"
-updated = "2025-12-21"
-weight = 49847
+updated = "2026-01-28"
+weight = 49872
 
 [extra]
 source = "https://hunicke.com/"
-ratio = 86
+ratio = 87
 size = 49
 +++

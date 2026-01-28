@@ -1,7 +1,7 @@
 +++
 title = "zapisnik.skladka.net"
 date = "2023-02-26"
-updated = "2025-12-21"
+updated = "2026-01-27"
 weight = 29649
 
 [extra]

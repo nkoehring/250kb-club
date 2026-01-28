@@ -1,11 +1,11 @@
 +++
 title = "theden.sh"
 date = "2023-07-15"
-updated = "2025-12-21"
-weight = 93496
+updated = "2026-01-27"
+weight = 89253
 
 [extra]
 source = "https://theden.sh/"
-ratio = 86
-size = 91
+ratio = 77
+size = 87
 +++

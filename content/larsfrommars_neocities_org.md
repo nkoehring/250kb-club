@@ -1,8 +1,8 @@
 +++
 title = "larsfrommars.neocities.org"
 date = "2025-09-02"
-updated = "2025-12-21"
-weight = 163177
+updated = "2026-01-28"
+weight = 163242
 
 [extra]
 source = "https://larsfrommars.neocities.org/"

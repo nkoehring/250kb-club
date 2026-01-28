@@ -1,11 +1,11 @@
 +++
 title = "remoteroast.club"
 date = "2022-03-22"
-updated = "2025-12-21"
-weight = 28644
+updated = "2026-01-27"
+weight = 28280
 
 [extra]
 source = "https://remoteroast.club/"
-ratio = 12
+ratio = 11
 size = 28
 +++
