@@ -22,7 +22,6 @@ internal_level = "error"
 external_level = "error"
 
 [markdown]
-highlight_code = false
 render_emoji = false
 external_links_target_blank = true
 external_links_no_follow = true
