@@ -1,8 +1,8 @@
 +++
 title = "otgt.us.eu.org"
 date = "2023-01-31"
-updated = "2026-01-27"
-weight = 37010
+updated = "2026-03-13"
+weight = 37084
 
 [extra]
 source = "https://otgt.us.eu.org/"

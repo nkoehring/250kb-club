@@ -1,7 +1,7 @@
 +++
 title = "teapot.chat"
 date = "2024-08-05"
-updated = "2026-01-27"
+updated = "2026-03-13"
 weight = 21000
 
 [extra]

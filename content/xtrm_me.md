@@ -1,11 +1,11 @@
 +++
 title = "xtrm.me"
 date = "2024-04-25"
-updated = "2026-01-27"
-weight = 50675
+updated = "2026-03-13"
+weight = 53081
 
 [extra]
 source = "https://xtrm.me/"
-ratio = 20
-size = 49
+ratio = 19
+size = 52
 +++

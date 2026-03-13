@@ -1,8 +1,8 @@
 +++
 title = "cashx.pages.dev"
 date = "2024-04-25"
-updated = "2026-01-27"
-weight = 26407
+updated = "2026-03-13"
+weight = 26382
 
 [extra]
 source = "https://cashx.pages.dev/"

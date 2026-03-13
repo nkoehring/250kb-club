@@ -1,8 +1,8 @@
 +++
 title = "pavel.pikirenia.me"
 date = "2025-01-03"
-updated = "2026-01-27"
-weight = 43907
+updated = "2026-03-13"
+weight = 43908
 
 [extra]
 source = "https://pavel.pikirenia.me/"

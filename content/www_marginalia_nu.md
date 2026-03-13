@@ -1,8 +1,8 @@
 +++
 title = "www.marginalia.nu"
 date = "2024-02-21"
-updated = "2026-01-27"
-weight = 202624
+updated = "2026-03-13"
+weight = 202689
 
 [extra]
 source = "https://www.marginalia.nu/"

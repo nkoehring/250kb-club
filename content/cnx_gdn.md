@@ -1,7 +1,7 @@
 +++
 title = "cnx.gdn"
 date = "2023-02-01"
-updated = "2026-01-27"
+updated = "2026-03-13"
 weight = 3016
 
 [extra]

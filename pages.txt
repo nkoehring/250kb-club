@@ -98,7 +98,6 @@ http://cat-v.org/
 http://werc.cat-v.org/
 https://mikegerwitz.com/
 https://midnight.pub/
-https://shazow.net/
 https://nixnet.email/
 https://salejandro.me/
 https://foxwells.garden/
@@ -365,7 +364,6 @@ https://ansharora.in/
 https://eldred.fr/
 https://schnouki.net
 https://andreiclinciu.net/
-https://stringpool.de/
 https://drewsh.com/
 https://george.mand.is/
 https://www.johnwalker.nl/
@@ -420,7 +418,6 @@ https://www.ftcunion.org/
 https://www.matthewthom.as/
 https://walktheearth.pw/
 https://www.aperture.akron.oh.us/~asm/
-https://raccoon.bearblog.dev
 https://www.deholte.com/
 https://sampsa.fun/
 https://riz0me.bearblog.dev/

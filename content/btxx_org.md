@@ -1,11 +1,11 @@
 +++
 title = "btxx.org"
 date = "2025-12-21"
-updated = "2026-01-28"
-weight = 3513
+updated = "2026-03-13"
+weight = 4244
 
 [extra]
 source = "https://btxx.org/"
-ratio = 55
-size = 3
+ratio = 46
+size = 4
 +++

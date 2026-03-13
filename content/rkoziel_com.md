@@ -1,11 +1,11 @@
 +++
 title = "rkoziel.com"
 date = "2026-01-28"
-updated = "2026-01-28"
-weight = 19911
+updated = "2026-03-13"
+weight = 21746
 
 [extra]
 source = "https://rkoziel.com/"
-ratio = 23
-size = 19
+ratio = 21
+size = 21
 +++

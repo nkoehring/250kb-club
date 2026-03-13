@@ -1,8 +1,8 @@
 +++
 title = "timotijhof.net"
 date = "2022-03-22"
-updated = "2026-01-27"
-weight = 14026
+updated = "2026-03-13"
+weight = 14103
 
 [extra]
 source = "https://timotijhof.net/"

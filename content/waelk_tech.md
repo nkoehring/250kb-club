@@ -1,8 +1,8 @@
 +++
 title = "waelk.tech"
 date = "2024-08-05"
-updated = "2026-01-27"
-weight = 12285
+updated = "2026-03-13"
+weight = 12202
 
 [extra]
 source = "https://waelk.tech/"

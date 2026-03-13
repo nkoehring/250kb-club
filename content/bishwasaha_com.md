@@ -1,11 +1,11 @@
 +++
 title = "bishwasaha.com"
 date = "2023-11-17"
-updated = "2026-01-27"
-weight = 163519
+updated = "2026-03-13"
+weight = 167748
 
 [extra]
 source = "https://bishwasaha.com/"
-ratio = 84
-size = 160
+ratio = 82
+size = 164
 +++

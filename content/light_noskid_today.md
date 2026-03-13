@@ -1,11 +1,11 @@
 +++
 title = "light.noskid.today"
 date = "2025-09-02"
-updated = "2026-01-28"
-weight = 23994
+updated = "2026-03-13"
+weight = 29489
 
 [extra]
 source = "https://light.noskid.today/"
-ratio = 19
-size = 23
+ratio = 16
+size = 29
 +++

@@ -1,11 +1,11 @@
 +++
 title = "250kb.club"
 date = "2022-02-22"
-updated = "2026-01-27"
-weight = 25903
+updated = "2026-03-13"
+weight = 26671
 
 [extra]
 source = "https://250kb.club/"
-ratio = 87
-size = 25
+ratio = 88
+size = 26
 +++

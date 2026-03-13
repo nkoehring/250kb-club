@@ -1,11 +1,11 @@
 +++
 title = "cedric.dkmp.be"
 date = "2026-01-28"
-updated = "2026-01-28"
-weight = 23286
+updated = "2026-03-13"
+weight = 19618
 
 [extra]
 source = "https://cedric.dkmp.be/"
-ratio = 84
-size = 23
+ratio = 81
+size = 19
 +++

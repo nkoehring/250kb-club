@@ -1,11 +1,11 @@
 +++
 title = "richj.co"
 date = "2022-03-22"
-updated = "2026-01-27"
-weight = 25694
+updated = "2026-03-13"
+weight = 25559
 
 [extra]
 source = "https://richj.co"
-ratio = 13
+ratio = 12
 size = 25
 +++
