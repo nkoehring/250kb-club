@@ -1,3 +1,4 @@
+/// <reference path="../index.d.ts" />
 import {
   parse as tomlParse,
   stringify as tomlStringify,
@@ -82,10 +83,13 @@ export async function retryFetch(
   url: string,
   retries = 3,
   msDelay = 1000
-): Promise<any> {
+): Promise<Record<string, unknown> | false> {
   try {
     const response = await fetch(url);
-    if (!response.ok) return false;
+    if (!response.ok) {
+      if (response.status >= 500) throw new Error(`Server error ${response.status}`);
+      return false;
+    }
     const json = await response.json();
     return json;
   } catch (err) {

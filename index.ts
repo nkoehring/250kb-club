@@ -69,7 +69,7 @@ async function updateRecord(runId: string, url: string): Promise<boolean> {
     if (oldRecord) {
       console.debug("Removing record at", OUTPUT_PATH)
       removeRecord(url, OUTPUT_PATH).catch(() => {
-        statistics.errors.push('Failed to remove', OUTPUT_PATH)
+        statistics.errors.push(`Failed to remove ${OUTPUT_PATH}`)
         console.debug(red("Failed to remove old record"), "of rejected url", url)
       })
     }
@@ -105,7 +105,7 @@ async function updateRecord(runId: string, url: string): Promise<boolean> {
 
 async function checkPage(url: string) {
   const record = await getPageRecord(url, OUTPUT_PATH)
-  const lastUpdated = Date.parse(record?.updated || "")
+  const lastUpdated = record?.updated ? Date.parse(record.updated) : 0
   const needsCheck = !record || now - lastUpdated > RECHECK_THRESHOLD
 
   if (!needsCheck) {
@@ -155,43 +155,36 @@ function showStatistics() {
 }
 
 async function handleBatch() {
-  if (!debug) updateStatusScreen()
-  if (!pages.length) return showStatistics() // done, yeah!
+  while (pages.length) {
+    if (!debug) updateStatusScreen()
+    const batch = pages.splice(0, PARALLEL_JOBS)
+    const jobs = batch.map((url) => checkPage(url))
 
-  const batch = pages.splice(0, PARALLEL_JOBS)
-  const jobs = batch.map((url) => checkPage(url))
+    while (jobs.length) {
+      const job = jobs.shift()
+      const runId = await job
 
-  while (jobs.length) {
-    // take the first job and check
-    // if the check fails, it will be added back to the end of the list
-    const job = jobs.shift()
-    const runId = await job
+      if (!job || runId === undefined || runId === true || runId === false) continue
 
-    // page is up-to-date or YLT has an error
-    if (!job || runId === undefined || runId === true || runId === false) continue
+      const { url, status } = await checkStatus(runId)
 
-    // TODO: handle failures more gracefully
-    const { url, status } = await checkStatus(runId)
-
-    if (status === "failed") {
-      statistics.errors.push(`YLT analysis failed for ${url} (run id: ${runId})`)
-      console.debug(blue(url), red("YLT analysis failed"))
-      continue
-    } else if (status === "complete") {
-      console.debug(blue(url), blue("updating record..."))
-      await updateRecord(runId, url)
-      continue
-    } else {
-      console.debug(blue(url), white("job incomplete, pushing back"))
-      // not done yet, add it back
-      jobs.push(job)
-      // wait a bit before checking again
-      await sleep(1000)
+      if (status === "failed") {
+        statistics.errors.push(`YLT analysis failed for ${url} (run id: ${runId})`)
+        console.debug(blue(url), red("YLT analysis failed"))
+        continue
+      } else if (status === "complete") {
+        console.debug(blue(url), blue("updating record..."))
+        await updateRecord(runId, url)
+        continue
+      } else {
+        console.debug(blue(url), white("job incomplete, pushing back"))
+        jobs.push(Promise.resolve(runId))
+        await sleep(1000)
+      }
     }
   }
-
-  handleBatch()
+  showStatistics()
 }
 
 console.log('Starting...')
-handleBatch()
+handleBatch().catch(console.error)
