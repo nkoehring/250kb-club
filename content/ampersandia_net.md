@@ -1,11 +1,11 @@
 +++
 title = "ampersandia.net"
 date = "2022-04-11"
-updated = "2026-03-13"
-weight = 137963
+updated = "2026-05-09"
+weight = 137406
 
 [extra]
 source = "https://ampersandia.net/"
-ratio = 4
-size = 135
+ratio = 3
+size = 134
 +++

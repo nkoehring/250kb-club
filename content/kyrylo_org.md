@@ -1,11 +1,11 @@
 +++
 title = "kyrylo.org"
 date = "2025-05-11"
-updated = "2026-03-13"
-weight = 51927
+updated = "2026-05-09"
+weight = 54992
 
 [extra]
 source = "https://kyrylo.org/"
-ratio = 19
-size = 51
+ratio = 18
+size = 54
 +++

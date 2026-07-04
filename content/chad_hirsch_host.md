@@ -1,8 +1,8 @@
 +++
 title = "chad.hirsch.host"
 date = "2022-03-22"
-updated = "2026-03-13"
-weight = 25354
+updated = "2026-05-09"
+weight = 25523
 
 [extra]
 source = "https://chad.hirsch.host"

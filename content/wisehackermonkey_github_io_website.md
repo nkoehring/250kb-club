@@ -1,7 +1,7 @@
 +++
 title = "wisehackermonkey.github.io/website"
 date = "2024-08-01"
-updated = "2026-03-13"
+updated = "2026-05-09"
 weight = 1287
 
 [extra]

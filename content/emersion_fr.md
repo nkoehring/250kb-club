@@ -1,8 +1,8 @@
 +++
 title = "emersion.fr"
 date = "2022-03-22"
-updated = "2026-03-13"
-weight = 226183
+updated = "2026-05-09"
+weight = 226206
 
 [extra]
 source = "https://emersion.fr/"

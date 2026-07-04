@@ -1,11 +1,11 @@
 +++
 title = "www.unsungnovelty.org"
 date = "2023-05-10"
-updated = "2026-03-13"
-weight = 29832
+updated = "2026-05-09"
+weight = 31719
 
 [extra]
 source = "https://www.unsungnovelty.org/"
-ratio = 60
-size = 29
+ratio = 57
+size = 31
 +++

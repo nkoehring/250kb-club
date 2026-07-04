@@ -1,11 +1,11 @@
 +++
 title = "www.codedge.de"
 date = "2025-11-02"
-updated = "2026-03-13"
-weight = 165502
+updated = "2026-05-09"
+weight = 165338
 
 [extra]
 source = "https://www.codedge.de"
 ratio = 4
-size = 162
+size = 161
 +++

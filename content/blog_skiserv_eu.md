@@ -1,8 +1,8 @@
 +++
 title = "blog.skiserv.eu"
 date = "2023-07-15"
-updated = "2026-03-13"
-weight = 26566
+updated = "2026-05-09"
+weight = 26608
 
 [extra]
 source = "https://blog.skiserv.eu/"

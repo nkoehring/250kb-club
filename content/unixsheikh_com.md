@@ -1,11 +1,11 @@
 +++
 title = "unixsheikh.com"
 date = "2022-03-22"
-updated = "2026-03-13"
-weight = 61960
+updated = "2026-05-09"
+weight = 20311
 
 [extra]
 source = "https://unixsheikh.com/"
-ratio = 70
-size = 61
+ratio = 12
+size = 20
 +++

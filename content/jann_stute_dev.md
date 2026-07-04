@@ -1,11 +1,11 @@
 +++
 title = "jann.stute.dev"
 date = "2025-10-28"
-updated = "2026-03-13"
-weight = 14355
+updated = "2026-05-09"
+weight = 14426
 
 [extra]
 source = "https://jann.stute.dev/"
-ratio = 9
+ratio = 10
 size = 14
 +++

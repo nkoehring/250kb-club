@@ -1,11 +1,11 @@
 +++
 title = "nk.is-a.dev"
 date = "2024-01-08"
-updated = "2026-03-13"
-weight = 38997
+updated = "2026-05-09"
+weight = 39584
 
 [extra]
 source = "https://nk.is-a.dev/"
-ratio = 27
-size = 38
+ratio = 28
+size = 39
 +++

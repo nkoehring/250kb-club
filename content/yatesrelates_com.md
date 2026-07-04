@@ -1,8 +1,8 @@
 +++
 title = "yatesrelates.com"
 date = "2025-01-03"
-updated = "2026-03-13"
-weight = 28292
+updated = "2026-05-09"
+weight = 28295
 
 [extra]
 source = "https://yatesrelates.com/"

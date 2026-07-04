@@ -1,11 +1,11 @@
 +++
 title = "elyserobinson.com"
 date = "2025-11-02"
-updated = "2026-03-13"
-weight = 1681
+updated = "2026-05-09"
+weight = 1309
 
 [extra]
 source = "https://elyserobinson.com/"
-ratio = 89
-size = 2
+ratio = 86
+size = 1
 +++

@@ -1,8 +1,8 @@
 +++
 title = "LokiList.com"
 date = "2025-01-03"
-updated = "2026-03-13"
-weight = 50472
+updated = "2026-05-09"
+weight = 50457
 
 [extra]
 source = "https://LokiList.com/"

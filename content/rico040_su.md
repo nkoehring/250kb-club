@@ -1,11 +1,11 @@
 +++
 title = "rico040.su"
 date = "2024-10-27"
-updated = "2026-03-13"
-weight = 90532
+updated = "2026-05-09"
+weight = 90925
 
 [extra]
 source = "https://rico040.su/"
-ratio = 38
-size = 88
+ratio = 39
+size = 89
 +++

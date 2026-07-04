@@ -1,8 +1,8 @@
 +++
 title = "httpguides.com"
 date = "2023-11-17"
-updated = "2026-03-13"
-weight = 8592
+updated = "2026-05-09"
+weight = 8604
 
 [extra]
 source = "https://httpguides.com/"

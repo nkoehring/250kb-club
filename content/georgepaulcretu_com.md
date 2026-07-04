@@ -1,11 +1,11 @@
 +++
 title = "georgepaulcretu.com"
 date = "2025-09-02"
-updated = "2026-03-13"
-weight = 82164
+updated = "2026-05-09"
+weight = 95009
 
 [extra]
 source = "https://georgepaulcretu.com/"
-ratio = 32
-size = 80
+ratio = 29
+size = 93
 +++

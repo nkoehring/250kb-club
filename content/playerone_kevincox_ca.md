@@ -1,11 +1,11 @@
 +++
 title = "playerone.kevincox.ca"
 date = "2022-03-22"
-updated = "2026-03-13"
-weight = 10764
+updated = "2026-05-09"
+weight = 10592
 
 [extra]
 source = "https://playerone.kevincox.ca"
-ratio = 71
-size = 11
+ratio = 72
+size = 10
 +++

@@ -1,8 +1,8 @@
 +++
 title = "bestmotherfucking.website"
 date = "2022-03-22"
-updated = "2026-03-13"
-weight = 3280
+updated = "2026-05-09"
+weight = 3302
 
 [extra]
 source = "https://bestmotherfucking.website/"

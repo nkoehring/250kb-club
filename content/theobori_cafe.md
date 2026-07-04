@@ -1,11 +1,11 @@
 +++
 title = "theobori.cafe"
 date = "2023-11-17"
-updated = "2026-03-13"
-weight = 133255
+updated = "2026-05-09"
+weight = 134524
 
 [extra]
 source = "https://theobori.cafe/"
-ratio = 20
-size = 130
+ratio = 21
+size = 131
 +++

@@ -1,11 +1,11 @@
 +++
 title = "riz0me.bearblog.dev"
 date = "2025-10-28"
-updated = "2026-03-13"
-weight = 4615
+updated = "2026-05-09"
+weight = 8770
 
 [extra]
 source = "https://riz0me.bearblog.dev/"
-ratio = 100
-size = 5
+ratio = 43
+size = 9
 +++

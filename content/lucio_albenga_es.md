@@ -1,11 +1,11 @@
 +++
 title = "lucio.albenga.es"
 date = "2025-10-28"
-updated = "2026-03-13"
-weight = 75505
+updated = "2026-05-09"
+weight = 74884
 
 [extra]
 source = "https://lucio.albenga.es/"
-ratio = 25
-size = 74
+ratio = 24
+size = 73
 +++
