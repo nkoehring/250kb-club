@@ -58,8 +58,6 @@ export async function retrieveMetrics(runId: string): Promise<Metric | null> {
     scores: {
       pageWeight:
         data.scoreProfiles.generic.categories.pageWeight.categoryScore,
-      requests:
-        data.scoreProfiles.generic.categories.requests.categoryScore,
       domComplexity:
         data.scoreProfiles.generic.categories.domComplexity.categoryScore,
       javascriptComplexity:
@@ -77,7 +75,6 @@ export async function retrieveMetrics(runId: string): Promise<Metric | null> {
       globalScore: data.scoreProfiles.generic.globalScore,
     },
     metrics: {
-      requests: data.toolsResults.phantomas.metrics.requests,
       bodySize: data.toolsResults.phantomas.metrics.bodySize,
       contentLength: data.toolsResults.phantomas.metrics.contentLength,
       htmlSize: data.toolsResults.phantomas.metrics.htmlSize,
