@@ -88,24 +88,20 @@
 
   <ol>
   {% for page in paginator.pages %}
-    <li style="--size:{{ page.extra.size }};--ratio:{{ page.extra.ratio }}%">
-      <div class="entry">
-        <span class="url">
-          <a href="/{{ page.slug }}">{{ page.title }}</a>
-        </span>
-        <span class="size">{{ page.extra.size }}kb</span>
-        <span class="ratio">{{ page.extra.ratio }}%</span>
-        <span class="open-page">
-          <a href="{{ page.extra.source }}" rel="noopener" target="_blank">
-            <img src="/export.png" alt="open {{ page.title }} in a new tab or window" />
-          </a>
-        </span>
+    <li class="pe" style="--size:{{ page.extra.size }};--ratio:{{ page.extra.ratio }}%">
+      <div>
+        <a href="/{{ page.slug }}">{{ page.title }}</a>
+        <b>{{ page.extra.size }}kb</b>
+        <b>{{ page.extra.ratio }}%</b>
+        <a href="{{ page.extra.source }}" rel="noopener" target="_blank">open</a>
       </div>
-      <div class="entry-size-bar highlighted"></div>
-      <div class="entry-ratio-bar highlighted"></div>
+      <hr />
+      <hr />
     </li>
   {% endfor %}
   </ol>
+
+  <hr />
 
   <!--nav id="pager" itemscope itemtype="http://schema.org/SiteNavigationElement">
     <span>

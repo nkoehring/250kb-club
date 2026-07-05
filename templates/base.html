@@ -96,7 +96,11 @@
     }
     #info-toggle:checked ~ #info-popup { display: block; }
 
-    .entry {
+    .pe {
+      display: flex;
+      flex-flow: column nowrap;
+    }
+    .pe > div {
       display: flex;
       flex-flow: row nowrap;
       justify-content: space-between;
@@ -106,38 +110,38 @@
       font-size: 1.3em;
     }
 
-    .entry > .url {
+    .pe > div > a:first-of-type {
       flex: 1 1 auto;
       width: 70%;
       overflow: hidden;
       text-overflow: ellipsis;
     }
-    .entry > .size, .entry > .ratio, .entry > .open-page {
+    .pe > div > b {
       flex: 0 0 auto;
       width: 10%;
       text-align: right;
     }
-    .entry > .open-page img {
-      max-height: 32px;
-      margin-top: 4px;
+    .pe > div > a:last-of-type {
+      color: transparent;
+      width: 10%;
+      background: transparent url("/export.png") center no-repeat;
+      background-size: 1.5rem;
     }
-
-    .entry-size-bar, .entry-ratio-bar {
-      height: 0;
-      margin-bottom: 2px;
-      border-bottom: 2px solid;
+    .pe > hr {
+      height: 3px;
+      margin: 1px 0;
+      width: auto;
+      border: none;
     }
-    .entry-size-bar.highlighted, .entry-ratio-bar.highlighted {
-      border-bottom-width: 4px;
-    }
-    .entry-size-bar {
-      border-bottom-color: #E44;
+    .pe > hr:first-of-type {
+      background-color: #E44;
       width: calc(var(--size)/256 * 100%);
     }
-    .entry-ratio-bar {
-      border-bottom-color: #56B;
+    .pe > hr:last-of-type {
+      background-color: #56B;
       width: var(--ratio);
     }
+
     #pager {
       display: flex;
       flex-flow: row nowrap;
