@@ -7,7 +7,31 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://250kb.club/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>casuallyblue.dev</title>
+          <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+          <author>koehr</author>
+          <link>https://250kb.club/casuallyblue-dev/</link>
+          <guid>https://250kb.club/casuallyblue-dev/</guid>
+          <description xml:base="https://250kb.club/casuallyblue-dev/"></description>
+      </item>
+      <item>
+          <title>george.mand.is</title>
+          <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+          <author>koehr</author>
+          <link>https://250kb.club/george-mand-is/</link>
+          <guid>https://250kb.club/george-mand-is/</guid>
+          <description xml:base="https://250kb.club/george-mand-is/"></description>
+      </item>
+      <item>
+          <title>quitsocialmedia.club&#x2F;home</title>
+          <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+          <author>koehr</author>
+          <link>https://250kb.club/quitsocialmedia-club-home/</link>
+          <guid>https://250kb.club/quitsocialmedia-club-home/</guid>
+          <description xml:base="https://250kb.club/quitsocialmedia-club-home/"></description>
+      </item>
       <item>
           <title>blog.fefe.de</title>
           <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
@@ -289,14 +313,6 @@
           <description xml:base="https://250kb.club/textplain-blog/"></description>
       </item>
       <item>
-          <title>unquoting.com</title>
-          <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/unquoting-com/</link>
-          <guid>https://250kb.club/unquoting-com/</guid>
-          <description xml:base="https://250kb.club/unquoting-com/"></description>
-      </item>
-      <item>
           <title>www.codedge.de</title>
           <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
           <author>koehr</author>
@@ -375,14 +391,6 @@
           <link>https://250kb.club/offensivename-com/</link>
           <guid>https://250kb.club/offensivename-com/</guid>
           <description xml:base="https://250kb.club/offensivename-com/"></description>
-      </item>
-      <item>
-          <title>raccoon.bearblog.dev</title>
-          <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/raccoon-bearblog-dev/</link>
-          <guid>https://250kb.club/raccoon-bearblog-dev/</guid>
-          <description xml:base="https://250kb.club/raccoon-bearblog-dev/"></description>
       </item>
       <item>
           <title>riz0me.bearblog.dev</title>
@@ -559,14 +567,6 @@
           <link>https://250kb.club/lyra-horse/</link>
           <guid>https://250kb.club/lyra-horse/</guid>
           <description xml:base="https://250kb.club/lyra-horse/"></description>
-      </item>
-      <item>
-          <title>monocyte.bearblog.dev</title>
-          <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/monocyte-bearblog-dev/</link>
-          <guid>https://250kb.club/monocyte-bearblog-dev/</guid>
-          <description xml:base="https://250kb.club/monocyte-bearblog-dev/"></description>
       </item>
       <item>
           <title>oneoffinvoice.com</title>
@@ -839,14 +839,6 @@
           <link>https://250kb.club/eldred-fr/</link>
           <guid>https://250kb.club/eldred-fr/</guid>
           <description xml:base="https://250kb.club/eldred-fr/"></description>
-      </item>
-      <item>
-          <title>george.mand.is</title>
-          <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/george-mand-is/</link>
-          <guid>https://250kb.club/george-mand-is/</guid>
-          <description xml:base="https://250kb.club/george-mand-is/"></description>
       </item>
       <item>
           <title>r1w1s1.srht.site</title>
@@ -1281,14 +1273,6 @@
           <description xml:base="https://250kb.club/litew-pages-dev/"></description>
       </item>
       <item>
-          <title>maniek86.xyz</title>
-          <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/maniek86-xyz/</link>
-          <guid>https://250kb.club/maniek86-xyz/</guid>
-          <description xml:base="https://250kb.club/maniek86-xyz/"></description>
-      </item>
-      <item>
           <title>old.net.eu.org</title>
           <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
           <author>koehr</author>
@@ -1369,14 +1353,6 @@
           <description xml:base="https://250kb.club/cashx-pages-dev/"></description>
       </item>
       <item>
-          <title>casuallyblue.dev</title>
-          <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/casuallyblue-dev/</link>
-          <guid>https://250kb.club/casuallyblue-dev/</guid>
-          <description xml:base="https://250kb.club/casuallyblue-dev/"></description>
-      </item>
-      <item>
           <title>darktheme.club</title>
           <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
           <author>koehr</author>
@@ -1447,14 +1423,6 @@
           <link>https://250kb.club/thedroth-rocks/</link>
           <guid>https://250kb.club/thedroth-rocks/</guid>
           <description xml:base="https://250kb.club/thedroth-rocks/"></description>
-      </item>
-      <item>
-          <title>visil.gw.lt</title>
-          <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/visil-gw-lt/</link>
-          <guid>https://250kb.club/visil-gw-lt/</guid>
-          <description xml:base="https://250kb.club/visil-gw-lt/"></description>
       </item>
       <item>
           <title>xtrm.me</title>
@@ -2201,14 +2169,6 @@
           <description xml:base="https://250kb.club/cli-club/"></description>
       </item>
       <item>
-          <title>erikjohannes.no</title>
-          <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/erikjohannes-no/</link>
-          <guid>https://250kb.club/erikjohannes-no/</guid>
-          <description xml:base="https://250kb.club/erikjohannes-no/"></description>
-      </item>
-      <item>
           <title>julia.school</title>
           <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
           <author>koehr</author>
@@ -2937,14 +2897,6 @@
           <description xml:base="https://250kb.club/fossdd-codeberg-page/"></description>
       </item>
       <item>
-          <title>foxwells.garden</title>
-          <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/foxwells-garden/</link>
-          <guid>https://250kb.club/foxwells-garden/</guid>
-          <description xml:base="https://250kb.club/foxwells-garden/"></description>
-      </item>
-      <item>
           <title>freesolitaire.win</title>
           <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
           <author>koehr</author>
@@ -3105,14 +3057,6 @@
           <description xml:base="https://250kb.club/jvanelian-dev/"></description>
       </item>
       <item>
-          <title>jvelo.at</title>
-          <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/jvelo-at/</link>
-          <guid>https://250kb.club/jvelo-at/</guid>
-          <description xml:base="https://250kb.club/jvelo-at/"></description>
-      </item>
-      <item>
           <title>karolis.koncevicius.lt</title>
           <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
           <author>koehr</author>
@@ -3127,14 +3071,6 @@
           <link>https://250kb.club/kayafirat-com/</link>
           <guid>https://250kb.club/kayafirat-com/</guid>
           <description xml:base="https://250kb.club/kayafirat-com/"></description>
-      </item>
-      <item>
-          <title>kevq.uk</title>
-          <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/kevq-uk/</link>
-          <guid>https://250kb.club/kevq-uk/</guid>
-          <description xml:base="https://250kb.club/kevq-uk/"></description>
       </item>
       <item>
           <title>kidl.at</title>
@@ -3319,14 +3255,6 @@
           <link>https://250kb.club/mineralexistence-com-home-html/</link>
           <guid>https://250kb.club/mineralexistence-com-home-html/</guid>
           <description xml:base="https://250kb.club/mineralexistence-com-home-html/"></description>
-      </item>
-      <item>
-          <title>minid.net</title>
-          <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/minid-net/</link>
-          <guid>https://250kb.club/minid-net/</guid>
-          <description xml:base="https://250kb.club/minid-net/"></description>
       </item>
       <item>
           <title>minwiz.com</title>
@@ -3631,14 +3559,6 @@
           <link>https://250kb.club/seirdy-one/</link>
           <guid>https://250kb.club/seirdy-one/</guid>
           <description xml:base="https://250kb.club/seirdy-one/"></description>
-      </item>
-      <item>
-          <title>shazow.net</title>
-          <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-          <author>koehr</author>
-          <link>https://250kb.club/shazow-net/</link>
-          <guid>https://250kb.club/shazow-net/</guid>
-          <description xml:base="https://250kb.club/shazow-net/"></description>
       </item>
       <item>
           <title>sizi.ng</title>
