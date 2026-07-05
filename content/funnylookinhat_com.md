@@ -1,11 +1,11 @@
 +++
 title = "funnylookinhat.com"
 date = "2022-03-22"
-updated = "2026-05-09"
-weight = 16517
+updated = "2026-07-05"
+weight = 17037
 
 [extra]
 source = "https://funnylookinhat.com/"
-ratio = 84
-size = 16
+ratio = 85
+size = 17
 +++

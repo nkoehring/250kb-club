@@ -1,11 +1,11 @@
 +++
 title = "zupzup.org"
 date = "2022-03-22"
-updated = "2026-05-09"
-weight = 8455
+updated = "2026-07-05"
+weight = 8478
 
 [extra]
 source = "https://zupzup.org/"
-ratio = 93
+ratio = 92
 size = 8
 +++

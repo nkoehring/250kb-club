@@ -1,8 +1,8 @@
 +++
 title = "nk.is-a.dev"
 date = "2024-01-08"
-updated = "2026-05-09"
-weight = 39584
+updated = "2026-07-05"
+weight = 39587
 
 [extra]
 source = "https://nk.is-a.dev/"

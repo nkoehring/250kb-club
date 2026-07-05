@@ -1,11 +1,11 @@
 +++
 title = "francescoro.si"
 date = "2024-10-27"
-updated = "2026-05-09"
-weight = 56541
+updated = "2026-07-05"
+weight = 59536
 
 [extra]
 source = "https://francescoro.si/"
-ratio = 20
-size = 55
+ratio = 24
+size = 58
 +++

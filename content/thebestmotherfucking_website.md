@@ -1,11 +1,11 @@
 +++
 title = "thebestmotherfucking.website"
 date = "2022-03-22"
-updated = "2026-05-09"
-weight = 57127
+updated = "2026-07-05"
+weight = 57206
 
 [extra]
 source = "https://thebestmotherfucking.website/"
-ratio = 67
+ratio = 68
 size = 56
 +++

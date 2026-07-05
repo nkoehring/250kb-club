@@ -1,7 +1,7 @@
 +++
 title = "blog.fefe.de"
 date = "2026-01-28"
-updated = "2026-05-09"
+updated = "2026-07-05"
 weight = 1160
 
 [extra]

@@ -1,7 +1,7 @@
 +++
 title = "250kb.club"
 date = "2022-02-22"
-updated = "2026-05-09"
+updated = "2026-07-05"
 weight = 26769
 
 [extra]

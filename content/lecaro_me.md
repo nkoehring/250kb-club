@@ -1,8 +1,8 @@
 +++
 title = "lecaro.me"
 date = "2023-03-17"
-updated = "2026-05-09"
-weight = 20308
+updated = "2026-07-05"
+weight = 20310
 
 [extra]
 source = "https://lecaro.me"

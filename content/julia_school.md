@@ -1,8 +1,8 @@
 +++
 title = "julia.school"
 date = "2023-01-31"
-updated = "2026-05-09"
-weight = 10949
+updated = "2026-07-05"
+weight = 10920
 
 [extra]
 source = "https://julia.school"

@@ -1,7 +1,7 @@
 +++
 title = "schnouki.net"
 date = "2025-01-27"
-updated = "2026-05-09"
+updated = "2026-07-05"
 weight = 51991
 
 [extra]

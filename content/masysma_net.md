@@ -1,7 +1,7 @@
 +++
 title = "masysma.net"
 date = "2023-08-05"
-updated = "2026-05-09"
+updated = "2026-07-05"
 weight = 6711
 
 [extra]

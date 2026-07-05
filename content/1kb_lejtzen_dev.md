@@ -1,7 +1,7 @@
 +++
 title = "1kb.lejtzen.dev"
 date = "2022-11-28"
-updated = "2026-05-09"
+updated = "2026-07-05"
 weight = 1046
 
 [extra]

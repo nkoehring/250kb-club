@@ -1,11 +1,11 @@
 +++
 title = "www.johnwalker.nl"
 date = "2025-01-27"
-updated = "2026-05-09"
-weight = 11172
+updated = "2026-07-05"
+weight = 11093
 
 [extra]
 source = "https://www.johnwalker.nl/"
-ratio = 18
+ratio = 17
 size = 11
 +++

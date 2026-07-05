@@ -1,7 +1,7 @@
 +++
 title = "gerikson.com"
 date = "2022-03-22"
-updated = "2026-05-09"
+updated = "2026-07-05"
 weight = 6679
 
 [extra]

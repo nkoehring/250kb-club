@@ -1,8 +1,8 @@
 +++
 title = "wito.bar"
 date = "2023-11-17"
-updated = "2026-05-09"
-weight = 71366
+updated = "2026-07-05"
+weight = 71387
 
 [extra]
 source = "https://wito.bar/"

@@ -1,11 +1,11 @@
 +++
 title = "midnight.pub"
 date = "2022-03-22"
-updated = "2026-05-09"
-weight = 10936
+updated = "2026-07-05"
+weight = 11096
 
 [extra]
 source = "https://midnight.pub/"
-ratio = 91
+ratio = 92
 size = 11
 +++

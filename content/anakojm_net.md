@@ -1,11 +1,11 @@
 +++
 title = "anakojm.net"
 date = "2024-04-25"
-updated = "2026-05-09"
-weight = 94391
+updated = "2026-07-05"
+weight = 170373
 
 [extra]
 source = "https://anakojm.net/"
-ratio = 7
-size = 92
+ratio = 4
+size = 166
 +++

@@ -1,8 +1,8 @@
 +++
 title = "0xedward.io"
 date = "2022-03-22"
-updated = "2026-05-09"
-weight = 15114
+updated = "2026-07-05"
+weight = 15076
 
 [extra]
 source = "https://0xedward.io/"

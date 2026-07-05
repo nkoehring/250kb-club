@@ -1,8 +1,8 @@
 +++
 title = "dostoynikov.com"
 date = "2025-10-28"
-updated = "2026-05-09"
-weight = 4751
+updated = "2026-07-05"
+weight = 4773
 
 [extra]
 source = "https://dostoynikov.com/"

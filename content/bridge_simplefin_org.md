@@ -1,8 +1,8 @@
 +++
 title = "bridge.simplefin.org"
 date = "2022-03-22"
-updated = "2026-05-09"
-weight = 10647
+updated = "2026-07-05"
+weight = 10660
 
 [extra]
 source = "https://bridge.simplefin.org"

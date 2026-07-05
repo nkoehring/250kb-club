@@ -1,11 +1,11 @@
 +++
 title = "kirillunlimited.com"
 date = "2023-11-17"
-updated = "2026-05-09"
-weight = 78347
+updated = "2026-07-05"
+weight = 78046
 
 [extra]
 source = "https://kirillunlimited.com/"
 ratio = 4
-size = 77
+size = 76
 +++

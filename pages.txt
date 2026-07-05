@@ -45,7 +45,6 @@ https://danielsada.tech/
 https://xubuntu.org/
 https://www.tarsnap.com/
 https://ylukem.com/
-https://jvelo.at/
 http://dpldocs.info/this-week-in-d/Blog.html
 https://lucianmarin.com/
 https://www.rowlingindex.org/
@@ -146,8 +145,6 @@ https://cnx.gdn
 https://huyngo.envs.net
 https://fmarier.org/
 https://noulin.net/blog/
-https://artemislena.eu/
-https://gtrr.artemislena.eu/
 https://linuxguideandhints.com/
 https://0xedward.io/
 https://lukesempire.com/
@@ -210,7 +207,6 @@ https://perfectlighthousescores.com
 https://aitrack.work/
 https://julia.school
 https://lukealexdavis.co.uk/
-https://erikjohannes.no/
 https://cli.club/
 https://adambuczek.com
 https://ayham.xyz/
@@ -248,7 +244,6 @@ https://blog.skiserv.eu/
 https://colincogle.name/
 https://jakk.dev/
 https://vk7.eu/
-https://godteeth.com/
 https://asukaminato.eu.org/
 https://sayansivakumaran.com/
 https://iyaki.ar/
@@ -258,7 +253,6 @@ https://ploum.net/
 https://brunofontes.net/
 http://arc-x.org/
 https://wito.bar/
-https://akgbhat.github.io/
 https://giraud.eu/
 https://mathijs.vgorcum.com/
 https://bishwasaha.com/
@@ -266,7 +260,6 @@ https://httpguides.com/
 https://kirillunlimited.com/
 https://theobori.cafe/
 https://beuke.org/
-https://erikjohannes.no/
 https://rb.ax/
 https://sahil.kokamkar.com/
 https://elblogdemanu.com/
@@ -308,7 +301,6 @@ https://xtrm.me/
 https://gilcu3.website/
 https://anakojm.net/
 https://secu.pages.dev/
-https://visil.gw.lt/
 https://jagrg.org/
 https://www.thorlaksson.com/
 https://crtv.pages.dev/
@@ -316,7 +308,6 @@ https://litew.pages.dev/
 https://jano.sh/
 https://avidseeker.github.io/
 https://chromora.com/
-https://maniek86.xyz/
 https://retro.maniek86.xyz/
 https://dostoynikov.com/
 http://old.net.eu.org/
@@ -330,7 +321,6 @@ https://ducks.party/s3
 https://kenhv.com
 https://pup-e.com/
 https://wisehackermonkey.github.io/website/
-https://mat383.com/
 https://tmpod.dev/
 https://waelk.tech/
 https://teapot.chat/
@@ -347,13 +337,11 @@ https://blog.x-way.org/
 https://bobbyhiltz.com/
 https://world-playground-deceit.net/
 https://francescoro.si/
-https://yatesrelates.com/
 https://home.hedy.dev/
 https://dracol.ing/
 https://davidandkay.me.uk/
 https://www.websitecarbon.com/
 https://blog.tt4e.com/
-https://yatesrelates.com/
 https://tpaefawzen.github.io/
 https://LokiList.com/
 https://pavel.pikirenia.me/

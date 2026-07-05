@@ -1,7 +1,7 @@
 +++
 title = "blog.tt4e.com"
 date = "2025-01-03"
-updated = "2026-05-09"
+updated = "2026-07-05"
 weight = 5773
 
 [extra]

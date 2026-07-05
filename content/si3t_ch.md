@@ -1,11 +1,11 @@
 +++
 title = "si3t.ch"
 date = "2023-04-17"
-updated = "2026-05-09"
-weight = 3159
+updated = "2026-07-05"
+weight = 3231
 
 [extra]
 source = "http://si3t.ch/"
-ratio = 71
+ratio = 72
 size = 3
 +++

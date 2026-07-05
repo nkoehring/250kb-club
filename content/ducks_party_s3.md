@@ -1,8 +1,8 @@
 +++
 title = "ducks.party/s3"
 date = "2024-08-01"
-updated = "2026-05-09"
-weight = 72782
+updated = "2026-07-05"
+weight = 72762
 
 [extra]
 source = "https://ducks.party/s3"
