@@ -1,3 +1,5 @@
 node_modules
 yltresults/*
 *.bak
+review-issues.json
+pages.*.txt

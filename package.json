@@ -11,6 +11,8 @@
     "dev": "zola serve",
     "build": "zola build",
     "update-pages": "deno run --allow-read --allow-write --allow-net index.ts",
+    "review:extract": "deno run --allow-read --allow-write --allow-net --allow-env review/extract.ts",
+    "review:respond": "deno run --allow-read --allow-net --allow-env review/respond.ts",
     "ylt": "docker run --privileged -p 8383:8383 -v $PWD/yltresults:/usr/src/ylt/results ousamabenyounes/yellowlabtools"
   }
 }
