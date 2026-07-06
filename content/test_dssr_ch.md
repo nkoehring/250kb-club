@@ -1,8 +1,8 @@
 +++
 title = "test.dssr.ch"
 date = "2025-12-21"
-updated = "2026-05-09"
-weight = 3256
+updated = "2026-07-06"
+weight = 3255
 
 [extra]
 source = "https://test.dssr.ch/"

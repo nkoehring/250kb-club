@@ -1,11 +1,11 @@
 +++
 title = "mattlacey.com"
 date = "2025-10-28"
-updated = "2026-05-09"
-weight = 6047
+updated = "2026-07-06"
+weight = 5965
 
 [extra]
 source = "https://mattlacey.com/"
-ratio = 30
+ratio = 31
 size = 6
 +++

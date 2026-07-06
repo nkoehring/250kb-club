@@ -1,7 +1,7 @@
 +++
 title = "doomdesire.dev"
 date = "2025-10-28"
-updated = "2026-05-09"
+updated = "2026-07-06"
 weight = 45800
 
 [extra]

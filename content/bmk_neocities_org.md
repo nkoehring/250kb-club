@@ -1,7 +1,7 @@
 +++
 title = "bmk.neocities.org"
 date = "2026-01-28"
-updated = "2026-05-09"
+updated = "2026-07-06"
 weight = 78783
 
 [extra]

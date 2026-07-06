@@ -1,8 +1,8 @@
 +++
 title = "www.monotux.tech"
 date = "2025-11-02"
-updated = "2026-05-09"
-weight = 11636
+updated = "2026-07-06"
+weight = 11611
 
 [extra]
 source = "https://www.monotux.tech/"

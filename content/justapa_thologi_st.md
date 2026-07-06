@@ -1,11 +1,11 @@
 +++
 title = "justapa.thologi.st"
 date = "2026-01-28"
-updated = "2026-05-09"
-weight = 77440
+updated = "2026-07-06"
+weight = 117027
 
 [extra]
 source = "https://justapa.thologi.st/"
-ratio = 96
-size = 76
+ratio = 97
+size = 114
 +++

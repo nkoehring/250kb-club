@@ -1,11 +1,11 @@
 +++
 title = "businessnutshell.com"
 date = "2025-12-21"
-updated = "2026-05-09"
-weight = 5032
+updated = "2026-07-06"
+weight = 2040
 
 [extra]
 source = "https://businessnutshell.com/"
-ratio = 98
-size = 5
+ratio = 96
+size = 2
 +++

@@ -1,11 +1,11 @@
 +++
 title = "erickcestari.dev"
 date = "2025-12-21"
-updated = "2026-05-09"
-weight = 13760
+updated = "2026-07-06"
+weight = 16723
 
 [extra]
 source = "https://erickcestari.dev/"
-ratio = 78
-size = 13
+ratio = 67
+size = 16
 +++

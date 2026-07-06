@@ -1,8 +1,8 @@
 +++
 title = "janetdocs.org"
 date = "2025-10-28"
-updated = "2026-05-09"
-weight = 31563
+updated = "2026-07-06"
+weight = 31668
 
 [extra]
 source = "https://janetdocs.org/"

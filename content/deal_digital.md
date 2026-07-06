@@ -1,8 +1,8 @@
 +++
 title = "deal.digital"
 date = "2025-09-02"
-updated = "2026-05-09"
-weight = 65921
+updated = "2026-07-06"
+weight = 65924
 
 [extra]
 source = "https://deal.digital/"

@@ -1,8 +1,8 @@
 +++
 title = "www.bkapteijn.nl"
 date = "2025-10-28"
-updated = "2026-05-09"
-weight = 8680
+updated = "2026-07-06"
+weight = 8701
 
 [extra]
 source = "https://www.bkapteijn.nl/"

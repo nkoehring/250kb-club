@@ -1,11 +1,11 @@
 +++
 title = "www.siddharthagolu.com"
 date = "2026-01-28"
-updated = "2026-05-09"
-weight = 66393
+updated = "2026-07-06"
+weight = 67327
 
 [extra]
 source = "https://www.siddharthagolu.com/"
-ratio = 32
-size = 65
+ratio = 31
+size = 66
 +++

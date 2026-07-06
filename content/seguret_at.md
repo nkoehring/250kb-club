@@ -1,8 +1,8 @@
 +++
 title = "seguret.at"
 date = "2026-01-28"
-updated = "2026-05-09"
-weight = 188568
+updated = "2026-07-06"
+weight = 188566
 
 [extra]
 source = "https://seguret.at/"

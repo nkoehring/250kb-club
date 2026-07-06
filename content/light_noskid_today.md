@@ -1,8 +1,8 @@
 +++
 title = "light.noskid.today"
 date = "2025-09-02"
-updated = "2026-05-09"
-weight = 28368
+updated = "2026-07-06"
+weight = 28272
 
 [extra]
 source = "https://light.noskid.today/"
