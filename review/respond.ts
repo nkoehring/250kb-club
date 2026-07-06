@@ -14,7 +14,7 @@ interface ReviewEntry {
 
 const ACCEPTED_BODY = `🎉 **Your site has been added to the 250kb Club!**
 
-It's now listed at https://250kb.club and will be periodically re-checked to ensure it stays under the 256 KB threshold.
+It will be listed at {CLUBURL} after the next deployment and will be periodically re-checked to ensure it stays under the 256 KB threshold.
 
 Thanks for contributing!`
 
@@ -72,7 +72,14 @@ async function closeIssue(issueNumber: number): Promise<boolean> {
 
 for (const entry of reviewData) {
   const accepted = acceptedUrls.has(entry.url)
-  const body = accepted ? ACCEPTED_BODY : REJECTED_BODY
+
+  let body
+  if (accepted) {
+    const clubUrl = `https://250kb.club/${entry.url.replace(/^https?:\/\//,'').replace(/\/$/,'').replaceAll(/[.\/_]/g,'-')}/`
+    body = ACCEPTED_BODY.replace('{CLUBURL}', clubUrl)
+  } else {
+    body = REJECTED_BODY
+  }
 
   const commented = await postComment(entry.issue, body)
   if (!commented) {
