@@ -1,5 +1,14 @@
 # 250kb-club
 
+The club moved to [Codeberg](https://codeberg.org/koehr/250kb-club/)! This is a public archive and signpost now.
+
+| |
+|---|
+| Go to [Codeberg](https://codeberg.org/koehr/250kb-club/) |
+| |
+
+## What is the 250kB Club?
+
 An exclusive members-only club for web pages weighing no more than [256kb](https://256kb.club).
 
 Inspired by [Bradley Taunt's 1MB.club](https://1mb.club/).
@@ -13,21 +22,24 @@ Of course, the absolute size of a website is not a perfect indicator. A page mig
 
 ## Adding a web page
 
-~~Please send a patch or pull request.~~ Please write an issue/ticket mentioning the website(s). The website(s) will be added after passing the review. Content checks are repeated in irregular intervals.
-
-If you read this on Github, use the corresponding [issue template for requesting membership](https://github.com/nkoehring/250kb-club/issues/new?assignees=nkoehring&labels=Membership%20Request&projects=&template=request-membership.md&title=%5BSITE+REQUEST%5D%20https%3A%2F%2FPLEASE_ADD_URL).
+| |
+|---|
+| [Please Request Membership here](https://codeberg.org/koehr/250kb-club/issues/new?template=.github%2fISSUE_TEMPLATE%2frequest-membership.md) |
+| |
 
 ## Updating a web page
 
-Please write an issue/ticket mentioning which URL should be updated to what.
-
-If you read this on Github, use the corresponding [issue template for updating an URL](https://github.com/nkoehring/250kb-club/issues/new?assignees=nkoehring&labels=Membership%20Update&projects=&template=update-membership.md&title=%5BSITE+UPDATE%5D%20https%3A%2F%2FOLD_URL%20to%20https%3A%2F%2FNEW_URL).
+| |
+|---|
+| [Please Update Memberships here](https://codeberg.org/koehr/250kb-club/issues/new?template=.github%2fISSUE_TEMPLATE%2fupdate-membership.md) |
+| |
 
 ## Removing a web page
 
-Please write an issue/ticket mentioning which URL should be removed and add a proof that it was you who initially requested to add it.
-
-If you read this on Github, use the corresponding [issue template for removing an URL](https://github.com/nkoehring/250kb-club/issues/new?assignees=nkoehring&labels=Membership%20Update&projects=&template=cancel-membership.md&title=%5BSITE+UPDATE%5D%20remove%20https%3A%2F%2FURL).
+| |
+|---|
+| [Please Cancel Memberships here](https://codeberg.org/koehr/250kb-club/issues/new?template=.github%2fISSUE_TEMPLATE%2fcancel-membership.md) |
+| |
 
 ## What are those values?
 
@@ -61,8 +73,8 @@ A local (docker) version of YellowLabTools is used for the page analysis. It use
 The page analyser application generates markdown files that are rendered to a static web page by Zola.
 
 ```sh
-git clone https://git.sr.ht/~koehr/the-250kb-club 250kb-club
-# or: git clone https://github.com/nkoehring/250kb-club.git
+git clone https://codeberg.org/koehr/250kb-club.git
+# or: git clone https://git.sr.ht/~koehr/the-250kb-club 250kb-club
 cd 250kb-club
 mkdir -m a+rwx yltresults # for access to YLT results
 ```
