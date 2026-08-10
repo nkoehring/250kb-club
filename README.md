@@ -1,6 +1,6 @@
-# 250kb-club
+# The 250kB Club moved to [Codeberg](https://codeberg.org/koehr/250kb-club/)!
 
-The club moved to [Codeberg](https://codeberg.org/koehr/250kb-club/)! This is a public archive and signpost now.
+This is a public archive and signpost now.
 
 | |
 |---|
